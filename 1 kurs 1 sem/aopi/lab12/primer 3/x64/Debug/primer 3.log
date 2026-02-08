@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab12\primer 3\Source.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  primer 3.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab12\Project1\x64\Debug\primer 3.exe

@@ -1,0 +1,43 @@
+$s:20px;
+$shrift:Arial, Helvetica, sans-serif;
+$r:relative;
+$si:140px;
+$b:bisque;
+%label{display: block;margin:15px 0px 15px 10px;font-size:$s;font-family:$shrift;}
+%input{float:right;font-size:$s;background-color:rgb(219, 131, 7);color:rgba(255, 255, 255, 1);box-shadow: inset 0 0 10px rgba(255, 255, 255, .75);border-radius:10px;}
+@mixin button{ width: 135px;
+    height: 35px;
+    background-color:chocolate;
+    box-shadow: 0 0 4px white;
+    color: white;
+    border-radius: 5px;
+    margin:15px 2px 2px 3px;
+    position:$r;left:300px;
+}
+@mixin h1{font-family:$shrift;text-align: center;}
+%form{padding:3px 10px 20px 10px;width: 90%;background-color: sandybrown;margin:0 auto;border-radius:$s;margin-top:20px;}
+%img{float:left;height:$si;width:$si;position:$r;margin:0px 10px 20px 10px;}
+$h1: 40px;
+$h2:40px;
+$green:green;
+$yellow:yellow;
+$color:rgb(87, 89, 77);
+@function m()
+{
+    @return ($h1*0.4);
+}
+
+@function r()
+{
+    
+@if ($h1>$s and $h1<=$h2)
+{
+    @return $color;
+}
+@else if ($h1>$h2 or $h1==$s)
+{
+    @return $green;
+}
+@else {@return $yellow;}
+
+}

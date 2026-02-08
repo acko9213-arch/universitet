@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038D1404-1422-4D44-83DF-161CA474F286}|var15z1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{038D1404-1422-4D44-83DF-161CA474F286}|var15z1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5069E211-95D3-4F28-967E-6C9A67C8A1F9}|..\\primer 2\\primer 2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD3333-6E81-4352-AE97-726662AEFFA4}|..\\primer1\\primer1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8511E166-291B-48DD-8E1B-397E16491AAE}|..\\var15z2\\var15z2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer 2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\primer 2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer 2\\Source.cpp",
+              "RelativeToolTip": "..\\primer 2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T18:35:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer1\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\primer1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\primer1\\Source.cpp",
+              "RelativeToolTip": "..\\primer1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T18:31:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\var15z2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z2\\Source.cpp",
+              "RelativeToolTip": "..\\var15z2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T14:43:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z1\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab13\\var15z1\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T14:42:49.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

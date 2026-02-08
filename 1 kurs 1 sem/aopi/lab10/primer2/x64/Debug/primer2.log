@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\primer2\Source.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\primer2\Source.cpp(8,29): warning C4305: инициализация: усечение из "double" в "float"
+  primer2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\Project1\x64\Debug\primer2.exe

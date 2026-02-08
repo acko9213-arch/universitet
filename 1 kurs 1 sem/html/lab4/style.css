@@ -1,0 +1,19 @@
+div {margin:0;padding: 0;}
+
+.first {box-sizing: border-box;
+    border:     5px solid black;
+    
+    display: inline-block;
+   
+    height: 100px;
+    width: 100px;
+       
+    text-align: center;}
+    .second {box-sizing: content-box;
+    border:  5px solid black;
+
+    display: inline-block;
+   
+    height: 90px;
+    width: 90px;
+    text-align:  center;}

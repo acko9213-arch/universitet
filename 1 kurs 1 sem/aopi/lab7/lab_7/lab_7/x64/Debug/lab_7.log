@@ -1,0 +1,5 @@
+﻿  z1var15.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\lab_7\z1var15.cpp(5,10): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\lab_7\z1var15.cpp(5,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\lab_7\z1var15.cpp(14,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab_7.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\lab_7\x64\Debug\lab_7.exe

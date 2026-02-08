@@ -1,0 +1,4 @@
+﻿  PRIMER1.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\PRIMER1\PRIMER1.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\PRIMER1\PRIMER1.cpp(5,18): warning C4305: инициализация: усечение из "double" в "float"
+  PRIMER1.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab7\lab_7\x64\Debug\PRIMER1.exe

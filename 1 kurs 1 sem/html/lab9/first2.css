@@ -1,0 +1,7 @@
+.grid {display: grid;grid-gap: 5px;grid-template-columns:  690px 690px 100px;grid-template-rows: 350px 350px ;
+    grid-template-areas: 
+ "x y z1"
+ "x z z1";}
+div div {font-size: 23px;}
+.qw {text-align: center;font-size: 100px;vertical-align: middle;writing-mode: vertical-lr;
+    text-orientation: upright;}

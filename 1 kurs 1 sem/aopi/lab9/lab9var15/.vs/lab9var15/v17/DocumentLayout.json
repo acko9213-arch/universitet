@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\lab9var15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599537E7-C7BD-493D-AD9F-49441FD6047C}|..\\dixtomia\\dixtomia.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\dixtomia\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A5539A-8CFF-4971-8291-F0ED72D322AB}|lab9var15.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\lab9var15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48A5539A-8CFF-4971-8291-F0ED72D322AB}|lab9var15.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1674BE7C-06C7-4BB2-B74C-18E296248720}|..\\var15parabolsa\\var15parabolsa.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\var15parabolsa\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\lab9var15\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\lab9var15\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T23:16:36.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\var15parabolsa\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\var15parabolsa\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\var15parabolsa\\Source.cpp",
+              "RelativeToolTip": "..\\var15parabolsa\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T23:43:47.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\dixtomia\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\dixtomia\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab9\\dixtomia\\Source.cpp",
+              "RelativeToolTip": "..\\dixtomia\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T00:34:34.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

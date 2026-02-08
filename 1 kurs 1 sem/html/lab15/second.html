@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="second.css">
+    <title>Данные студента</title>
+</head>
+<body>
+    <form>
+        <h1>Данные студента</h1>
+       <label for="name">Имя студента <input type="text" placeholder="обязательно заполнить" required id="name"></label>
+            <label for="sname">Отчество студента <input type="text" placeholder="обязательно заполнить" required
+                    id="sname"></label>
+            <label for="f">Фамилия студента <input type="text" placeholder="обязательно заполнить" required
+                    id="f"></label>
+            <label for="email">Адрес почты <input type="email" id="email"></label>
+            <label for="number">Контактный номер <input type="tel" id="number"></label>
+            <p id="qwe"><span>Какую социальную сеть вы используете?</span>
+ <label for="VK" ><input type="checkbox" id="VK">VK</label> 
+ <label for="Facebook"><input type="checkbox" id="Facebook" >Facebook</label> 
+  <label for="Instagram"><input type="checkbox" id="Instagram">Instagram</label> 
+</p>    
+<p><label for="fa">Факультет</label>
+
+                <select id="fa" >
+                    <option value="ИЭФ">ИЭФ</option>
+                    <option value="ФИТ">ФИТ</option>
+                    <option value="ХТИТ">ХТИТ</option>
+                    <option value="ТОВ">ТОВ</option>
+                    <option value="ЛХФ">ЛХФ</option>
+                </select>
+</p>
+<p class="fg">
+            <label for="g">Группа</label>
+
+                <select id="g">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                </select>
+                </p>
+                <p>
+            <lable for="c">Курс </label>
+                <select id="c" >
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </p>
+           
+
+            
+            
+    <div ><button type="button" class="bu">Отправить</button><button>Отмена</button></div>
+    </form>
+<footer id="fo"></footer>
+    <script src="js/second.js"></script>
+</body>
+</html>

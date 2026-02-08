@@ -1,0 +1,18 @@
+.grid {display:grid;
+grid-template-areas:
+"x x x"
+"y z v"
+"b b b";
+grid-template-columns:
+250px 900px 350px;
+grid-template-rows:
+80px 550px 80px;
+grid-gap: 5px;
+}
+
+a,h4{display: block;font-size: 40px;text-decoration: none;text-align: center;padding-top:20px;}
+
+footer:nth-child(5) p {font-size: 35px;position: relative;top:-15px;text-align: center;}
+header:nth-child(1) p {font-size: 20px;margin: 0px;}
+article:nth-child(3) p {font-size: 35px;margin: 0px;}
+aside:nth-child(4) p {font-size: 32px;margin: 0px;}

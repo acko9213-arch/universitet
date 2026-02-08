@@ -1,0 +1,18 @@
+h1,h2,h3 {
+ font-family: 'Monotype Corsiva', sans-serif;
+ color:rgb(174, 0, 255);
+ 
+}
+td, th {
+
+    text-align: center;
+}
+.p1 { font-family:'Times New Roman', sans-serif;
+ color:rgb(255, 0, 0);
+ font-size:18pt;}
+.p2 {font-family:'Times New Roman', sans-serif;
+ color:rgb(255, 251, 0);
+ font-size:20pt;}
+.p3 {font-family:'Times New Roman', sans-serif;
+ color:rgb(0, 255, 8);
+ font-size:22pt;}

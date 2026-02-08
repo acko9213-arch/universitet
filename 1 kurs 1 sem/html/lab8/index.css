@@ -1,0 +1,40 @@
+aside {
+    float: right;
+    position: relative;
+    bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    border: 2px solid black;
+    padding: 15px 30px;
+    background-color: gray;
+}
+
+a[href$="third.html"]:link {
+    color: red;
+}
+
+a[href$="second.html"]:visited {
+    color: #8B0000;
+}
+
+a[href$="first.html"]:hover {
+    color: green;
+}
+
+a[href$="Блочная модель.html"]:active {
+    color: rgb(184, 134, 11)
+}

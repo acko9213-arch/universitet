@@ -1,0 +1,155 @@
+@import url(1.css)(min-width:480px) and (max-width:768px);
+
+.flex {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;    margin-left: 40px;
+
+    justify-content: space-between;
+}
+
+header{    margin-left: 40px;
+}
+
+
+video,
+audio {
+    width: 100%;margin-top:20px;
+}
+
+ul li a {
+    text-decoration: none;
+    border: 1px solid black;
+    display: inline-block;
+    font-size: 20px;
+    width: 110px;
+    text-align: center;
+    background-color: gray;
+    font-weight: bold;
+}
+
+.qwe img {
+    width: 25px;
+    height: 25px;
+    display: none;
+    position: absolute;
+}
+
+li {
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.nav {
+    position: relative;
+    top: -45px;
+    left: 60px;
+    width: 80%;
+    
+}
+
+.flex>div {
+    width: 30%;
+}
+
+
+
+
+
+.flex1 {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.flex1 img {
+    width: 330px;
+    height: 330px;
+
+}
+
+.header,
+.flex,
+.flex1 {
+    width: 95%;
+}
+
+@media (max-width:1280px) {
+    .flex>div {
+        width: 100%;
+    }
+
+    .header {
+        width: 35%;
+    }
+
+    .flex1 img {
+        width: 100vw;
+        margin: 0;
+
+
+
+    }
+
+    .flex1 {
+        justify-content: center;
+    }
+
+    .flex {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    video,
+    audio {
+        width: 100%;
+    }
+
+    li {
+        display: block;
+    }
+
+    p {
+        display: block;
+    }
+
+}
+
+@media (max-width:480px) {
+    header ul {
+        margin-bottom: 60px;
+        position: relative;
+        left: 70px;
+        top: -45px;
+    }
+  
+  .flex{width: 80%;}
+    .qw {
+        display: none;
+    }
+
+    .qwe img {
+        display: inline;
+        position: absolute;
+    }
+
+    div {
+        margin-left: 20px;
+    }
+
+    header ul .qwe:hover ul {
+        display: block;
+        padding: 0px;
+        position: absolute;
+        top: 3px;
+    }
+}
+
+figcaption {
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+}
+

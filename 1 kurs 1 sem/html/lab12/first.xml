@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="first.css"?>
+<books>
+<head>
+<razmer>Информация о пяти товарах</razmer>
+</head>
+<inf>
+<proccesor>Процессор AMD Ryzen 9 9950X</proccesor>
+<text1>2024 г, Granite Ridge (Zen 5), сокет AM5, 16 ядер, 32 потока, частота 5.7/4.3 ГГц, кэш 16 МБ + 64 МБ, техпроцесс 4 нм, поддержка DDR5, TDP 170W, OEM (без коробки, без кулера)</text1>
+<cena>1730,09 р.</cena>
+</inf>
+<inf>
+<proccesor>Процессор AMD Ryzen 5 7500F</proccesor>
+<text1>2023 г, Raphael (Zen 4), сокет AM5, 6 ядер, 12 потоков, частота 5/3.7 ГГц, кэш 6 МБ + 32 МБ, техпроцесс 5 нм, поддержка DDR5, TDP 65W, OEM (без коробки, без кулера)</text1>
+<cena>469,99 р.</cena>
+</inf>
+<inf>
+<proccesor>Процессор AMD Ryzen 7 7800X3D</proccesor>
+<text1>2023 г, Raphael (Zen 4), сокет AM5, 8 ядер, 16 потоков, частота 5/4.2 ГГц, кэш 8 МБ + 96 МБ, техпроцесс 5 нм, поддержка DDR5, TDP 120W, OEM (без коробки, без кулера)
+
+</text1>
+<cena>600,99 р.</cena>
+</inf>
+<inf>
+<proccesor>Процессор Intel Core i5-12400F</proccesor>
+<text1>2022 г, Alder Lake, сокет LGA1700, 6 ядер, 12 потоков, частота 4.4/2.5 ГГц, кэш 7.5 МБ + 18 МБ, техпроцесс 10 нм, поддержка DDR5/DDR4, TDP 65W, OEM (без коробки, без кулера)</text1>
+<cena>800,09 р.</cena>
+</inf>
+<inf>
+<proccesor>Процессор AMD Ryzen 5 3600</proccesor>
+<text1>2019 г, Matisse (Zen 2), сокет AM4, 6 ядер, 12 потоков, частота 4.2/3.6 ГГц, кэш 3 МБ + 32 МБ, техпроцесс 7 нм, поддержка DDR4, TDP 65W, OEM (без коробки, без кулера)</text1>
+<cena>1530,09 р.</cena>
+</inf>
+</books>

@@ -1,0 +1,7 @@
+table {border-spacing: 0px;}
+td,th {text-align: center;}
+tr:first-child td:first-child, tr:last-child td:last-child {empty-cells: hide;}
+th {background-color:darkblue;}
+tr td, th {border:2px solid gray;padding: 5px 3px 5px 3px;color:white;font-size: 20px;}
+caption {font-size: 1.2em;text-align: center;}
+td:first-child {font-weight: bold;color:black;}

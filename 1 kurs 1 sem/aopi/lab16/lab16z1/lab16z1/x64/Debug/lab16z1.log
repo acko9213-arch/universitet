@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab16\lab16z1\Source.cpp(48,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab16\lab16z1\Source.cpp(42,15): warning C4101: i: неиспользованная локальная переменная
+  lab16z1.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab16\lab16z1\x64\Debug\lab16z1.exe

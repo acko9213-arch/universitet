@@ -1,0 +1,7 @@
+div {height: 100px;width: 100px;display: inline-block;}
+.q {background-image:linear-gradient(to bottom,blue,red);}
+.w {background-image: repeating-linear-gradient(45deg, red, red 10px, blue 10px, blue 20px );}
+.e {background-image: radial-gradient(yellow,green);}
+.r {background-image: repeating-radial-gradient(green, green 6px, yellow 6px, yellow 12px);}
+.t { background-image:radial-gradient(circle, yellow, green, transparent),
+        linear-gradient(to top, magenta, blue);}

@@ -1,0 +1,12 @@
+*.drawio
+*.svg
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.bkp
+*.ipch
+*.inch

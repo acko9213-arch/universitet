@@ -1,0 +1,38 @@
+form {background-color:indigo ;  width: 470px;
+    height: 500px;  font-size: 1.2em;
+    padding: 20px;color:white;}
+label{display:inline-block;margin:3px 0px 0px 0px; width: 100%;}
+input[type="text"],input[type="email"]  {background-color: rgba(255, 255, 255, .5);color:rgba(255, 255, 255, 1);box-shadow: inset 0 0 10px rgba(255, 255, 255, .75);margin:3px 10px 10px 10px;width: 230px;}
+input {border-radius: 5px;   padding: 5px; border: none;float:right; outline: none;}
+select {border-radius: 0px;margin:0px 10px 10px 180px;position: relative;bottom:20px;}
+
+input[type="text"]:focus {background-color:white ;color:black;}
+.em {margin-top:20px;}
+h1 {font-size: 1.2em;margin-top: 0;
+}
+button{
+
+    width: 130px;
+    height: 35px;
+    background-color: navy;
+    box-shadow: 0 0 4px white;
+    color: white;
+    border-radius: 5px;
+    margin:2px 2px 2px 2px;
+}
+div{
+    display: inline-block;
+    margin:20px 5px 20px 170px;
+   
+
+   
+}
+p {margin:0px;}
+input[type="date"] { 
+     position: relative;
+    right:127px;border-radius: 0px;}
+
+span {display: inline-block;margin:0px;}
+
+label[for="man"] ,label[for="woman"]{float:right;width: 126px;display: flex;margin:0px}
+input[id="man"] {margin-left:0px;}

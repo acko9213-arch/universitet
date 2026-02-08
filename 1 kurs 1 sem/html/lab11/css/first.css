@@ -1,0 +1,153 @@
+.flex > aside form label {
+  display: block;
+  margin: 15px 0px 15px 10px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex > aside form label input {
+  float: right;
+  font-size: 20px;
+  background-color: rgb(219, 131, 7);
+  color: rgb(255, 255, 255);
+  box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+}
+
+.flex > aside form {
+  padding: 3px 10px 20px 10px;
+  width: 90%;
+  background-color: sandybrown;
+  margin: 0 auto;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.flex > aside div img {
+  float: left;
+  height: 140px;
+  width: 140px;
+  position: relative;
+  margin: 0px 10px 20px 10px;
+}
+
+.flex {
+  display: flex;
+  gap: 20px;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.flex > header {
+  width: 100%;
+  border-radius: 20px;
+  background-image: url("../i.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.flex > header img {
+  height: 100px;
+  width: 100px;
+  display: inline;
+  float: left;
+  margin: 5px;
+}
+.flex > header ul {
+  float: right;
+  margin: 47px 40px 0px 0px;
+}
+.flex > header ul li {
+  display: inline;
+  border: 2px solid black;
+  padding: 10px 15px;
+  background-color: burlywood;
+  margin: 10px;
+  border-radius: 5px;
+}
+.flex > header ul li a {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex > div {
+  background-color: bisque;
+  border-radius: 20px;
+  text-align: center;
+  width: 62%;
+}
+.flex > div h1:nth-child(1) {
+  font-size: 40px;
+}
+.flex > div .z {
+  display: flex;
+  align-items: flex-start;
+}
+.flex > div .z p {
+  width: 33%;
+  display: inline-block;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+}
+.flex > div img {
+  display: inline-block;
+  height: 150px;
+  width: 140px;
+  margin-top: 20px;
+}
+.flex > div figure {
+  display: inline-block;
+}
+.flex > div figcaption {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.flex > div h1 {
+  margin: 40px;
+}
+
+.flex > aside {
+  width: 36%;
+  background-color: bisque;
+  border-radius: 20px;
+}
+.flex > aside div p {
+  font-size: 16px;
+}
+.flex > aside h1 {
+  font-size: 40px;
+}
+.flex > aside form div button {
+  width: 135px;
+  height: 35px;
+  background-color: chocolate;
+  box-shadow: 0 0 4px white;
+  color: white;
+  border-radius: 5px;
+  margin: 15px 2px 2px 3px;
+  position: relative;
+  left: 300px;
+}
+
+.flex > footer {
+  width: 100%;
+  background-color: bisque;
+  border-radius: 20px;
+}
+.flex > footer p {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+
+img {
+  border-radius: 3px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  color: rgb(87, 89, 77);
+}/*# sourceMappingURL=first.css.map */

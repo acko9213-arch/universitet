@@ -1,0 +1,7 @@
+﻿  main.cpp
+  find_latin_letter.cpp
+  find_russian_letter.cpp
+  find_number.cpp
+C:\Users\ppeen\OneDrive\Desktop\lab opi\lab7\lab7\find_number.cpp(11,13): warning C4101: b: неиспользованная локальная переменная
+  Создание кода...
+  lab_06z3.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\lab opi\lab7\lab7\x64\Debug\lab_06z3.exe

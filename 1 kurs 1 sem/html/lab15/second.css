@@ -1,0 +1,44 @@
+span {display: inline-block;margin-top:10px;width: 40%;}
+
+label[for="VK"] ,label[for="Instagram"],label[for="Facebook"]{float:right;width: 104px;display: flex;margin:0px;position: relative;right:-20px;}
+input[id="Instagram"] {margin-left:0px;}
+div{
+    display: inline-block;
+    margin:20px 5px 20px 265px;
+   
+
+   
+}
+form {background-color:indigo ;  width: 550px;
+      font-size: 1.2em;
+    padding: 20px;color:white;margin:auto;}
+label{display:inline-block;margin:3px 0px 0px 0px; width: 100%;}
+input[type="text"],input[type="email"],input[type="tel"]  {background-color: rgba(255, 255, 255, .5);color: black;box-shadow: inset 0 0 10px rgba(255, 255, 255, .75);margin:3px 10px 10px 10px;width: 270px;}
+input {border-radius: 5px;   padding: 5px; border: none;float:right; outline: none;}
+select {border-radius: 5px;  padding: 5px; border: none;float:right; outline: none;float:right;width: 280px;background-color: rgba(255, 255, 255, .5);box-shadow: inset 0 0 10px rgba(255, 255, 255, .75);margin:2px 10px 3px 10px;}
+#g {position: relative;top:-25px;}
+#c {position: relative;top:-20px;}
+#fa {position: relative;top:-20px;}
+.fg {position: relative;top:-10px;}
+input[type="text"]:focus {background-color:white ;color:black;}
+.em {margin-top:20px;}
+h1 {font-size: 1.5em;margin-top: 0;text-align: center;
+}
+input::placeholder {color:black;}
+button{
+
+    width: 130px;
+    height: 35px;
+    background-color: navy;
+    box-shadow: 0 0 4px white;
+    color: white;
+    border-radius: 5px;
+    margin:2px 2px 2px 6px;
+}
+p {margin:0px;}
+input[type="date"] { 
+     position: relative;
+    right:127px;border-radius: 0px;}
+    footer{
+        margin-top:35px;
+    }

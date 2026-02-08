@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6var15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598669AA-27F1-400F-AE22-C76D99B476BF}|..\\lab6z3\\lab6z3.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6z3\\lab6var15z3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30D2ED-98F1-4527-8291-2195D2DC2257}|..\\lab6bat15z2\\lab6bat15z2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6bat15z2\\lab6var15z2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8897B0-4356-4A9C-BD0E-4D705CBC78DA}|lab6.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6var15\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D8897B0-4356-4A9C-BD0E-4D705CBC78DA}|lab6.vcxproj|solutionrelative:lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab6var15z2.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6bat15z2\\lab6var15z2.cpp",
+              "RelativeDocumentMoniker": "..\\lab6bat15z2\\lab6var15z2.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6bat15z2\\lab6var15z2.cpp",
+              "RelativeToolTip": "..\\lab6bat15z2\\lab6var15z2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T11:06:46.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab6var15z3.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6z3\\lab6var15z3.cpp",
+              "RelativeDocumentMoniker": "..\\lab6z3\\lab6var15z3.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6z3\\lab6var15z3.cpp",
+              "RelativeToolTip": "..\\lab6z3\\lab6var15z3.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T11:06:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab6.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6var15\\lab6.cpp",
+              "RelativeDocumentMoniker": "lab6.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab6\\lab6var15\\lab6.cpp",
+              "RelativeToolTip": "lab6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T10:51:17.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

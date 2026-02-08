@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab 8.13\Project1\Project2\Source.cpp(20,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab 8.13\Project1\Project2\Source.cpp(31,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab 8.13\Project1\Project2\Source.cpp(37,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab 8.13\Project1\Project2\Source.cpp(8,18): warning C4101: w: неиспользованная локальная переменная
+  Project2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab 8.13\Project1\x64\Debug\Project2.exe

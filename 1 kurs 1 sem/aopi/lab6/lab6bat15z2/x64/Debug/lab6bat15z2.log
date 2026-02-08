@@ -1,0 +1,5 @@
+﻿  lab6var15z2.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab6\lab6bat15z2\lab6var15z2.cpp(7,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab6\lab6bat15z2\lab6var15z2.cpp(17,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab6\lab6bat15z2\lab6var15z2.cpp(19,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab6bat15z2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab6\lab6var15\x64\Debug\lab6bat15z2.exe

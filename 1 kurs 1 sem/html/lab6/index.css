@@ -1,0 +1,23 @@
+.center {text-align: center;}
+ul li:before {content: "";
+    background-image: url(лимон.jpg);
+display: inline-block;
+height: 15px;
+width: 15px;
+background-size: contain;
+vertical-align: middle;
+}
+ul{list-style-type:none;}
+td {text-align: center;}
+html {background-image: url(загружено.png);background-repeat: no-repeat;background-position:top right;background-attachment:fixed;}
+table {border-collapse:collapse; }
+td,th{border:1px solid black;}
+div {display:inline-block;margin:0px;}
+p {text-indent: 25px;}
+img { background-size:contain;}
+div img{height: 300px;width: 200px;}
+.g {float:left;}
+.k {float:right;}
+span{
+    color: red;
+}

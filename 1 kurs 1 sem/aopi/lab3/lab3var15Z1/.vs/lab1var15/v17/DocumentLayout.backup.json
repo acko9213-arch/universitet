@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab3var15Z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DBC95E-8D0C-4982-9093-4E90B319904D}|..\\\u042F\u0426\u041A\u041E3\\\u042F\u0426\u041A\u041E3.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\\u042F\u0426\u041A\u041E3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4F583-9D0B-4C3E-8137-5CF174B80C8B}|..\\lab1var15Z2\\lab1var15Z2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab1var15Z2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE92F5B1-F7CC-4171-A01B-F1A82F3F8D2C}|lab1var15.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab3var15Z1\\lab1var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE92F5B1-F7CC-4171-A01B-F1A82F3F8D2C}|lab1var15.vcxproj|solutionrelative:lab1var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3495D98-BA34-451F-BC80-CDA187B247EC}|..\\Project1\\Project1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\Project1\\PRIMER1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\\u042F\u0426\u041A\u041E3\\main.cpp",
+              "RelativeDocumentMoniker": "..\\\u042F\u0426\u041A\u041E3\\main.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\\u042F\u0426\u041A\u041E3\\main.cpp",
+              "RelativeToolTip": "..\\\u042F\u0426\u041A\u041E3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T13:36:43.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PRIMER1.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\Project1\\PRIMER1.cpp",
+              "RelativeDocumentMoniker": "..\\Project1\\PRIMER1.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\Project1\\PRIMER1.cpp",
+              "RelativeToolTip": "..\\Project1\\PRIMER1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T10:15:51.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab1var15Z2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\lab1var15Z2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab1var15Z2\\Source.cpp",
+              "RelativeToolTip": "..\\lab1var15Z2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T09:51:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab1var15.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab3var15Z1\\lab1var15.cpp",
+              "RelativeDocumentMoniker": "lab1var15.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\aopi\\lab3\\lab3var15Z1\\lab1var15.cpp",
+              "RelativeToolTip": "lab1var15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T18:25:05.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

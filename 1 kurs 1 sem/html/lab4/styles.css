@@ -1,0 +1,32 @@
+.first {
+    margin-top: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px;
+}
+
+span {
+    margin: 5px;
+    display: inline-block;
+    padding: 5px;
+    background-color: #FFA500;
+    border: 3px solid #FF4500;
+}
+
+.second {
+    width: 400px;
+   
+    border: 2px solid #FF7F50;
+    margin: auto;
+}
+
+.three {
+    border: 5px solid red;
+    border-radius: 20px/40px;
+    overflow: auto;
+    box-shadow: inset 2px 2px 8px 8px rgba(0, 0, 0, .5);
+}
+
+.four {
+    border: 2px solid #FF6347;
+}

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\VAR15Z1\Source.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\VAR15Z1\Source.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  VAR15Z1.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab10\Project1\x64\Debug\VAR15Z1.exe

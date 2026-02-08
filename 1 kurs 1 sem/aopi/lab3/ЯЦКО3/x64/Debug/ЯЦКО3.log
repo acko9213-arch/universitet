@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab3\ЯЦКО3\main.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ЯЦКО3.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab3\lab3var15Z1\x64\Debug\ЯЦКО3.exe

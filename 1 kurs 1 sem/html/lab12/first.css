@@ -1,0 +1,28 @@
+razmer {
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+
+inf {
+    display: table-row;
+    margin: 3px 0px 3px 0px
+}
+
+proccesor {
+    font-size: 25px;
+    color: blue;
+    display: table-cell;
+    border: 1px solid gray;
+}
+
+text1,
+cena {
+    display: table-cell;
+    border: 1px solid gray;
+}
+
+cena {
+    font-size: 17px;
+    color: red;
+}

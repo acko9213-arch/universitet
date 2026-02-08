@@ -1,0 +1,43 @@
+nav li:hover ul {
+    display: block;
+    visibility: visible;
+}
+
+li {
+    list-style-type: none;
+}
+
+.second {
+    visibility: hidden;
+}
+
+.nav1 {
+    border: 1px solid black;
+    height: 25px;
+    width: 250px;
+    background-color: yellow;
+    padding: 7px 1px 0px 4px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.second li,
+.second li:first-child {
+    border: 2px dashed black;
+    height: 25px;
+    width: 150px;
+    background-color: orange;
+    padding: 7px 1px 0px 4px;
+  
+}
+
+ul .qw {
+    border-top: none;
+    border-bottom: none;
+}
+nav ul {position:absolute; position: relative;
+    right: 45px;
+    top: 6.5px;}
+nav>ul>li {position: relative;}

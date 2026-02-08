@@ -1,0 +1,3 @@
+﻿  var15z2.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab15\Project2\var15z2.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab15\Project1\x64\Debug\Project2.exe

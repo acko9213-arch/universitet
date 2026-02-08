@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab8\lab 8.15\primer2\Source.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab8\lab 8.15\primer2\Source.cpp(9,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\aopi\lab8\lab 8.15\primer2\Source.cpp(10,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  primer2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\aopi\lab8\lab 8.15\x64\Debug\primer2.exe

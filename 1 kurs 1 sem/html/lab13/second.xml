@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="second.xsl"?>
+<book>
+<names>Ведомость успеваемости</names>
+<table> 
+    <unit>
+        <name>Бакачёва А. Д.</name>
+        <mat>7</mat>
+        <grinuk>6</grinuk>
+        <geom>8</geom>
+        <opi>5</opi>
+        <beloded>9</beloded>
+        <bel>7</bel>
+        <angl>8</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Баран А. В.</name>
+        <mat>6</mat>
+        <grinuk>8</grinuk>
+        <geom>5</geom>
+        <opi>7</opi>
+        <beloded>9</beloded>
+        <bel>6</bel>
+        <angl>8</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Барташевич А. А.</name>
+        <mat>8</mat>
+        <grinuk>5</grinuk>
+        <geom>6</geom>
+        <opi>7</opi>
+        <beloded>9</beloded>
+        <bel>8</bel>
+        <angl>6</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Белокуров В. П.</name>
+        <mat>5</mat>
+        <grinuk>7</grinuk>
+        <geom>8</geom>
+        <opi>6</opi>
+        <beloded>9</beloded>
+        <bel>2</bel>
+        <angl>8</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Блажевич А. В.</name>
+        <mat>9</mat>
+        <grinuk>6</grinuk>
+        <geom>7</geom>
+        <opi>5</opi>
+        <beloded>8</beloded>
+        <bel>9</bel>
+        <angl>6</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Болгов М. В.</name>
+        <mat>6</mat>
+        <grinuk>9</grinuk>
+        <geom>5</geom>
+        <opi>7</opi>
+        <beloded>8</beloded>
+        <bel>6</bel>
+        <angl>9</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Бондарович В. И.</name>
+        <mat>7</mat>
+        <grinuk>6</grinuk>
+        <geom>9</geom>
+        <opi>5</opi>
+        <beloded>8</beloded>
+        <bel>7</bel>
+        <angl>6</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Браницкий Д. В.</name>
+        <mat>8</mat>
+        <grinuk>7</grinuk>
+        <geom>6</geom>
+        <opi>9</opi>
+        <beloded>5</beloded>
+        <bel>3</bel>
+        <angl>7</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Бут-Гусаим А. В.</name>
+        <mat>5</mat>
+        <grinuk>8</grinuk>
+        <geom>7</geom>
+        <opi>6</opi>
+        <beloded>9</beloded>
+        <bel>5</bel>
+        <angl>8</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Виничек В. И.</name>
+        <mat>9</mat>
+        <grinuk>7</grinuk>
+        <geom>6</geom>
+        <opi>8</opi>
+        <beloded>5</beloded>
+        <bel>9</bel>
+        <angl>7</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Волчук Е. В.</name>
+        <mat>6</mat>
+        <grinuk>8</grinuk>
+        <geom>9</geom>
+        <opi>5</opi>
+        <beloded>7</beloded>
+        <bel>6</bel>
+        <angl>8</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Даньков А. В.</name>
+        <mat>7</mat>
+        <grinuk>3</grinuk>
+        <geom>8</geom>
+        <opi>9</opi>
+        <beloded>6</beloded>
+        <bel>7</bel>
+        <angl>5</angl>
+        <phizra>8</phizra>
+    </unit>
+
+    <unit>
+        <name>Золотарёв П. В.</name>
+        <mat>8</mat>
+        <grinuk>6</grinuk>
+        <geom>7</geom>
+        <opi>5</opi>
+        <beloded>9</beloded>
+        <bel>8</bel>
+        <angl>6</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Ильина К. В.</name>
+        <mat>5</mat>
+        <grinuk>9</grinuk>
+        <geom>6</geom>
+        <opi>7</opi>
+        <beloded>8</beloded>
+        <bel>5</bel>
+        <angl>9</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Исаева Д. Д.</name>
+        <mat>6</mat>
+        <grinuk>7</grinuk>
+        <geom>9</geom>
+        <opi>8</opi>
+        <beloded>5</beloded>
+        <bel>6</bel>
+        <angl>7</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Казаков Н. В.</name>
+        <mat>3</mat>
+        <grinuk>5</grinuk>
+        <geom>7</geom>
+        <opi>6</opi>
+        <beloded>8</beloded>
+        <bel>9</bel>
+        <angl>5</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    
+    <unit>
+        <name>Клименко Р. В.</name>
+        <mat>3</mat>
+        <grinuk>5</grinuk>
+        <geom>7</geom>
+        <opi>6</opi>
+        <beloded>8</beloded>
+        <bel>9</bel>
+        <angl>5</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Клочко П. В.</name>
+        <mat>7</mat>
+        <grinuk>8</grinuk>
+        <geom>6</geom>
+        <opi>9</opi>
+        <beloded>5</beloded>
+        <bel>7</bel>
+        <angl>8</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Кузыченко Н. В.</name>
+        <mat>8</mat>
+        <grinuk>6</grinuk>
+        <geom>9</geom>
+        <opi>7</opi>
+        <beloded>5</beloded>
+        <bel>8</bel>
+        <angl>6</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Кухаренко К. М.</name>
+        <mat>6</mat>
+        <grinuk>9</grinuk>
+        <geom>7</geom>
+        <opi>5</opi>
+        <beloded>8</beloded>
+        <bel>6</bel>
+        <angl>9</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Лесько И. В.</name>
+        <mat>9</mat>
+        <grinuk>7</grinuk>
+        <geom>5</geom>
+        <opi>2</opi>
+        <beloded>8</beloded>
+        <bel>9</bel>
+        <angl>7</angl>
+        <phizra>5</phizra>
+    </unit>
+
+    <unit>
+        <name>Лисовский Р. М.</name>
+        <mat>5</mat>
+        <grinuk>8</grinuk>
+        <geom>6</geom>
+        <opi>9</opi>
+        <beloded>7</beloded>
+        <bel>5</bel>
+        <angl>8</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Микулич А. С.</name>
+        <mat>8</mat>
+        <grinuk>5</grinuk>
+        <geom>9</geom>
+        <opi>7</opi>
+        <beloded>6</beloded>
+        <bel>8</bel>
+        <angl>5</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Мухарский П. В.</name>
+        <mat>6</mat>
+        <grinuk>7</grinuk>
+        <geom>3</geom>
+        <opi>5</opi>
+        <beloded>9</beloded>
+        <bel>6</bel>
+        <angl>7</angl>
+        <phizra>8</phizra>
+    </unit>
+
+    <unit>
+        <name>Мухин П. П.</name>
+        <mat>7</mat>
+        <grinuk>9</grinuk>
+        <geom>6</geom>
+        <opi>8</opi>
+        <beloded>5</beloded>
+        <bel>7</bel>
+        <angl>9</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Осипов А. А.</name>
+        <mat>9</mat>
+        <grinuk>6</grinuk>
+        <geom>7</geom>
+        <opi>5</opi>
+        <beloded>8</beloded>
+        <bel>9</bel>
+        <angl>6</angl>
+        <phizra>7</phizra>
+    </unit>
+
+    <unit>
+        <name>Силко А. В.</name>
+        <mat>6</mat>
+        <grinuk>8</grinuk>
+        <geom>9</geom>
+        <opi>2</opi>
+        <beloded>5</beloded>
+        <bel>6</bel>
+        <angl>8</angl>
+        <phizra>9</phizra>
+    </unit>
+
+    <unit>
+        <name>Ханецкий Д. И.</name>
+        <mat>8</mat>
+        <grinuk>5</grinuk>
+        <geom>6</geom>
+        <opi>9</opi>
+        <beloded>7</beloded>
+        <bel>8</bel>
+        <angl>5</angl>
+        <phizra>6</phizra>
+    </unit>
+
+    <unit>
+        <name>Цыганок М. О.</name>
+        <mat>5</mat>
+        <grinuk>7</grinuk>
+        <geom>8</geom>
+        <opi>6</opi>
+        <beloded>9</beloded>
+        <bel>5</bel>
+        <angl>7</angl>
+        <phizra>8</phizra>
+    </unit>
+
+    <unit>
+        <name>Шеремета Я. И.</name>
+        <mat>7</mat>
+        <grinuk>8</grinuk>
+        <geom>5</geom>
+        <opi>3</opi>
+        <beloded>6</beloded>
+        <bel>7</bel>
+        <angl>8</angl>
+        <phizra>5</phizra>
+    </unit>
+
+    <unit>
+        <name>Яцко А. И.</name>
+        <mat>9</mat>
+        <grinuk>6</grinuk>
+        <geom>8</geom>
+        <opi>7</opi>
+        <beloded>5</beloded>
+        <bel>9</bel>
+        <angl>6</angl>
+        <phizra>8</phizra>
+    </unit>
+
+</table>
+</book>

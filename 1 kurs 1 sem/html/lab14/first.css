@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Monotype Corsiva", sans-serif;
+  color: rgb(174, 0, 255);
+}
+
+table {
+  border-collapse: collapse;
+}
+table tr th, table tr td {
+  color: pink;
+  text-align: center;
+  border: 1px solid black;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  color: #00f;
+  font-size: 16pt;
+}
+
+ol li .p1 {
+  font-family: "Times New Roman", sans-serif;
+  list-style-type: disc;
+  color: rgb(255, 0, 0);
+  font-size: 18pt;
+}
+ol li .p2 {
+  font-family: "Times New Roman", sans-serif;
+  list-style-type: square;
+  color: rgb(255, 251, 0);
+  font-size: 20pt;
+}
+ol li .p3 {
+  font-family: "Times New Roman", sans-serif;
+  color: rgb(0, 255, 8);
+  font-size: 22pt;
+}/*# sourceMappingURL=first.css.map */
