@@ -1,0 +1,415 @@
+@media (max-width: 480px) {
+  main div#modalwindow div#blackwindow {
+    width: 90%;
+    margin: 50% auto;
+  }
+  main div#modalwindow div#blackwindow .krest {
+    top: -5%;
+    right: 1%;
+    font-size: 10vw;
+  }
+  main div#modalwindow div#blackwindow .blockmodal p:first-child {
+    font-weight: bold;
+    font-size: 5vw;
+  }
+  main div#modalwindow div#blackwindow .blockmodal .avto,
+  main div#modalwindow div#blackwindow .blockmodal .cennik {
+    font-size: 4.2vw;
+  }
+  main div#modalwindow div#blackwindow .blockmodal .forma input {
+    padding: 3vw 3vw;
+    font-size: 3vw;
+    margin-top: 4vw;
+  }
+  main div#modalwindow div#blackwindow .blockmodal .forma button {
+    font-size: 3vw;
+    width: 45vw;
+    padding: 2.5vw 2.5vw;
+    margin: 4vw 0vw;
+  }
+  main div#modalwindow div#blackwindow .blockmodal .forma p.persona {
+    font-size: 3vw;
+  }
+  main div.main div.car div.slidu {
+    width: 100%;
+  }
+  main div.main div.car div.slidu .r,
+  main div.main div.car div.slidu .l {
+    width: 22px;
+    height: 22px;
+    font-size: 11px;
+  }
+  main div.main div.car .price0,
+  main div.main div.car .carinfo,
+  main div.main div.car .equip {
+    width: 100%;
+  }
+  main div.main div.car div.carinfo div.price0 div.obkredit button.kredit1 {
+    margin: 10px 0px;
+    border-radius: 10px;
+  }
+}
+@media (max-width: 768px) {
+  main div.modalwindow div#blackwindow {
+    width: 90%;
+    margin: 50% auto;
+  }
+  main div.modalwindow div#blackwindow .krest {
+    top: -6%;
+    right: -1%;
+    font-size: 8vw;
+  }
+  main div.modalwindow div#blackwindow .blockmodal p:first-child {
+    font-weight: bold;
+    font-size: 4vw;
+  }
+  main div.modalwindow div#blackwindow .blockmodal .avto,
+  main div.modalwindow div#blackwindow .blockmodal .cennik {
+    font-size: 3.5vw;
+  }
+  main div.modalwindow div#blackwindow .blockmodal .forma input {
+    padding: 2.5vw 2.5vw;
+    font-size: 2.5vw;
+  }
+  main div.modalwindow div#blackwindow .blockmodal .forma button {
+    font-size: 2.7vw;
+    width: 40vw;
+    padding: 1.5vw 1.5vw;
+  }
+  main div.modalwindow div#blackwindow .blockmodal .forma p.persona {
+    font-size: 2vw;
+  }
+}
+@media (max-width: 1066px) {
+  main div.modalwindow div.blackwindow {
+    width: 50%;
+    margin: 1% auto;
+  }
+  main div.modalwindow div.blackwindow .krest {
+    top: -6%;
+    right: -1%;
+  }
+  main div.modalwindow div.blackwindow .blockmodal p:first-child {
+    font-weight: bold;
+    font-size: 2.3vw;
+  }
+  main div.modalwindow div.blackwindow .blockmodal .avto,
+  main div.modalwindow div.blackwindow .blockmodal .cennik {
+    font-size: 2vw;
+    display: inline-block;
+  }
+  main div.modalwindow div.blackwindow .blockmodal .avto {
+    margin-right: 20px;
+  }
+  main div.modalwindow div.blackwindow .blockmodal .forma input {
+    padding: 1.3vw 1.3vw;
+    font-size: 1.4vw;
+  }
+  main div.modalwindow div.blackwindow .blockmodal .forma button {
+    font-size: 1.8vw;
+    width: 25vw;
+  }
+  main div.modalwindow div.blackwindow .blockmodal .forma p.persona {
+    font-size: 1.4vw;
+  }
+  main div.main div.car .carinfo .price0 {
+    justify-content: center;
+  }
+  main div.main div.car .carinfo .price0 .obprice,
+  main div.main div.car .carinfo .price0 .obkredit {
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+  }
+  main div.main div.car .carinfo .price0 .obprice .kredit2,
+  main div.main div.car .carinfo .price0 .obkredit .kredit2 {
+    font-size: 3.5vw;
+  }
+  main div.main div.car .carinfo .price0 .obprice .kredit1,
+  main div.main div.car .carinfo .price0 .obkredit .kredit1 {
+    margin: 20px 0px;
+  }
+}
+@media (max-width: 900px) {
+  main div.main div.car .carinfo .price0 {
+    font-size: 5vw;
+  }
+  main div.main div.car .carinfo .price0 .obkredit button.kredit1 {
+    font-size: 5vw;
+    padding: 3vw 4vw;
+  }
+  main div.main div.car .carinfo div.specs .spec {
+    font-size: 4vw;
+  }
+}
+main {
+  margin-top: 2vw;
+}
+main .main {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+main .main .high {
+  margin-left: 5px;
+}
+main .main .high span {
+  color: #737373;
+  font-size: 13px;
+}
+main .main .high a {
+  text-decoration: none;
+  color: #737373;
+  font-size: 13px;
+  outline: #EFF0F0 1px;
+}
+main .main .high a:hover {
+  color: #555;
+}
+main .main .car h1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+}
+main .main .car .line {
+  text-align: left;
+  background-color: #dcdcdc;
+  height: 1.3px;
+  margin: 20px 0px;
+  border-radius: 20px;
+}
+main .main .car .slidu {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+main .main .car .slidu .r,
+main .main .car .slidu .l {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  border: none;
+  width: 44px;
+  height: 44px;
+  -webkit-tap-highlight-color: transparent;
+  border-radius: 50%;
+  font-size: 22px;
+  cursor: pointer;
+  z-index: 10;
+}
+main .main .car .slidu .r:hover,
+main .main .car .slidu .l:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+main .main .car .slidu .r {
+  left: 12px;
+}
+main .main .car .slidu .l {
+  right: 12px;
+}
+main .main .car .slidu .slides {
+  display: flex;
+  transition: transform 0.4s ease;
+}
+main .main .car .slidu .slides .slide {
+  min-width: 100%;
+}
+main .main .car .slidu .slides .slide img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}
+main .main .car .equip {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+main .main .car .equip h2 {
+  font-size: 28px;
+  margin-left: 10px;
+}
+main .main .car .equip ul {
+  list-style-type: none;
+  margin-left: 20px;
+}
+main .main .car .equip ul li {
+  font-size: 20px;
+  line-height: 30px;
+}
+main .main .car .carinfo {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 22.5px;
+}
+main .main .car .carinfo .specs {
+  margin-bottom: 50px;
+}
+main .main .car .carinfo .specs .spec {
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  padding: 15px 20px;
+  font-size: 36px;
+  margin-top: 22.5px;
+}
+main .main .car .carinfo .specs .spec span {
+  width: 55%;
+  display: inline-block;
+  vertical-align: middle;
+}
+main .main .car .carinfo .specs .spec .spec1 {
+  width: 40%;
+  text-align: center;
+}
+main .main .car .carinfo .specs .spec:nth-child(1) {
+  text-align: center;
+}
+main .main .car .carinfo .price0 {
+  font-size: 36px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 15px 0vw;
+}
+main .main .car .carinfo .price0 .obprice {
+  margin-left: 2vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 350px;
+}
+main .main .car .carinfo .price0 .obprice .price1 {
+  margin-right: 10px;
+}
+main .main .car .carinfo .price0 .obkredit {
+  margin: 0;
+  text-align: center;
+  justify-content: center;
+}
+main .main .car .carinfo .price0 .obkredit .kredit1 {
+  font-size: 36px;
+  background-color: #cc0000;
+  font-weight: bold;
+  padding: 15px 45px;
+  color: white;
+  border: none;
+  border-radius: 22px;
+  margin-bottom: 10px;
+}
+main .main .car .carinfo .price0 .obkredit .kredit1:hover {
+  background-color: #aa0000;
+}
+main .main .car .carinfo .price0 .obkredit .kredit1:active {
+  background-color: #880000;
+  transform: scale(0.97);
+}
+main .main .car .carinfo .price0 .obkredit .kredit2 {
+  font-size: 30px;
+}
+main .main .car .carinfo .price0 .obkredit {
+  margin-right: 5vw;
+}
+main .modalwindow {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+main .modalwindow .blackwindow {
+  background-color: transparent;
+  margin: 7% auto;
+  padding: 20px;
+  width: 30%;
+  border-radius: 5px;
+  position: relative;
+}
+main .modalwindow .blackwindow .krest {
+  cursor: pointer;
+  font-size: 6vw;
+  top: -10%;
+  right: -7%;
+  color: white;
+  position: absolute;
+  z-index: 12000;
+}
+main .modalwindow .blackwindow .blockmodal {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  position: relative;
+  z-index: 1020;
+  width: 100%;
+}
+main .modalwindow .blackwindow .blockmodal p:first-child {
+  font-weight: bold;
+  font-size: 2vw;
+}
+main .modalwindow .blackwindow .blockmodal .avto, main .modalwindow .blackwindow .blockmodal .cennik {
+  font-size: 1.7vw;
+}
+main .modalwindow .blackwindow .blockmodal .forma {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+main .modalwindow .blackwindow .blockmodal .forma input::-moz-placeholder {
+  color: black;
+  opacity: 1;
+}
+main .modalwindow .blackwindow .blockmodal .forma input::placeholder {
+  color: black;
+  opacity: 1;
+}
+main .modalwindow .blackwindow .blockmodal .forma input:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+}
+main .modalwindow .blackwindow .blockmodal .forma input {
+  margin-top: 1.5vw;
+  padding: 1.1vw 1.1vw;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  background-color: #f0f0f0;
+  display: block;
+  font-size: 1vw;
+}
+main .modalwindow .blackwindow .blockmodal button {
+  margin-top: 1.5vw;
+  padding: 1.1vw 1.1vw;
+  width: 20vw;
+  border-radius: 5px;
+  -webkit-tap-highlight-color: transparent;
+  border: none;
+  background-color: #cc0000;
+  font-size: 0.9vw;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+main .modalwindow .blackwindow .blockmodal button:hover {
+  background-color: #aa0000;
+}
+main .modalwindow .blackwindow .blockmodal button:active {
+  background-color: #880000;
+  transform: scale(0.97);
+}
+main .modalwindow .blackwindow .blockmodal .persona {
+  margin-top: 1vw;
+  font-size: 0.8vw;
+  color: #ccc;
+}
+main .modalwindow .blackwindow .blockmodal .persona a {
+  color: #ccc;
+}/*# sourceMappingURL=car.css.map */

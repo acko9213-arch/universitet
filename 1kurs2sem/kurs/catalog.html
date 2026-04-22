@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/headerfooter.css">
+  <link rel="stylesheet" href="css/catalog.css">
+    <link rel="icon" type="png" href="images/log1.png">
+  <title>Каталог автосалона AutoElite</title>
+</head>
+
+<body>
+  <div class="burgerreal" id="burgerreal"></div>
+
+  <nav class="burgermenu" id="burgermenu">
+    <div class="header">
+      <span class="burgerclose" id="burgerclose">&times;</span>
+      <p class="brand">AutoElite <span>| на связи</span></p>
+    </div>
+
+    <ul class="list">
+      <li><a href="index.html">Главная</a></li>
+      <li><a href="catalog.html">Каталог авто</a></li>
+      <li><a href="news.html">Новости</a></li>
+      <li><a href="techcentr.html">Техцентр</a></li>
+      <li><a href="companyinfo.html">О компании</a></li>
+      <li><a href="error404.html">Отзывы</a></li>
+      <li><a href="contact.html">Контакты</a></li>
+      <li class="none"><a href="error404.html">Поиск</a></li>
+    </ul>
+
+  </nav>
+  <header>
+    <div id="modalid1" class="modal1">
+      <div class="mod1" id="window1">
+        <span class="close1">&times;</span>
+        <img src="images/cars2.png" class="img30" alt="">
+        <div class="fon01">
+          <p>Спасибо за обращение!</p>
+          <p>Наш менеджер свяжется с Вами<br>в ближайшее время</p>
+          <button type="button" id="but2">ОК</button>
+        </div>
+      </div>
+    </div>
+    <div id="modalid" class="modal">
+      <div class="mod" id="window">
+        <span class="close" id="close123">&times;</span>
+        <div>
+          <div class="fon0">
+            <div class="blockzv">
+              <p>Обратный звонок</p>
+              <form class="form23">
+                <input type="text" placeholder="Ваше имя">
+                <input type="text" placeholder="Ваш телефон">
+                <button type="button" id="but1">
+                  ПЕРЕЗВОНИТЕ МНЕ
+                </button>
+                <p class="zvonok">Нажимая кнопку “Перезвоните мне” Вы даете согласие на обработку своих
+                  персональных данных</p>
+              </form>
+            </div>
+          </div>
+          <div class="fon1"></div>
+        </div>
+      </div>
+    </div>
+    <div class="header-promo" id="promo">
+      <p class="phone-main">+375 (29) 647-00-23</p>
+      <p class="call-link" id="open1">
+        <img src="images/tel2.svg" alt="">
+        Обратный звонок
+      </p>
+    </div>
+    <div class="header-top">
+      <button class="burger" id="burger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="logo-block">
+        <img src="images/log.svg" alt="" id="img12">
+        <div class="logo-text">
+          <p id="logo">AutoElite</p>
+          <p id="logo1">Официальный дилер</p>
+        </div>
+        <div class="divider"></div>
+      </div>
+      <p class="slogan">
+        <span class="red">10 лет</span>превосходим<br>ваши ожидания
+      </p>
+      <ul class="firstmenu">
+        <li><a href="companyinfo.html">О компании</a></li>
+        <li><a href="error404.html">Отзывы</a></li>
+        <li><a href="contact.html">Контакты</a></li>
+      </ul>
+      <div class="phones">
+        <p class="phone-main">+375 (29) 647-00-23</p>
+        <p class="phone-second">+375 (44) 585-58-09</p>
+      </div>
+      <button class="call" id="open">ОБРАТНЫЙ ЗВОНОК</button>
+      <form class="form1" id="f">
+        <input type="text" placeholder="">
+        <button type="submit">
+          <img src="images/lupa.svg" alt="">
+        </button>
+      </form>
+    </div>
+    <div class="header-bottom">
+      <ul class="secondmenu">
+        <li><a href="catalog.html">КАТАЛОГ АВТО</a></li>
+        <li><a href="news.html">НОВОСТИ</a></li>
+        <li><a href="techcentr.html">ТЕХЦЕНТР</a></li>
+      </ul>
+
+
+      <form class="form">
+        <input type="text" placeholder="">
+        <button type="submit" id="but4">
+          <img src="images/lupa.svg" alt="">
+        </button>
+      </form>
+
+    </div>
+  </header>
+
+  <main>
+    <div class="main">
+      <div class="high">
+        <a href="index.html">Главная</a>
+        <span>/</span>
+        <a href="catalog.html">Каталог авто</a>
+      </div>
+
+      <div class="kart">
+        <h1>Каталог авто</h1>
+        <div class="line"></div>
+
+        <div class="filtr">
+          <h2>Быстрый подбор авто</h2>
+          <div class="allfiltr">
+            <div class="polsunok">
+              <div class="cena">
+                <div class="cena1"> <span>Цена</span>
+                  <div><output id="out" for="price"></output><span>BYN</span></div>
+                </div>
+
+                <input type="range" id="price" min="40000" max="150000" step="5000" value="100000">
+
+              </div>
+              <div class="polscena">
+
+                <span>
+                  <div></div>40т
+                </span>
+
+                <span>
+                  <div></div>150т
+                </span>
+              </div>
+            </div>
+
+
+            <div class="kusov">
+              <select>
+                <option selected>Тип кузова</option>
+                <option>Седан</option>
+                <option>Внедорожник</option>
+                  <option>Купе</option>
+                    <option>Универсал</option>
+                      <option>Кроссовер</option>
+              </select>
+               <span class="arrow"></span>
+            </div>
+
+            <div class="korob">
+              <select>
+                <option selected>КПП</option>
+                <option>Автомат</option>
+                <option>Механика</option>
+              </select>
+                  <span class="arrow"></span>
+            </div>
+
+            <div class="tip">
+              <select>
+                <option selected >Тип двигателя</option>
+                <option>Бензин</option>
+                <option>Дизель</option>
+                 <option>Электрический</option>
+                  <option>Гибрид</option>
+              </select>
+                  <span class="arrow"></span>
+            </div>
+
+            <div class="mark">
+              <select>
+                <option  value=""  selected >Все Марки</option>
+         <option disabled >Kia</option>
+<option disabled >Hyundai</option>
+<option disabled >Skoda</option>
+<option>Volkswagen</option>
+<option>Toyota</option>
+<option disabled >Brilliance</option>
+<option disabled >Changan</option>
+<option disabled >Chery</option>
+<option disabled >CheryExeed</option>
+<option disabled >Chevrolet</option>
+<option disabled >Citroen</option>
+<option disabled >Datsun</option>
+<option disabled >Dongfeng</option>
+<option disabled >DW Hower</option>
+<option disabled >FAW</option>
+<option disabled >Ford</option>
+<option disabled >Foton</option>
+<option disabled >Geely</option>
+<option disabled >Great Wall</option>
+<option disabled >Halima</option>
+<option disabled >Haval</option>
+<option disabled >Honda</option>
+<option disabled >JAC</option>
+<option disabled >Lada</option>
+<option>BMW</option>
+              </select>
+                  <span class="arrow"></span>
+            </div>
+          </div>
+        </div>
+      <div class="cards" id="cards">
+</div>
+
+      </div>
+      </div>
+  </main>
+  <footer>
+    <nav>
+      <ul class="footermenu">
+        <li><a href="techcentr.html">ТЕХЦЕНТР</a></li>
+        <li><a href="companyinfo.html">О КОМПАНИИ</a></li>
+        <li><a href="news.html">НОВОСТИ</a></li>
+      </ul>
+    </nav>
+
+
+    <div class="footermiddle">
+      <div class="catalog" id="catalog">
+        <p class="big">КАТАЛОГ АВТО</p>
+        <div class="red"></div>
+        <div class="catalog123" id="catalog123">
+            <ul>
+            <li><a href="error404.html">Kia</a></li>
+            <li><a href="error404.html">Hyundai</a></li>
+            <li><a href="error404.html">Skoda</a></li>
+            <li><a href="catalog.html?mark=Volkswagen">Volkswagen</a></li>
+            <li><a href="catalog.html?mark=Toyota">Toyota</a></li>
+            <li><a href="error404.html">Brilliance</a></li>
+          </ul>
+          <ul>
+            <li><a href="error404.html">Changan</a></li>
+            <li><a href="error404.html">Chery</a></li>
+            <li><a href="error404.html">CheryExeed</a></li>
+            <li><a href="error404.html">Chevrolet</a></li>
+            <li><a href="error404.html">Citroen</a></li>
+            <li><a href="catalog.html?mark=BMW">BMW</a></li>
+          </ul>
+          <ul>
+            <li><a href="error404.html">Dongfeng</a></li>
+            <li><a href="error404.html">DW Hower</a></li>
+            <li><a href="error404.html">FAW</a></li>
+            <li><a href="error404.html">Ford</a></li>
+            <li><a href="error404.html">Foton</a></li>
+            <li><a href="error404.html">Geely</a></li>
+          </ul>
+          <ul>
+            <li><a href="error404.html">Great Wall</a></li>
+            <li><a href="error404.html">Haima</a></li>
+            <li><a href="error404.html">Haval</a></li>
+            <li><a href="error404.html">Honda</a></li>
+            <li><a href="error404.html">JAC</a></li>
+            <li><a href="error404.html">Lada</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="work">
+        <p class="big">ВРЕМЯ РАБОТЫ</p>
+        <div class="red"></div>
+
+        <p class="work1">Пн - Сб 10:00 - 19:00</p>
+        <p class="work2">Вс 11:00 - 18:00</p>
+      </div>
+
+      <div class="contact">
+        <p class="big">КОНТАКТЫ</p>
+        <div class="red"></div>
+        <div class="contact1">
+          <img src="images/social/1.svg" alt="">
+          <div>
+            <p>+375 (29) 647-00-23</p>
+            <p>+375 (44) 585-58-09</p>
+          </div>
+        </div>
+
+        <div class="contact2">
+          <img src="images/social/2.svg" alt="">
+          <p>Ежедневно с 08:00 до 21:00</p>
+        </div>
+        <div class="contact3">
+          <img src="images/social/3.svg" alt="">
+
+          <p>Беларусь, Минск, Свердлова 13Ак3</p>
+        </div>
+        <div class="socweb">
+          <a href="error404.html"><img src="images/social/4.png" alt=""></a>
+          <a href="error404.html"><img src="images/social/5.png" alt=""></a>
+          <a href="error404.html"> <img src="images/social/6.png" alt=""></a>
+          <a href="error404.html"> <img src="images/social/7.png" alt=""></a>
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="footerbot" id="footerbot">
+      <div class="left">
+        <p>© 2026 Автосалон "AutoElite".<br>Официальный дилер</p>
+        <div>
+          <a href="error404.html">Политика конфиденциальности</a>
+          <a href="error404.html">Пользовательское соглашение</a>
+        </div>
+      </div>
+
+      <p class="right">Обращаем Ваше внимание на то, что данный интернет-сайт носит исключительно информационный
+        характер и ни при
+        каких условиях не является публичной офертой, определяемой положениями Статьи 437 Гражданского кодекса
+        Республики Беларусь</p>
+
+    </div>
+  </footer>
+  <script src="js/burger.js"></script>
+  <script src="js/modal.js"></script>
+  
+<script src="js/cards.js"></script>
+</body>
+
+</html>

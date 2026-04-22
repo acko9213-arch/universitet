@@ -1,0 +1,3 @@
+﻿  dop2.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\8laba\dop2\dop2.cpp(109,27): error C2065: цы: необъявленный идентификатор
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\8laba\dop2\dop2.cpp(110,5): error C2144: синтаксическая ошибка: перед "int" требуется ";"

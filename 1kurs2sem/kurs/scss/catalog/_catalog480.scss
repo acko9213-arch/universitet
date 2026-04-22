@@ -1,0 +1,34 @@
+@media(max-width:480px) {
+    main {
+        div.main {
+            div.kart {
+                div#cards{
+                    grid-template-columns:1fr;
+                    div.card{
+                         h3{
+                            font-size: 6vw;
+                         }
+                         .cena12345,.ot{
+                             font-size:4vw;
+                         }
+                         .cena123456{
+                            font-size:  3.5vw;
+                         }
+                         button{
+                            font-size: 4.2vw;
+                         }
+                    }
+                }
+                div.allfiltr {
+                    div.polsunok {
+                        div.polscena {
+                           
+                                width: 110%
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

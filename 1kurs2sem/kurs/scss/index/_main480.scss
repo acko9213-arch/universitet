@@ -1,0 +1,112 @@
+@media (max-width: 480px) {
+    main{
+   
+    div.foto1 {
+        background-size: 250% 160%;
+        background-position: center center;
+        height: 70vw;
+
+        p:nth-child(1) {
+            font-size: 5vw;
+            margin-top: 8vw;
+        }
+
+        p:nth-child(2) {
+            font-size: 5vw;
+        }
+
+        p:nth-child(3) {
+            font-size: 4vw;
+            width: 28vw;
+            padding: 2vw 0;
+        }
+    }
+      div.foto2 {
+        background-image:url('../images/carsmain/5.png');
+
+        background-size: 140% 100%;
+        background-position: center center;
+        height: 70vw;
+
+        p:nth-child(1) {
+            font-size: 5vw;
+            margin-top: 8vw;
+        }
+
+        p:nth-child(2) {
+            font-size: 5vw;
+        }
+
+        p:nth-child(3) {
+            font-size: 4vw;
+            width: 28vw;
+            padding: 2vw 0;
+        }
+    }
+      div.foto5 {
+        background-size: 155% 100%;
+        background-position: center left;
+        height: 70vw;
+
+        p:nth-child(1) {
+            font-size: 5vw;
+            margin-top: 8vw;
+        }
+
+        p:nth-child(2) {
+            font-size: 5vw;
+        }
+
+        p:nth-child(3) {
+            font-size: 4vw;
+            width: 28vw;
+            padding: 2vw 0;
+        }
+    }
+     div.foto3 {
+        background-size: 100% 120%;
+
+        height: 70vw;  width: 100%;
+
+        p:nth-child(1) {
+            font-size: 5vw;
+            margin-top: 8vw;
+        }
+
+        p:nth-child(2) {
+            font-size: 5vw;
+        }
+
+        p:nth-child(3) {
+            font-size: 4vw;
+            width: 28vw;
+            padding: 2vw 0;
+        }
+    }
+    div.foto4 {
+        background-size: 100% 100%;
+        background-position: center left;
+        height: 70vw;  width: 100%;
+
+        p:nth-child(1) {
+            font-size: 5vw;
+            margin-top: 8vw;
+        }
+
+        p:nth-child(2) {
+            font-size: 5vw;
+        }
+
+        p:nth-child(3) {
+            font-size: 4vw;
+            width: 28vw;
+            padding: 2vw 0;
+        }
+    }
+
+.bank1{
+    margin-bottom: 2vw;
+}
+     
+}
+}

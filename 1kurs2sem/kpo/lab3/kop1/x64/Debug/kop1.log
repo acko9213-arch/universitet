@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  main.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\kop1\main.cpp(75,8): warning C4551: в вызове функции отсутствует список аргументов
+  (компиляция исходного файла "/main.cpp")
+  
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\kop1\main.cpp(7,7): warning C4101: poryd1: неиспользованная локальная переменная
+  (компиляция исходного файла "/main.cpp")
+  
+  poryd.cpp
+  visok.cpp
+  Создание кода...
+main.obj : error LNK2001: неразрешенный внешний символ "int * month" (?month@@3PAHA).
+visok.obj : error LNK2001: неразрешенный внешний символ "int * month" (?month@@3PAHA).
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\lab_1\x64\Debug\kop1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

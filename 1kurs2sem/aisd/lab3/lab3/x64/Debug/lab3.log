@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\aisd\lab3\Source.cpp(126,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\aisd\lab3\Source.cpp(175,17): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  lab3.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\aisd\lab3\x64\Debug\lab3.exe

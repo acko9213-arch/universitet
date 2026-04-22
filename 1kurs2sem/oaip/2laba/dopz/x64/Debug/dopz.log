@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\oaip\2laba\dopz\Source.cpp(13,10): warning C4101: k: неиспользованная локальная переменная
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\oaip\2laba\dopz\Source.cpp(11,10): warning C4101: buffer: неиспользованная локальная переменная
+  dopz.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\oaip\2laba\lab2var15z1\x64\Debug\dopz.exe

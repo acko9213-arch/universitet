@@ -1,0 +1,284 @@
+@media (max-width: 480px) {
+  main div.main div.kart div#cards {
+    grid-template-columns: 1fr;
+  }
+  main div.main div.kart div#cards div.card h3 {
+    font-size: 6vw;
+  }
+  main div.main div.kart div#cards div.card .cena12345, main div.main div.kart div#cards div.card .ot {
+    font-size: 4vw;
+  }
+  main div.main div.kart div#cards div.card .cena123456 {
+    font-size: 3.5vw;
+  }
+  main div.main div.kart div#cards div.card button {
+    font-size: 4.2vw;
+  }
+  main div.main div.kart div.allfiltr div.polsunok div.polscena {
+    width: 110%;
+  }
+}
+@media (max-width: 768px) {
+  main div.main div.kart div.cards {
+    grid-template-columns: 1fr;
+  }
+  main div.main div.kart div.cards div.card h3 {
+    font-size: 4vw;
+  }
+  main div.main div.kart div.cards div.card .cena12345, main div.main div.kart div.cards div.card .ot {
+    font-size: 2.3vw;
+  }
+  main div.main div.kart div.cards div.card .cena123456 {
+    font-size: 1.8vw;
+  }
+}
+@media (max-width: 1024px) {
+  main div.main div.kart div.cards {
+    grid-template-columns: 1fr 1fr;
+  }
+  main div.main div.kart div.cards div.card h3 {
+    font-size: 3vw;
+  }
+  main div.main div.kart div.cards div.card .cena12345, main div.main div.kart div.cards div.card .ot {
+    font-size: 2.3vw;
+  }
+  main div.main div.kart div.cards div.card .cena123456 {
+    font-size: 1.8vw;
+  }
+  main div.main div.kart div.cards div.card button {
+    font-size: 2.5vw;
+  }
+}
+main {
+  margin-top: 2vw;
+}
+main .main {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+main .main .high {
+  margin-left: 5px;
+}
+main .main .high span {
+  color: #737373;
+  font-size: 13px;
+}
+main .main .high a {
+  text-decoration: none;
+  color: #737373;
+  font-size: 13px;
+  outline: #EFF0F0 1px;
+}
+main .main .high a:hover {
+  color: #555;
+}
+main .main .kart h1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 45px;
+}
+main .main .kart .line {
+  text-align: left;
+  background-color: #dcdcdc;
+  height: 1.3px;
+  margin: 20px 0px;
+  border-radius: 20px;
+}
+main .main .kart .filtr {
+  background-color: #f7f7f7;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 3vw;
+}
+main .main .kart .filtr h2 {
+  font-weight: bold;
+  padding-top: 20px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+main .main .kart .filtr .allfiltr {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 15px;
+}
+main .main .kart .filtr .allfiltr .polsunok {
+  flex: 1 1 350px;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena .cena1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena .cena1 span {
+  font-size: 20px;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena .cena1 div output {
+  font-size: 18px;
+  font-weight: bold;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena .cena1 div span {
+  font-size: 18px;
+  font-weight: bold;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena input[type=range] {
+  -webkit-appearance: none;
+  border-radius: 10px;
+  background: #aa0000;
+  width: 100%;
+  -moz-appearance: none;
+       appearance: none;
+}
+main .main .kart .filtr .allfiltr .polsunok .cena input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  background: #880000;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -7px;
+  position: relative;
+  top: 3px;
+}
+main .main .kart .filtr .allfiltr .polsunok .polscena {
+  width: 102.5%;
+  display: flex;
+  justify-content: space-between;
+}
+main .main .kart .filtr .allfiltr .polsunok .polscena span:nth-child(1) {
+  position: relative;
+  right: 7px;
+}
+main .main .kart .filtr .allfiltr .polsunok .polscena span {
+  text-align: center;
+  display: inline-block;
+  color: #ADADB0;
+  font-weight: bold;
+}
+main .main .kart .filtr .allfiltr .polsunok .polscena span div {
+  height: 10px;
+  margin-bottom: 5px;
+  width: 1.5px;
+  margin: auto;
+  background-color: #bebebe;
+}
+main .main .kart .filtr .allfiltr .kusov,
+main .main .kart .filtr .allfiltr .mark,
+main .main .kart .filtr .allfiltr .tip,
+main .main .kart .filtr .allfiltr .korob {
+  flex: 1 1 180px;
+}
+main .main .kart .filtr .allfiltr .kusov select,
+main .main .kart .filtr .allfiltr .mark select,
+main .main .kart .filtr .allfiltr .tip select,
+main .main .kart .filtr .allfiltr .korob select {
+  width: 100%;
+  padding: 20px 24px;
+  font-size: 16px;
+  background-color: white;
+  border: 1px solid #E1E1E1;
+  border-radius: 5px;
+  cursor: pointer;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+main .main .kart .filtr .allfiltr .kusov select:focus,
+main .main .kart .filtr .allfiltr .mark select:focus,
+main .main .kart .filtr .allfiltr .tip select:focus,
+main .main .kart .filtr .allfiltr .korob select:focus {
+  outline: none;
+  border-color: #aaa;
+}
+main .main .kart .filtr .allfiltr .kusov .arrow,
+main .main .kart .filtr .allfiltr .mark .arrow,
+main .main .kart .filtr .allfiltr .tip .arrow,
+main .main .kart .filtr .allfiltr .korob .arrow {
+  position: relative;
+  right: 30px;
+  top: 40%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 6px;
+  pointer-events: none;
+}
+main .main .kart .filtr .allfiltr .kusov .arrow::before,
+main .main .kart .filtr .allfiltr .mark .arrow::before,
+main .main .kart .filtr .allfiltr .tip .arrow::before,
+main .main .kart .filtr .allfiltr .korob .arrow::before {
+  content: "";
+  position: absolute;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid #333;
+}
+main .main .kart .cards {
+  margin-bottom: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+main .main .kart .cards .card {
+  display: flex;
+  flex-wrap: wrap;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  flex: 1 1 450px;
+  height: auto;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.08);
+  justify-content: space-between;
+  transition: 0.3s;
+}
+main .main .kart .cards .card:hover {
+  transform: scale(1.03);
+}
+main .main .kart .cards .card h3 {
+  font-weight: bold;
+  font-size: 2vw;
+  margin-bottom: 20px;
+}
+main .main .kart .cards .card .ot,
+main .main .kart .cards .card .cena12345 {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.5vw;
+}
+main .main .kart .cards .card .ot {
+  margin-right: 10px;
+}
+main .main .kart .cards .card .cena123456 {
+  font-size: 1.3vw;
+  display: inline-block;
+  margin-top: 1.5px;
+}
+main .main .kart .cards .card img {
+  width: 100%;
+  height: auto;
+}
+main .main .kart .cards .card button {
+  width: 100%;
+  padding: 12px;
+  background: #cc0000;
+  color: #fff;
+  border: none;
+  font-size: 1.7vw;
+  clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  -webkit-tap-highlight-color: transparent;
+  font-weight: bold;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+main .main .kart .cards .card button:hover {
+  background-color: #aa0000;
+}
+main .main .kart .cards .card button:active {
+  background-color: #880000;
+  transform: scale(0.97);
+}/*# sourceMappingURL=catalog.css.map */

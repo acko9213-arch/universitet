@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C8FCF-0696-42D4-9E64-B82AB6CEF904}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2C8FCF-0696-42D4-9E64-B82AB6CEF904}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E18999-F35C-4298-BE92-60B693C6F6BB}|10laba\\10laba.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\10laba\\10laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8E18999-F35C-4298-BE92-60B693C6F6BB}|10laba\\10laba.vcxproj|solutionrelative:10laba\\10laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF04DE9-E000-492C-9135-33D2C8A36B2E}|dop2\\dop2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFF04DE9-E000-492C-9135-33D2C8A36B2E}|dop2\\dop2.vcxproj|solutionrelative:dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BE5FC4-EE4F-44CA-B778-1B9B87763A56}|dop1\\dop1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73BE5FC4-EE4F-44CA-B778-1B9B87763A56}|dop1\\dop1.vcxproj|solutionrelative:dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ViewState": "AgIAAFgEAAAAAAAAAAAkwGYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T05:59:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T05:46:15.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10laba.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\10laba\\10laba.cpp",
+              "RelativeDocumentMoniker": "10laba\\10laba.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\10laba\\10laba.cpp",
+              "RelativeToolTip": "10laba\\10laba.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T05:15:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dop2.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop2\\dop2.cpp",
+              "RelativeDocumentMoniker": "dop2\\dop2.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop2\\dop2.cpp",
+              "RelativeToolTip": "dop2\\dop2.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-28T15:55:34.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop1\\dop1.cpp",
+              "RelativeDocumentMoniker": "dop1\\dop1.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\10laba\\dop1\\dop1.cpp",
+              "RelativeToolTip": "dop1\\dop1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T05:15:28.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

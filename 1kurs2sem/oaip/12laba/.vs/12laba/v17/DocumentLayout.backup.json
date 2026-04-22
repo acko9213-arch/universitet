@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9060C3-D806-49AA-99AD-ED394FB79E09}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9060C3-D806-49AA-99AD-ED394FB79E09}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5E6928-7C04-45CC-8276-85D3F4C1C0EF}|12laba2.0\\12laba2.0.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba2.0\\12laba2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A5E6928-7C04-45CC-8276-85D3F4C1C0EF}|12laba2.0\\12laba2.0.vcxproj|solutionrelative:12laba2.0\\12laba2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57E583-3246-4A25-BB33-86ADC529D561}|12laba\\12laba.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba\\12laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57E583-3246-4A25-BB33-86ADC529D561}|12laba\\12laba.vcxproj|solutionrelative:12laba\\12laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0AF2A7-F12C-4C05-BE89-91D690FA2E6D}|dop3\\dop3.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B0AF2A7-F12C-4C05-BE89-91D690FA2E6D}|dop3\\dop3.vcxproj|solutionrelative:dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7901D305-C796-4FD7-A0A2-3CF061512CC5}|dop2\\dop2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7901D305-C796-4FD7-A0A2-3CF061512CC5}|dop2\\dop2.vcxproj|solutionrelative:dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921D8A5B-38B7-46E3-8764-47AB6FFF1320}|dop1\\dop1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{921D8A5B-38B7-46E3-8764-47AB6FFF1320}|dop1\\dop1.vcxproj|solutionrelative:dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAH0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T07:20:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "12laba2.0.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba2.0\\12laba2.0.cpp",
+              "RelativeDocumentMoniker": "12laba2.0\\12laba2.0.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba2.0\\12laba2.0.cpp",
+              "RelativeToolTip": "12laba2.0\\12laba2.0.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T20:39:58.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dop3.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop3\\dop3.cpp",
+              "RelativeDocumentMoniker": "dop3\\dop3.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop3\\dop3.cpp",
+              "RelativeToolTip": "dop3\\dop3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T19:54:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dop2.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop2\\dop2.cpp",
+              "RelativeDocumentMoniker": "dop2\\dop2.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop2\\dop2.cpp",
+              "RelativeToolTip": "dop2\\dop2.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T19:54:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop1\\dop1.cpp",
+              "RelativeDocumentMoniker": "dop1\\dop1.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\dop1\\dop1.cpp",
+              "RelativeToolTip": "dop1\\dop1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T19:54:10.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "12laba.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba\\12laba.cpp",
+              "RelativeDocumentMoniker": "12laba\\12laba.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\oaip\\12laba\\12laba\\12laba.cpp",
+              "RelativeToolTip": "12laba\\12laba.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T13:46:49.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

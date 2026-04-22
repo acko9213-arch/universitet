@@ -1,0 +1,4 @@
+﻿  data.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\lab_1\data.cpp(105,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\lab_1\data.cpp(38,7): warning C4101: poryd1: неиспользованная локальная переменная
+  lab_1.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\kpo\lab1\lab_1\x64\Debug\lab_1.exe

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var15z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD7D54A-DE73-4FE3-8ED1-2A99E1025322}|..\\dopz\\dopz.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\dopz\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298DD0-AF6C-4DD8-AE57-1EC248CE26FB}|..\\lab2var12z2\\lab2var12z2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var12z2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED37F28-3078-410F-AB78-7FFF7E8EB9BA}|lab2var15z1.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var15z1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED37F28-3078-410F-AB78-7FFF7E8EB9BA}|lab2var15z1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\dopz\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\dopz\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\dopz\\Source.cpp",
+              "RelativeToolTip": "..\\dopz\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T06:03:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var12z2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\lab2var12z2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var12z2\\Source.cpp",
+              "RelativeToolTip": "..\\lab2var12z2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T17:18:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var15z1\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\2laba\\lab2var15z1\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T21:43:59.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

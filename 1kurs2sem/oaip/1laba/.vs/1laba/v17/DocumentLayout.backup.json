@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C51F26-D615-4D2E-908C-6564D6B04E8E}|z2var15\\z2var15.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z2var15\\z2var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59C51F26-D615-4D2E-908C-6564D6B04E8E}|z2var15\\z2var15.vcxproj|solutionrelative:z2var15\\z2var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C304EFE3-1B82-4E53-933D-7B5D3159593D}|1laba.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z1var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C304EFE3-1B82-4E53-933D-7B5D3159593D}|1laba.vcxproj|solutionrelative:z1var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A574B7-0C24-4049-82AD-6260077A7250}|..\\z2var15var2\\z2var15var2.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\z2var15var2\\var2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "var2.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\z2var15var2\\var2.cpp",
+              "RelativeDocumentMoniker": "..\\z2var15var2\\var2.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\z2var15var2\\var2.cpp*",
+              "RelativeToolTip": "..\\z2var15var2\\var2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T11:20:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "z2var15.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z2var15\\z2var15.cpp",
+              "RelativeDocumentMoniker": "z2var15\\z2var15.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z2var15\\z2var15.cpp*",
+              "RelativeToolTip": "z2var15\\z2var15.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T10:55:44.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "z1var15.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z1var15.cpp",
+              "RelativeDocumentMoniker": "z1var15.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1 kurs 2 sem\\oaip\\1laba\\z1var15.cpp",
+              "RelativeToolTip": "z1var15.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T09:13:33.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

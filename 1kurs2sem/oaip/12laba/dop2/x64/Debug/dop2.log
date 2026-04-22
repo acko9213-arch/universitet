@@ -1,0 +1,3 @@
+﻿  dop2.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\12laba\dop2\dop2.cpp(38,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  dop2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\12laba\x64\Debug\dop2.exe

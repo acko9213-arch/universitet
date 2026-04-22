@@ -1,0 +1,429 @@
+@media (max-width: 768px) {
+  main p.bank1 {
+    margin-left: 4.5vw;
+    font-size: 7vw;
+  }
+  main div.bank {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0;
+  }
+  main div.bank div {
+    height: 16vw;
+    width: 42%;
+  }
+  main div.bank div:nth-child(1) img {
+    margin-top: 3.5vw;
+    max-width: 90%;
+    margin-left: 1vw;
+    height: auto;
+  }
+  main div.bank div:nth-child(2) img {
+    margin-top: 5vw;
+    margin-left: 4vw;
+    max-width: 90%;
+    height: auto;
+  }
+  main div.bank div:nth-child(3) img {
+    margin-top: 3vw;
+    margin-left: 4vw;
+    max-width: 90%;
+    height: auto;
+  }
+  main div.bank div:nth-child(4) img {
+    margin-top: 3vw;
+    margin-left: 1.6vw;
+    max-width: 90%;
+    height: auto;
+  }
+  main .grad .text {
+    flex-direction: column;
+  }
+  main .grad .text div {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  main div.foto1 {
+    background-size: 250% 160%;
+    background-position: center center;
+    height: 70vw;
+  }
+  main div.foto1 p:nth-child(1) {
+    font-size: 5vw;
+    margin-top: 8vw;
+  }
+  main div.foto1 p:nth-child(2) {
+    font-size: 5vw;
+  }
+  main div.foto1 p:nth-child(3) {
+    font-size: 4vw;
+    width: 28vw;
+    padding: 2vw 0;
+  }
+  main div.foto2 {
+    background-image: url("../images/carsmain/5.png");
+    background-size: 140% 100%;
+    background-position: center center;
+    height: 70vw;
+  }
+  main div.foto2 p:nth-child(1) {
+    font-size: 5vw;
+    margin-top: 8vw;
+  }
+  main div.foto2 p:nth-child(2) {
+    font-size: 5vw;
+  }
+  main div.foto2 p:nth-child(3) {
+    font-size: 4vw;
+    width: 28vw;
+    padding: 2vw 0;
+  }
+  main div.foto5 {
+    background-size: 155% 100%;
+    background-position: center left;
+    height: 70vw;
+  }
+  main div.foto5 p:nth-child(1) {
+    font-size: 5vw;
+    margin-top: 8vw;
+  }
+  main div.foto5 p:nth-child(2) {
+    font-size: 5vw;
+  }
+  main div.foto5 p:nth-child(3) {
+    font-size: 4vw;
+    width: 28vw;
+    padding: 2vw 0;
+  }
+  main div.foto3 {
+    background-size: 100% 120%;
+    height: 70vw;
+    width: 100%;
+  }
+  main div.foto3 p:nth-child(1) {
+    font-size: 5vw;
+    margin-top: 8vw;
+  }
+  main div.foto3 p:nth-child(2) {
+    font-size: 5vw;
+  }
+  main div.foto3 p:nth-child(3) {
+    font-size: 4vw;
+    width: 28vw;
+    padding: 2vw 0;
+  }
+  main div.foto4 {
+    background-size: 100% 100%;
+    background-position: center left;
+    height: 70vw;
+    width: 100%;
+  }
+  main div.foto4 p:nth-child(1) {
+    font-size: 5vw;
+    margin-top: 8vw;
+  }
+  main div.foto4 p:nth-child(2) {
+    font-size: 5vw;
+  }
+  main div.foto4 p:nth-child(3) {
+    font-size: 4vw;
+    width: 28vw;
+    padding: 2vw 0;
+  }
+  main .bank1 {
+    margin-bottom: 2vw;
+  }
+}
+main {
+  display: flex;
+  margin-top: 2vw;
+  gap: 1vw;
+  flex-wrap: wrap;
+}
+main .foto1 {
+  background-image: url("../images/carsmain/4.png");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 45vw;
+  text-align: center;
+}
+main .foto1 p:nth-child(1) {
+  margin-top: 4vw;
+  font-weight: bold;
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto1 p:nth-child(2) {
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto1 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 2vw;
+  padding: 1vw 0vw;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: color 0.3s ease;
+}
+main .foto1 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto1 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+main .foto2 {
+  background-image: url("../images/carsmain/5.png");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 45vw;
+  text-align: center;
+}
+main .foto2 p:nth-child(1) {
+  margin-top: 4vw;
+  font-weight: bold;
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto2 p:nth-child(2) {
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto2 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 2vw;
+  padding: 1vw 0vw;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: color 0.3s ease;
+}
+main .foto2 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto2 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+main .foto3 {
+  background-image: url("../images/carsmain/6.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 49.45%;
+  height: 35vw;
+  text-align: center;
+}
+main .foto3 p:nth-child(1) {
+  margin-top: 5vw;
+  font-weight: bold;
+  color: white;
+  font-size: 2vw;
+}
+main .foto3 p:nth-child(2) {
+  color: white;
+  font-size: 2vw;
+}
+main .foto3 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 1.5vw;
+  padding: 1vw 0vw;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: color 0.3s ease;
+}
+main .foto3 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto3 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+main .foto4 {
+  background-image: url("../images/carsmain/7.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  width: 49.5%;
+  height: 35vw;
+  text-align: center;
+}
+main .foto4 p:nth-child(1) {
+  margin-top: 5vw;
+  font-weight: bold;
+  color: white;
+  font-size: 2vw;
+}
+main .foto4 p:nth-child(2) {
+  color: white;
+  font-size: 2vw;
+}
+main .foto4 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 1.5vw;
+  padding: 1vw 0vw;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: color 0.3s ease;
+}
+main .foto4 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto4 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+main .foto5 {
+  background-image: url("../images/carsmain/8.jpg");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 45vw;
+  text-align: center;
+}
+main .foto5 p:nth-child(1) {
+  margin-top: 4vw;
+  font-weight: bold;
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto5 p:nth-child(2) {
+  color: white;
+  font-size: 2.5vw;
+}
+main .foto5 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 2vw;
+  padding: 1vw 0vw;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: color 0.3s ease;
+}
+main .foto5 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto5 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+main .bank1 {
+  font-weight: bold;
+  margin-left: 1vw;
+  margin-top: 3vw;
+  font-size: 4.5vw;
+}
+main .bank {
+  display: flex;
+  margin-left: 1vw;
+  margin-top: 2vw;
+  gap: 2vw;
+  width: 100%;
+}
+main .bank div {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  height: 8.5vw;
+  width: 23.25%;
+}
+main .bank div:nth-child(1) img {
+  margin-top: 2vw;
+  max-width: 90%;
+  margin-left: 1vw;
+  height: auto;
+}
+main .bank div:nth-child(2) img {
+  margin-top: 2.7vw;
+  margin-left: 2vw;
+  max-width: 90%;
+  height: auto;
+}
+main .bank div:nth-child(3) img {
+  margin-top: 1.6vw;
+  margin-left: 2.6vw;
+  max-width: 90%;
+  height: auto;
+}
+main .bank div:nth-child(4) img {
+  margin-top: 1.8vw;
+  margin-left: 1.4vw;
+  max-width: 90%;
+  height: auto;
+}
+main .grad {
+  margin-top: 50px;
+  padding-bottom: 5vw;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(47, 47, 47, 0.5)), url(unknown);
+}
+main .grad p.serv {
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  color: white;
+  font-weight: bold;
+}
+main .grad div {
+  width: 85%;
+  margin: 0 auto;
+  gap: 20px;
+}
+main .grad div div {
+  display: flex;
+  flex-flow: column;
+  gap: 0px;
+  text-align: center;
+  width: 30%;
+  margin: 0;
+  align-self: flex-start;
+}
+main .grad div div img {
+  margin: 0 auto;
+  max-width: 20%;
+  height: auto;
+}
+main .grad div div .text2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+main .grad div div p.text1 {
+  font-size: 17px;
+  margin: 0;
+  line-height: 25px;
+}
+main .grad div {
+  color: white;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,45 @@
+ @media (max-width: 768px) {
+    main{
+        p.bank1{
+            margin-left: 4.5vw;font-size:7vw;
+        }
+        div.bank{flex-wrap: wrap;  justify-content: space-evenly;margin:0;
+            div{
+                height: 16vw;width:42%;
+            }
+            div:nth-child(1){
+            img{
+                margin-top:3.5vw; max-width: 90%;margin-left:1vw;
+    height: auto; 
+            }
+        }
+        div:nth-child(2){
+            img{
+                margin-top:5vw;margin-left:4vw; max-width: 90%;
+    height: auto; 
+            }
+        }
+        div:nth-child(3){
+            img{
+                margin-top:3vw;margin-left:4vw; max-width: 90%;
+    height: auto; 
+            }
+        }
+        div:nth-child(4){
+            img{
+                margin-top:3vw;margin-left:1.6vw; max-width: 90%;
+    height: auto; 
+            }
+        }
+        }
+       .grad {
+  .text {
+    flex-direction: column;
+    
+    div {
+      width: 100%; 
+    }
+  }
+}
+    }
+ }

@@ -1,0 +1,19 @@
+﻿  stroka.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.cpp(6,9): warning C4273: stroks::dlina: несовместимое связывание dll
+  (компиляция исходного файла "/stroka.cpp")
+      C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.h(15,20):
+      см. предыдущее определение "stroks::dlina"
+  
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.cpp(16,11): warning C4273: stroks::konk: несовместимое связывание dll
+  (компиляция исходного файла "/stroka.cpp")
+      C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.h(13,22):
+      см. предыдущее определение "stroks::konk"
+  
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.cpp(37,10): warning C4273: stroks::palin: несовместимое связывание dll
+  (компиляция исходного файла "/stroka.cpp")
+      C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\Dll1\stroka.h(14,21):
+      см. предыдущее определение "stroks::palin"
+  
+  Dll1.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\x64\Debug\Dll1.dll
+  C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\Dll1\x64\Debug\Dll1.dll
+  ╤ъюяшЁютрэю Їрщыют: 1.

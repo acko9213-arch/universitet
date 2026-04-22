@@ -1,0 +1,119 @@
+@import '_companyinfo480.scss';
+@import '_companyinfo768.scss';
+
+main{
+    margin-top: 2vw;
+    .main{
+    margin-left: 35px;margin-right: 35px;
+    .high{margin-left: 5px;
+        span{color:#737373;font-size:13px;}
+        a{
+            text-decoration: none;color:#737373;font-size:13px;outline: #EFF0F0 1px;
+            &:hover {
+  color: #555;
+}
+        }
+        
+    }
+    .company{
+        h1{ font-weight: bold;
+      
+      
+        font-size: 45px;}
+        .line{
+       background-color: #dcdcdc;height: 1.3px;margin:20px 0px;border-radius: 20px;
+        }
+        .wid{
+            width: 85%;font-size: 20px;
+        }
+        .wid1{
+            font-size: 20px; width: 85%;
+        }
+        ul{margin-left:18px; width: 85%;
+            li{
+                font-size: 17px;line-height:23px;
+           &::marker{
+            color:red;font-size: 15px;
+
+           }
+        }
+        }
+        .fot{
+            font-size: 20px;width: 85%;
+        }
+    }
+     .bank1 {
+        font-weight: bold;
+          
+        margin-bottom: 3vw;
+        margin-top: 3vw;
+        font-size: 45px;
+    }
+
+    .bank {
+        display: flex;
+       justify-content: space-around;
+        margin-top: 2vw;margin-bottom: 50px;
+        gap: 2vw;
+        width: 100%;
+
+        div {
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            height: 8.5vw;
+            width: 23.25%;
+
+        }
+
+        div:nth-child(1) {
+            img {
+                margin-top: 2vw;
+                max-width: 90%;
+                margin-left: 1vw;
+                height: auto;
+            }
+        }
+
+        div:nth-child(2) {
+            img {
+                margin-top: 2.7vw;
+                margin-left: 2vw;
+                max-width: 90%;
+                height: auto;
+            }
+        }
+
+        div:nth-child(3) {
+            img {
+                margin-top: 1.6vw;
+                margin-left: 2.6vw;
+                max-width: 90%;
+                height: auto;
+            }
+        }
+
+        div:nth-child(4) {
+            img {
+                margin-top: 1.8vw;
+                margin-left: 1.4vw;
+                max-width: 90%;
+                height: auto;
+            }
+        }
+
+    }
+    .fotoavt{
+        font-weight: bold;
+      
+        margin-top: 3vw;  margin-bottom: 2vw;
+        font-size: 45px;
+    }
+    .fotoavt1{
+        display: flex;justify-content: space-between;flex-wrap:wrap;
+        img{
+            width: 31%;
+            height: auto;       border-radius: 20px;
+        }
+    }
+}
+}

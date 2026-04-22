@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\oaip\3laba\dop2z2\Source.cpp(25,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  dop2z2.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1 kurs 2 sem\oaip\3laba\var15z1\x64\Debug\dop2z2.exe

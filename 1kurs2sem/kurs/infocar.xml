@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <info id="1">
+    <namesite>Информация о Volkswagen ID.3</namesite>
+    <name>Volkswagen ID.3</name>
+  <image1>images/cars/car1/1.jpg</image1>
+    <image2>images/cars/car1/2.jpg</image2>
+     <image3>images/cars/car1/3.jpg</image3>
+      <image4>images/cars/car1/4.jpg</image4>
+       <image5>images/cars/car1/5.jpg</image5>
+        <image6>images/cars/car1/6.jpg</image6>
+         <image7>images/cars/car1/7.jpg</image7>
+          <image8>images/cars/car1/8.jpg</image8>
+    <cena1>59 582 BYN</cena1>
+    <cena2> 20 000 $ / 17 800 €</cena2>
+   
+    <kredit>Кредит от 597Br/мес. </kredit>
+    <god>2026г</god>
+    <dvig>Электрический</dvig>
+    <korob>Автомат</korob>
+    <privod>Полный</privod>
+    <moch>231 л. с.</moch>
+      <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+  <krinf>Распределение тормозных усилий (EBD)</krinf>
+  <krinf>Система курсовой устойчивости (ESP)</krinf>
+  <krinf>Противобуксовочная система (TCS)</krinf>
+  <krinf>Ассистент экстренного торможения (BA)</krinf>
+  <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+  <krinf>Электропривод крышки багажного отделения</krinf>
+  <krinf>Панорамная крыша</krinf>
+  <krinf>Электрическая регулировка наружных зеркал</krinf>
+  <krinf>Электрический обогрев наружных зеркал</krinf>
+  <krinf>Автоматическое складывание зеркал</krinf>
+  <krinf>Датчик света</krinf>
+  <krinf>Обогрев рулевого колеса</krinf>
+  <krinf>Подогрев передних и задних сидений</krinf>
+  <krinf>Вентиляция передних сидений</krinf>
+  <krinf>Складывание задних сидений 60/40</krinf>
+  <krinf>Крепление ISOFIX</krinf>
+  <krinf>Центральный дисплей 12.9"</krinf>
+  <krinf>Беспроводная зарядка смартфона</krinf>
+  <krinf>Подключение по Bluetooth</krinf>
+  <krinf>Камера заднего вида</krinf>
+  <krinf>Система предупреждения фронтального столкновения (FCW)</krinf>
+  <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+  <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
+  <krinf>Помощь при удержании полосы (LKA)</krinf>
+  <krinf>Контроль слепых зон (BSD)</krinf>
+  <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+  <krinf>Система автоматической парковки (APA)</krinf>
+  <krinf>Двухзонный климат-контроль</krinf>
+  <krinf>Онлайн обновления "по воздуху"</krinf>
+  </info>
+<info id="2">
+    <namesite>Информация о Volkswagen ID.4</namesite>
+    <name>Volkswagen ID.4</name>
+    <image1>images/cars/car2/1.jpg</image1>
+    <image2>images/cars/car2/2.jpg</image2>
+    <image3>images/cars/car2/3.jpg</image3>
+    <image4>images/cars/car2/4.jpg</image4>
+    <image5>images/cars/car2/5.jpg</image5>
+    <image6>images/cars/car2/6.jpg</image6>
+    <image7>images/cars/car2/7.jpg</image7>
+    <image8>images/cars/car2/8.jpg</image8>
+    <cena1>40 000 BYN</cena1>
+    <cena2>15 500 $ / 13 800 €</cena2>
+    <kredit>Кредит от 487Br/мес.</kredit>
+    <god>2026г</god>
+    <dvig>Электрический</dvig>
+    <korob>Автомат</korob>
+    <privod>Полный</privod>
+    <moch>299 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Распределение тормозных усилий (EBD)</krinf>
+    <krinf>Система курсовой устойчивости (ESP)</krinf>
+    <krinf>Противобуксовочная система (TCS)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная крыша</krinf>
+    <krinf>Электрическая регулировка наружных зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Автоматическое складывание зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев передних и задних сидений</krinf>
+    <krinf>Вентиляция передних сидений</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 12.0"</krinf>
+    <krinf>Цифровая приборная панель 5.3"</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Камера заднего вида</krinf>
+    <krinf>Система предупреждения фронтального столкновения (FCW)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
+    <krinf>Помощь при удержании полосы (LKA)</krinf>
+    <krinf>Контроль слепых зон (BSD)</krinf>
+    <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+    <krinf>Система автоматической парковки (APA)</krinf>
+    <krinf>Трёхзонный климат-контроль</krinf>
+    <krinf>Запас хода до 520 км (WLTP)</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
+  </info>
+
+  <info id="3">
+    <namesite>Информация о Volkswagen Bora</namesite>
+    <name>Volkswagen Bora</name>
+    <image1>images/cars/car3/1.png</image1>
+    <image2>images/cars/car3/2.png</image2>
+    <image3>images/cars/car3/3.png</image3>
+    <image4>images/cars/car3/4.png</image4>
+    <image5>images/cars/car3/5.png</image5>
+    <image6>images/cars/car3/6.png</image6>
+    <image7>images/cars/car3/7.png</image7>
+    <image8>images/cars/car3/8.png</image8>
+    <cena1>79 071 BYN</cena1>
+    <cena2>27 500 $ / 26 200 €</cena2>
+    <kredit>Кредит от 683Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>1.4 TSI, бензин</dvig>
+    <korob>Автомат (DSG-7)</korob>
+    <privod>Передний</privod>
+    <moch>150 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Распределение тормозных усилий (EBD)</krinf>
+    <krinf>Система курсовой устойчивости (ESP)</krinf>
+    <krinf>Противобуксовочная система (TCS)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+    <krinf>Электрическая регулировка наружных зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев передних сидений</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Сенсорный дисплей 10.1"</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto</krinf>
+    <krinf>Камера заднего вида</krinf>
+    <krinf>Парктроники передние и задние</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
+    <krinf>Контроль слепых зон (BSD)</krinf>
+    <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Светодиодные фары</krinf>
+  </info>
+
+  <info id="4">
+    <namesite>Информация о Volkswagen ID.UNYX</namesite>
+    <name>Volkswagen ID.UNYX</name>
+    <image1>images/cars/car4/1.png</image1>
+    <image2>images/cars/car4/2.png</image2>
+    <image3>images/cars/car4/3.png</image3>
+    <image4>images/cars/car4/4.png</image4>
+    <image5>images/cars/car4/5.png</image5>
+    <image6>images/cars/car4/6.png</image6>
+    <image7>images/cars/car4/7.png</image7>
+    <image8>images/cars/car4/8.png</image8>
+    <cena1>62 747 BYN</cena1>
+    <cena2>20 010 $ / 17 403 €</cena2>
+    <kredit>Кредит от 462Br/мес.</kredit>
+    <god>2026г</god>
+    <dvig>Электрический</dvig>
+    <korob>Автомат</korob>
+    <privod>Полный</privod>
+    <moch>333 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система курсовой устойчивости (ESP)</krinf>
+    <krinf>Противобуксовочная система (TCS)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+    <krinf>Панорамная стеклянная крыша с затемнением</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка передних сидений с памятью</krinf>
+    <krinf>Складывание задних сидений 40/20/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 15.0"</krinf>
+    <krinf>Цифровая приборная панель 11.6"</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Аудиосистема Harman Kardon</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+    <krinf>Контроль слепых зон (BSD)</krinf>
+    <krinf>Система автоматической парковки (APA)</krinf>
+    <krinf>Четырёхзонный климат-контроль</krinf>
+    <krinf>Запас хода до 570 км (CLTC)</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
+    <krinf>Матричные светодиодные фары IQ.LIGHT</krinf>
+  </info>
+
+  <info id="5">
+    <namesite>Информация о Volkswagen Teramont</namesite>
+    <name>Volkswagen Teramont</name>
+    <image1>images/cars/car5/1.png</image1>
+    <image2>images/cars/car5/2.png</image2>
+    <image3>images/cars/car5/3.png</image3>
+    <image4>images/cars/car5/4.png</image4>
+    <image5>images/cars/car5/5.png</image5>
+    <image6>images/cars/car5/6.png</image6>
+    <image7>images/cars/car5/7.png</image7>
+    <image8>images/cars/car5/8.png</image8>
+    <cena1>127 901 BYN</cena1>
+    <cena2>43 004 $ / 41 300 €</cena2>
+    <kredit>Кредит от 731Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>2.0 TSI, бензин</dvig>
+    <korob>Автомат (DSG-7)</korob>
+    <privod>Полный (4Motion)</privod>
+    <moch>220 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Распределение тормозных усилий (EBD)</krinf>
+    <krinf>Система курсовой устойчивости (ESP)</krinf>
+    <krinf>Противобуксовочная система (TCS)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+    <krinf>7 мест (три ряда сидений)</krinf>
+    <krinf>Панорамная крыша</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка передних сидений с памятью</krinf>
+    <krinf>Крепление ISOFIX (2-й и 3-й ряд)</krinf>
+    <krinf>Сенсорный дисплей 12.0"</krinf>
+    <krinf>Цифровая приборная панель</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
+    <krinf>Контроль слепых зон (BSD)</krinf>
+    <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+    <krinf>Система автоматической парковки (APA)</krinf>
+    <krinf>Трёхзонный климат-контроль</krinf>
+    <krinf>Светодиодные фары</krinf>
+  </info>
+
+  <info id="6">
+    <namesite>Информация о Toyota BZ3X</namesite>
+    <name>Toyota BZ3X</name>
+    <image1>images/cars/car6/1.png</image1>
+    <image2>images/cars/car6/2.png</image2>
+    <image3>images/cars/car6/3.png</image3>
+    <image4>images/cars/car6/4.png</image4>
+    <image5>images/cars/car6/5.png</image5>
+    <image6>images/cars/car6/6.png</image6>
+    <image7>images/cars/car6/7.png</image7>
+    <image8>images/cars/car6/8.png</image8>
+    <cena1>62 322 BYN</cena1>
+    <cena2>23 100 $ / 21 000 €</cena2>
+    <kredit>Кредит от 474Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>Электрический</dvig>
+    <korob>Автомат</korob>
+    <privod>Полный</privod>
+    <moch>215 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система курсовой устойчивости (VSC)</krinf>
+    <krinf>Противобуксовочная система (TRC)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Система помощи при подъеме в гору (HAC)</krinf>
+    <krinf>Панорамная стеклянная крыша</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 14.0"</krinf>
+    <krinf>Цифровая приборная панель</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Система Toyota Safety Sense 3.0</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDA)</krinf>
+    <krinf>Контроль слепых зон (BSM)</krinf>
+    <krinf>Адаптивный круиз-контроль (DRCC)</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Запас хода до 530 км (CLTC)</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
+  </info>
+
+  <info id="7">
+    <namesite>Информация о Toyota Camry</namesite>
+    <name>Toyota Camry</name>
+    <image1>images/cars/car7/1.png</image1>
+    <image2>images/cars/car7/2.png</image2>
+    <image3>images/cars/car7/3.png</image3>
+    <image4>images/cars/car7/4.png</image4>
+    <image5>images/cars/car7/5.png</image5>
+    <image6>images/cars/car7/6.png</image6>
+    <image7>images/cars/car7/7.png</image7>
+    <image8>images/cars/car7/8.png</image8>
+    <cena1>101 698 BYN</cena1>
+    <cena2>32 000$ / 29 000 €</cena2>
+    <kredit>Кредит от 613Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>2.5 Hybrid, бензин+электро</dvig>
+    <korob>Автомат (e-CVT)</korob>
+    <privod>Передний</privod>
+    <moch>218 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система курсовой устойчивости (VSC)</krinf>
+    <krinf>Противобуксовочная система (TRC)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HAC)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка передних сидений с памятью водителя</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 12.3"</krinf>
+    <krinf>Цифровая приборная панель 12.3"</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Система Toyota Safety Sense 3.0</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDA)</krinf>
+    <krinf>Контроль слепых зон (BSM)</krinf>
+    <krinf>Адаптивный круиз-контроль (DRCC)</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Head-up дисплей</krinf>
+    <krinf>Светодиодные фары</krinf>
+  </info>
+
+  <info id="8">
+    <namesite>Информация о Toyota RAV4</namesite>
+    <name>Toyota RAV4</name>
+    <image1>images/cars/car8/1.png</image1>
+    <image2>images/cars/car8/2.png</image2>
+    <image3>images/cars/car8/3.png</image3>
+    <image4>images/cars/car8/4.png</image4>
+    <image5>images/cars/car8/5.png</image5>
+    <image6>images/cars/car8/6.png</image6>
+    <image7>images/cars/car8/7.png</image7>
+    <image8>images/cars/car8/8.png</image8>
+    <cena1>97 732 BYN</cena1>
+    <cena2>31 000 $ / 28 012 €</cena2>
+    <kredit>Кредит от 591Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>2.5 Hybrid, бензин+электро</dvig>
+    <korob>Автомат (e-CVT)</korob>
+    <privod>Полный (AWD-i)</privod>
+    <moch>222 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система курсовой устойчивости (VSC)</krinf>
+    <krinf>Противобуксовочная система (TRC)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HAC)</krinf>
+    <krinf>Система спуска с горы (DAC)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная крыша</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 10.5"</krinf>
+    <krinf>Цифровая приборная панель</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Система Toyota Safety Sense 2.0</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDA)</krinf>
+    <krinf>Контроль слепых зон (BSM)</krinf>
+    <krinf>Адаптивный круиз-контроль (DRCC)</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Светодиодные фары</krinf>
+  </info>
+
+  <info id="9">
+    <namesite>Информация о BMW 4 серия 420i</namesite>
+    <name>BMW 4 серия 420i</name>
+    <image1>images/cars/car9/1.png</image1>
+    <image2>images/cars/car9/2.png</image2>
+    <image3>images/cars/car9/3.png</image3>
+    <image4>images/cars/car9/4.png</image4>
+    <image5>images/cars/car9/5.png</image5>
+    <image6>images/cars/car9/6.png</image6>
+    <image7>images/cars/car9/7.png</image7>
+    <image8>images/cars/car9/8.png</image8>
+    <cena1>124 643 BYN</cena1>
+    <cena2>48 000 $ / 45 423 €</cena2>
+    <kredit>Кредит от 809Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>2.0 TwinPower Turbo, бензин</dvig>
+    <korob>Автомат (Steptronic 8)</korob>
+    <privod>Задний</privod>
+    <moch>184 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система динамической стабилизации (DSC)</krinf>
+    <krinf>Противобуксовочная система (DTC)</krinf>
+    <krinf>Ассистент экстренного торможения (DBC)</krinf>
+    <krinf>Система помощи при подъеме в гору</krinf>
+    <krinf>Спортивные сиденья с электрорегулировкой и памятью</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Изогнутый дисплей BMW Curved Display 12.3" + 14.9"</krinf>
+    <krinf>Операционная система BMW iDrive 8</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Apple CarPlay / Android Auto (беспроводные)</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора</krinf>
+    <krinf>Система предупреждения фронтального столкновения (FCW)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Предупреждение о сходе с полосы</krinf>
+    <krinf>Контроль слепых зон</krinf>
+    <krinf>Адаптивный круиз-контроль</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Head-up дисплей</krinf>
+    <krinf>Матричные светодиодные фары BMW Laser</krinf>
+    <krinf>Аудиосистема Harman Kardon</krinf>
+  </info>
+
+  <info id="10">
+    <namesite>Информация о BMW i5 China</namesite>
+    <name>BMW i5 China</name>
+    <image1>images/cars/car10/1.png</image1>
+    <image2>images/cars/car10/2.png</image2>
+    <image3>images/cars/car10/3.png</image3>
+    <image4>images/cars/car10/4.png</image4>
+    <image5>images/cars/car10/5.png</image5>
+    <image6>images/cars/car10/6.png</image6>
+    <image7>images/cars/car10/7.png</image7>
+    <image8>images/cars/car10/8.png</image8>
+    <cena1>149 846 BYN</cena1>
+    <cena2>53 002 $ / 48 900 €</cena2>
+    <kredit>Кредит от 948Br/мес.</kredit>
+    <god>2026г</god>
+    <dvig>Электрический</dvig>
+    <korob>Автомат</korob>
+    <privod>Полный (xDrive)</privod>
+    <moch>601 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система динамической стабилизации (DSC)</krinf>
+    <krinf>Противобуксовочная система (DTC)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Адаптивная подвеска с электронным управлением</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная стеклянная крыша Sky Lounge</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев, вентиляция и массаж передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка всех сидений с памятью</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>BMW Curved Display 12.3" + 14.9"</krinf>
+    <krinf>Пассажирский дисплей 5.1"</krinf>
+    <krinf>Операционная система BMW iDrive 8.5</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Apple CarPlay / Android Auto (беспроводные)</krinf>
+    <krinf>Аудиосистема Bowers &amp; Wilkins Diamond Surround</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Адаптивный круиз-контроль с функцией стоп-энд-гоу</krinf>
+    <krinf>Контроль слепых зон с выходом из полосы</krinf>
+    <krinf>Система автоматической парковки</krinf>
+    <krinf>Четырёхзонный климат-контроль</krinf>
+    <krinf>Head-up дисплей с AR-навигацией</krinf>
+    <krinf>Матричные лазерные фары BMW</krinf>
+    <krinf>Запас хода до 560 км (CLTC)</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
+  </info>
+
+  <info id="11">
+    <namesite>Информация о BMW X1 25Li</namesite>
+    <name>BMW X1 25Li</name>
+    <image1>images/cars/car11/1.png</image1>
+    <image2>images/cars/car11/2.png</image2>
+    <image3>images/cars/car11/3.png</image3>
+    <image4>images/cars/car11/4.png</image4>
+    <image5>images/cars/car11/5.png</image5>
+    <image6>images/cars/car11/6.png</image6>
+    <image7>images/cars/car11/7.png</image7>
+    <image8>images/cars/car11/8.png</image8>
+    <cena1>84 701 BYN</cena1>
+    <cena2>23 500 $ / 21 400 €</cena2>
+    <kredit>Кредит от 562Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>1.5 TwinPower Turbo PHEV, бензин+электро</dvig>
+    <korob>Автомат (Steptronic 7)</korob>
+    <privod>Полный (xDrive)</privod>
+    <moch>245 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система динамической стабилизации (DSC)</krinf>
+    <krinf>Противобуксовочная система (DTC)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Система помощи при подъеме в гору</krinf>
+    <krinf>Удлинённая колёсная база (версия Li)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная крыша</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев и вентиляция передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка передних сидений с памятью</krinf>
+    <krinf>Складывание задних сидений 40/20/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>BMW Curved Display 10.25" + 10.7"</krinf>
+    <krinf>Операционная система BMW iDrive 8</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Apple CarPlay / Android Auto (беспроводные)</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Предупреждение о сходе с полосы</krinf>
+    <krinf>Контроль слепых зон</krinf>
+    <krinf>Адаптивный круиз-контроль</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Светодиодные фары BMW</krinf>
+    <krinf>Электрический запас хода до 83 км (WLTP)</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
+  </info>
+
+  <info id="12">
+    <namesite>Информация о BMW 5 серия 540d</namesite>
+    <name>BMW 5 серия 540d</name>
+    <image1>images/cars/car12/1.png</image1>
+    <image2>images/cars/car12/2.png</image2>
+    <image3>images/cars/car12/3.png</image3>
+    <image4>images/cars/car12/4.png</image4>
+    <image5>images/cars/car12/5.png</image5>
+    <image6>images/cars/car12/6.png</image6>
+    <image7>images/cars/car12/7.png</image7>
+    <image8>images/cars/car12/8.png</image8>
+    <cena1>142 591 BYN</cena1>
+    <cena2>47 500 $ / 46 000 €</cena2>
+    <kredit>Кредит от 874Br/мес.</kredit>
+    <god>2025г</god>
+    <dvig>3.0 TwinPower Turbo, дизель</dvig>
+    <korob>Автомат (Steptronic 8)</korob>
+    <privod>Полный (xDrive)</privod>
+    <moch>340 л. с.</moch>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Система динамической стабилизации (DSC)</krinf>
+    <krinf>Противобуксовочная система (DTC)</krinf>
+    <krinf>Ассистент экстренного торможения (DBC)</krinf>
+    <krinf>Адаптивная подвеска с электронным управлением (EDCS)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная стеклянная крыша Sky Lounge</krinf>
+    <krinf>Электрическая регулировка и складывание зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Датчик дождя и света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев, вентиляция и массаж передних сидений</krinf>
+    <krinf>Подогрев задних сидений</krinf>
+    <krinf>Электрорегулировка всех сидений с памятью водителя</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>BMW Curved Display 12.3" + 14.9"</krinf>
+    <krinf>Операционная система BMW iDrive 8.5</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Apple CarPlay / Android Auto (беспроводные)</krinf>
+    <krinf>Аудиосистема Bowers &amp; Wilkins</krinf>
+    <krinf>Камера заднего вида + камеры кругового обзора 360°</krinf>
+    <krinf>Система предупреждения фронтального столкновения</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Контроль слепых зон с выходом из полосы</krinf>
+    <krinf>Адаптивный круиз-контроль с функцией стоп-энд-гоу</krinf>
+    <krinf>Система автоматической парковки</krinf>
+    <krinf>Трёхзонный климат-контроль</krinf>
+    <krinf>Head-up дисплей с AR-навигацией</krinf>
+    <krinf>Матричные лазерные фары BMW</krinf>
+    <krinf>48V mild-hybrid система</krinf>
+  </info>
+
+</cars>

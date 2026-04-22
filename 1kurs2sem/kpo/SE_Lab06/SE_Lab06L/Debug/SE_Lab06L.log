@@ -1,0 +1,23 @@
+﻿Сборка начата 10.04.2026 16:40:23.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Lab06L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_Lab06L.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D TEST_DICTIONARY /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\Debug\SE_Lab06L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\Debug\SE_Lab06L.lib" /NOLOGO /MACHINE:X86 Debug\Dictionary.obj
+         SE_Lab06L.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\Debug\SE_Lab06L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab06L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate".
+     1>Сборка проекта "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.92

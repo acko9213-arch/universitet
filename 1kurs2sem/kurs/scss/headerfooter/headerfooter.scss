@@ -1,0 +1,452 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}@import '_header768.scss';
+@import '_header480.scss';
+
+@import '_header992.scss';
+
+@import '_burgermenu.scss';
+@import '_footer.scss';
+
+#open1,.close,#open,#burger,#but4,a {
+   -webkit-tap-highlight-color: transparent;
+}
+
+
+.modal1 {
+  display: none;
+  position: fixed;
+  z-index: 1400;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mod1 {
+  background-color: transparent;
+  margin: 5% auto;
+  width: 30%;
+  position: relative;
+
+  .close1 {
+    cursor: pointer;
+    font-size: 5vw;
+    top: 2vw;
+    right: -3vw;
+    color: white;
+    position: absolute;
+    z-index: 12000;
+    line-height: 1;
+  }
+
+  .img30 {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+    margin-bottom: -5.2vw; 
+    pointer-events: none;
+  }
+
+  .fon01 {  min-height: 15vw; 
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+    padding: 3.5vw 2vw 2vw;
+    text-align: center;
+
+    p:nth-child(1) {
+      font-weight: bold;
+   font-size:2.5vw;
+      margin-bottom: 0.4vw;
+    }
+
+    p:nth-child(2) {
+      color: gray;
+  font-size:1.5vw;
+      margin-top:2vw;
+      line-height: 1.5;
+    }
+
+    button {
+     font-size: clamp(12px, 1ю5vw, 16px);
+    padding: clamp(6px, 0.8vw, 12px);
+      width: 80%;margin-top:2vw;
+      border-radius: 7px;
+      border: none;
+      background-color: #cc0000;
+   padding: 1.5vw 3vw;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+ &:hover{
+                      background-color: #aa0000;
+                }
+                  &:active {
+        background-color: #880000;
+        transform: scale(0.97);
+    }
+      
+      
+    }
+  }
+}
+
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.mod {
+  background-color: transparent;
+  margin: 5% auto;
+  padding: 20px;
+  width: 55%;
+  border-radius: 5px;
+position: relative;
+  .close {
+  color:white;
+
+    cursor: pointer;
+    font-size: 6vw;
+    top: 9%;      
+    right: -3%;    
+
+    position: absolute;
+    z-index: 12000;
+  
+  }
+  div {
+    background-color: transparent;
+    width: 100%;
+    height: 30vw;
+    position: relative;
+
+    .fon1 {
+      background-image: url("../images/girl.png");
+      background-size: auto 100%;
+      background-position: right bottom;
+      background-repeat: no-repeat;
+      position: absolute;
+    }
+
+    .fon0 {
+      .blockzv {
+        margin-left: 2vw;
+        margin-top: 2vw;
+
+        p:nth-child(1) {
+          font-size: 1.8vw;
+          font-weight: bold;
+        }
+
+        position: relative;
+        z-index: 1001;
+        width: 20.5vw;
+
+        .form23 {
+          input::placeholder {
+    color: black;
+    opacity: 1; 
+}
+          input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+     
+          
+}
+          input {
+            margin-top: 1.5vw;
+            padding: 1.1vw 1.1vw;
+            width: 20vw;
+            border-radius: 5px;
+            border: none;
+            background-color: #f0f0f0;
+            display: block;
+            font-size: 1vw;
+            
+          }
+        }
+
+        button {
+          margin-top: 1.5vw;
+          padding: 1.1vw 1.1vw;
+          width: 20vw;
+          border-radius: 5px;
+          border: none;
+          background-color: #cc0000;
+          font-size: 0.90vw;
+          color: white;
+          font-weight: bold;    cursor: pointer;
+ &:hover {
+        background-color: #aa0000;
+      }
+     
+                  &:active {
+        background-color: #880000;
+        transform: scale(0.97);
+    }
+        }
+
+        .zvonok {
+          margin-top: 1vw;
+          font-size: 0.8vw;
+          color: #ccc;a{
+            color:#ccc;
+          }
+        }
+      }
+
+      background-image: url("../images/zfon.png"),
+      url("../images/city.jpg");
+      border-radius: 10px 10px 10px 10px;
+      position:absolute;
+      height: 80%;
+      bottom: 0;
+      background-size: 100% 100%,
+      auto 100%;
+
+      background-position: bottom,
+      right bottom;
+      background-repeat: no-repeat,
+      no-repeat;
+    }
+  }
+}
+
+
+
+header {
+  width: 100%;
+
+  .header-promo {
+    display: none;
+  }
+
+  .header-top {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    width: 100%;
+
+    .form1 {
+      display: none;
+    }
+
+    .burger {
+      display: none;
+      flex-direction: column;
+      gap: 6px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 5px;
+      margin-left: 0px;
+
+      span {
+        display: block;
+        width: 30px;
+        height: 3px;
+        background: black;
+        border-radius: 3px;
+        transition: transform 0.3s, opacity 0.3s;
+      }
+
+      &.active {
+        span:nth-child(1) {
+          transform: translateY(9px) rotate(45deg);
+        }
+
+        span:nth-child(2) {
+          opacity: 0;
+        }
+
+        span:nth-child(3) {
+          transform: translateY(-9px) rotate(-45deg);
+        }
+      }
+    }
+
+    .logo-block {
+      display: flex;
+      align-items: center;
+      gap: 1px;
+      width: 20%;
+
+      img {
+        width: 50%;
+        margin-bottom: 10px;
+        height: 100%;
+      }
+
+      .logo-text {
+        p:first-child {
+          font-size: 1.8vw;
+          font-weight: bold;
+        }
+
+        p:last-child {
+          font-size: 1.3vw;
+          color: gray;
+        }
+      }
+
+      .divider {
+        width: 2px;
+        height: 4vw;
+        background: #ccc;
+        margin: 0px 0px 0px 5px;
+      }
+    }
+
+    .slogan {
+      width: 17%;
+      font-size: 1.3vw;
+      font-weight: bold;
+      line-height: 1.4;
+      margin-left: 15px;
+
+      .red {
+        background: red;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 1.4vw;
+        margin-right: 5px;
+      }
+    }
+
+    .firstmenu {
+      list-style: none;
+      display: flex;
+      gap: 1vw;
+      margin-left: 0px;
+      width: 25%;
+
+      a {
+        margin-left: 0px;
+        margin-right: 5px;
+        text-decoration: none;
+        color: black;
+        font-size: 1.5vw;
+
+        &:hover {
+          color: #aa0000;  outline: none;
+        }
+      }
+    }
+
+    .phones {
+      width: 15%;
+      margin-left: auto;
+      text-align: right;
+
+      .phone-main {
+        font-size: 1.5vw;
+        font-weight: bold;
+      }
+
+      .phone-second {
+        font-size: 1vw;
+      }
+    }
+
+    .call {
+      width: 15%;
+      background:  #cc0000;
+      color: white;
+      border: none;
+      padding: 1vw 1.1vw;
+      border-radius: 7px;
+      font-size: 1vw;
+      font-weight: bold;
+      cursor: pointer;
+      margin-left: 15px;
+      white-space: nowrap;
+
+                  &:active {
+        background-color: #880000;
+        transform: scale(0.97);
+    }
+      &:hover {
+        background: #aa0000
+      }
+    }
+  }
+
+  .header-bottom {
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    width: 100%;
+
+    .secondmenu {
+      list-style: none;
+      display: flex;
+      gap: 4vw;
+      width: 50%;
+      margin-left: 12px;
+
+      a {
+        text-decoration: none;
+        color: black;
+        font-size: 2vw;
+        font-weight: bold;
+
+        &:hover {
+          color: #aa0000;
+        }
+      }
+    }
+
+    form {
+      display: flex;
+      align-items: center;
+      background: #f0f0f0;
+      border-radius: 50px;
+      padding: 8px 20px;
+      width: 50%;
+      border: 1px solid #ccc;
+      margin-left: auto;
+
+      input[type="text"] {
+        border: none;
+        background: transparent;
+        outline: none;
+        flex: 1;
+        font-size: 1vw;
+      }
+
+      button {
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        color: gray;
+        font-size: 1vw;
+
+        img {
+          height: 1vw;
+        }
+      }
+    }
+  }
+  
+}

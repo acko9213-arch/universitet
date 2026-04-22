@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\dop3\Source.cpp(24,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\dop3\Source.cpp(26,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\dop3\Source.cpp(27,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\dop3\Source.cpp(28,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\dop3\Source.cpp(29,26): warning C4305: инициализация: усечение из "double" в "float"
+  dop3.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\lab4\Debug\dop3.exe

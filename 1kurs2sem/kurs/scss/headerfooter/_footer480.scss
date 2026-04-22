@@ -1,0 +1,22 @@
+@media (max-width: 480px) {
+  footer {
+    nav { .footermenu { li { a { font-size: 5vw; } } } }
+
+  
+    div.footermiddle {
+      .catalog div.red {
+        left: 0;
+      }
+      .work div.red {
+        left: 0;margin-left: 45px;
+      }
+      .contact {
+        div.red { left: 0;margin-left: 115px; }
+        .socweb { left: 0; }
+        .contact1 { left: 6px; }
+        .contact2 { left: 6px; }
+        .contact3{left:6px;}
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿Сборка начата 06.04.2026 14:23:00.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\SE_Lab06L.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yu"pch.h" /Fp"x64\Debug\SE_Lab06L.pch" /Fo"x64\Debug\\" /Fd"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\x64\Debug\SE_Lab06L.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+     1>C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\Dictionary.cpp(114,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+     1>Сборка проекта "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab06\SE_Lab06L\Dictionary.cpp(114,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.11

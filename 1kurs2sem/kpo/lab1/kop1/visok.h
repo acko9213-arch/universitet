@@ -1,0 +1,2 @@
+
+bool visok(int x);

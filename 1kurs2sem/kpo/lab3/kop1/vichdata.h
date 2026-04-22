@@ -1,0 +1,1 @@
+void vichdata(bool visok, int god);

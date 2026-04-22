@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="1">
+    <name>Volkswagen ID.3</name>
+    <price>59582</price>
+  <valut>BYN</valut>
+    <description>Кредит от 597BYN/мес.</description>
+    <image>images/cars/car1/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+  <product id="2">
+    <name>Volkswagen Bora</name>
+    <price>40000</price>
+  <valut>BYN</valut>
+    <description>Кредит от 487BYN/мес.</description>
+    <image>images/cars/car3/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+  <product id="3">
+    <name>Volkswagen ID.4</name>
+    <price>79071</price>
+  <valut>BYN</valut>
+    <description>Кредит от 683BYN/мес.</description>
+    <image>images/cars/car2/0.jpg</image>
+    <stock>Подробнее</stock>
+  </product>
+  <product id="4">
+    <name>Volkswagen ID.UNYX</name>
+    <price>62747</price>
+  <valut>BYN</valut>
+    <description>Кредит от 462BYN/мес.</description>
+    <image>images/cars/car4/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="5">
+    <name>Volkswagen Teramont</name>
+    <price>127901</price>
+  <valut>BYN</valut>
+    <description>Кредит от 731BYN/мес.</description>
+    <image>images/cars/car5/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="6">
+    <name>Toyota BZ3X</name>
+    <price>62322</price>
+  <valut>BYN</valut>
+    <description>Кредит от 474BYN/мес.</description>
+    <image>images/cars/car6/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="7">
+    <name>Toyota Camry</name>
+    <price>101698</price>
+  <valut>BYN</valut>
+    <description>Кредит от 613BYN/мес.</description>
+    <image>images/cars/car7/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="8">
+    <name>Toyota RAV4</name>
+    <price>97732</price>
+  <valut>BYN</valut>
+    <description>Кредит от 591BYN/мес.</description>
+    <image>images/cars/car8/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="9">
+    <name>BMW 4 серия 420i</name>
+    <price>124643</price>
+  <valut>BYN</valut>
+    <description>Кредит от 809BYN/мес.</description>
+    <image>images/cars/car9/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="10">
+    <name>BMW i5 China </name>
+    <price>149846</price>
+  <valut>BYN</valut>
+    <description>Кредит от 948BYN/мес.</description>
+    <image>images/cars/car10/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+<product id="11">
+    <name>BMW X1 25Li</name>
+    <price>84701</price>
+  <valut>BYN</valut>
+    <description>Кредит от 562BYN/мес.</description>
+    <image>images/cars/car11/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+  <product id="12">
+    <name>BMW 5 серия 540d</name>
+    <price>142591</price>
+  <valut>BYN</valut>
+    <description>Кредит от 874BYN/мес.</description>
+    <image>images/cars/car12/0.png</image>
+    <stock>Подробнее</stock>
+  </product>
+  
+</products>

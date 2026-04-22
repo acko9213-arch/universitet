@@ -1,0 +1,29 @@
+﻿Сборка начата 07.04.2026 09:21:27.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\dop\dop.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\dop.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\dop.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt dop.cpp
+         dop.cpp
+     1>C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\dop\dop.cpp(112,6): warning C4101: value: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\x64\Debug\dop.exe" /INCREMENTAL /ILK:"x64\Debug\dop.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\x64\Debug\dop.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\x64\Debug\dop.lib" /MACHINE:X64 x64\Debug\dop.obj
+         dop.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\x64\Debug\dop.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\dop.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\dop.tlog\dop.lastbuildstate".
+     1>Сборка проекта "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\dop\dop.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\dop\dop.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\oaip\11laba\dop\dop.cpp(112,6): warning C4101: value: неиспользованная локальная переменная
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.94

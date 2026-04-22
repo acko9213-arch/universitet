@@ -1,0 +1,299 @@
+@import '_car480.scss';
+@import '_car769.scss';
+@import '_car1024.scss';
+@import '_car768.scss';
+
+
+main {
+    margin-top: 2vw;
+
+    .main {
+        margin-left: 35px;
+        margin-right: 35px;
+
+       
+        .high {
+            margin-left: 5px;
+
+            span {
+                color: #737373;
+                font-size: 13px;
+            }
+
+            a {
+                text-decoration: none;
+                color: #737373;
+                font-size: 13px;
+                outline: #EFF0F0 1px;
+
+                &:hover {
+                    color: #555;
+                }
+            }
+
+        }
+
+        .car {
+
+            h1 {
+                text-align: left;
+                font-weight: bold;
+
+
+                font-size: 40px;
+            }
+
+            .line {
+                text-align: left;
+                background-color: #dcdcdc;
+                height: 1.3px;
+                margin: 20px 0px;
+                border-radius: 20px;
+            }
+
+            .slidu {
+                position: relative;
+                width: 80%;
+                margin: 0 auto;
+                overflow: hidden;
+
+                .r,
+                .l {
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    background: rgba(0, 0, 0, 0.45);
+                    color: #fff;
+                    border: none;
+                    width: 44px;
+                    height: 44px;
+                    -webkit-tap-highlight-color: transparent;
+                    border-radius: 50%;
+                    font-size: 22px;
+                    cursor: pointer;
+                    z-index: 10;
+
+                    &:hover {
+                        background: rgba(0, 0, 0, 0.7);
+                    }
+                }
+
+                .r {
+                    left: 12px;
+                }
+
+                .l {
+                    right: 12px;
+                }
+
+
+                .slides {
+                    display: flex;
+                    transition: transform 0.4s ease;
+
+                    .slide {
+                        min-width: 100%;
+
+                        img {
+                            width: 100%;
+                            max-width: 100%;
+                            height: auto;
+                            border-radius: 10px;
+                            display: block;
+                        }
+                    }
+                }
+            }
+
+            .equip {
+                width: 80%;
+                margin: 0 auto;margin-bottom:50px;
+h2{font-size: 28px;margin-left:10px;}
+                ul {list-style-type: none;margin-left:20px;
+                    li {font-size:20px;line-height:30px;}
+                }
+            }
+
+            .carinfo {
+                width: 80%;
+                margin: 0 auto;
+                margin-top: 22.5px;
+
+                .specs {
+                    margin-bottom: 50px;
+
+                    .spec {
+                        background-color: #f4f4f4;
+                        border-radius: 10px;
+                        padding: 15px 20px;
+                        font-size: 36px;
+                        margin-top: 22.5px;
+
+                        span {
+                            width: 55%;
+                            display: inline-block;vertical-align: middle;
+                        }
+
+                        .spec1 {
+                            width: 40%;
+                            text-align: center;
+                        }
+                    }
+
+                    .spec:nth-child(1) {
+                        text-align: center;
+                    }
+                }
+
+                .price0 {
+                    font-size: 36px;
+                    background-color: #f4f4f4;
+                    border-radius: 10px;
+                    display: flex;flex-wrap: wrap;
+                    justify-content: space-between;
+                    padding: 15px 0vw;
+
+                    .obprice {
+                        margin-left: 2vw;
+                        display: flex;
+                        align-items: center;
+                        flex-wrap: wrap;
+                        max-width: 350px;
+                        .price1{
+                            margin-right:10px;
+                        }
+                    }
+
+                    .obkredit { margin: 0;
+                            text-align: center;
+                            justify-content: center;
+                        .kredit1 {
+                            font-size: 36px;
+                            background-color: #cc0000;
+                            font-weight: bold;
+                            padding: 15px 45px; 
+                            color: white;
+                            border: none;
+                            border-radius: 22px;margin-bottom:10px;
+
+                            &:hover {
+                                background-color: #aa0000;
+                            }
+
+                            &:active {
+                                background-color: #880000;
+                                transform: scale(0.97);
+                            }
+                            
+                        }
+.kredit2{font-size: 30px;}
+                        margin-right: 5vw;
+                    }
+                }
+            }
+        }
+    }
+    .modalwindow {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+
+.blackwindow {
+  background-color: transparent;
+  margin: 7% auto;
+  padding: 20px;
+  width: 30%;
+  border-radius: 5px;
+position: relative;
+  .krest {
+  
+
+    cursor: pointer;
+    font-size: 6vw;
+    top: -10%;      
+    right: -7%;    color:white;
+
+    position: absolute;
+    z-index: 12000;
+  
+  }
+
+      .blockmodal {text-align: center;
+      padding:20px;
+ background-color: white ;
+        border-radius: 15px;
+
+        position: relative;
+        z-index: 1020;
+        width: 100%;
+         p:first-child{
+            font-weight: bold;
+            font-size: 2vw;
+         }
+         .avto,.cennik{
+               font-size: 1.7vw;
+         }
+        .forma {display: flex;flex-wrap:wrap;justify-content:center;
+          input::placeholder {
+    color: black;
+    opacity: 1; 
+}
+          input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+     
+          
+}
+          input {
+            margin-top: 1.5vw;
+            padding: 1.1vw 1.1vw;
+            width: 100%;
+            border-radius: 5px;
+            border: none;
+            background-color: #f0f0f0;
+            display: block;
+            font-size: 1vw;
+            
+          }
+        }
+
+        button {
+          margin-top: 1.5vw;
+          padding: 1.1vw 1.1vw;
+          width: 20vw;
+          border-radius: 5px;-webkit-tap-highlight-color: transparent;
+          border: none;
+          background-color: #cc0000;
+          font-size: 0.90vw;
+          color: white;
+          font-weight: bold;    cursor: pointer;
+ &:hover {
+        background-color: #aa0000;
+      }
+     
+                  &:active {
+        background-color: #880000;
+        transform: scale(0.97);
+    }
+        }
+
+        .persona {
+          margin-top: 1vw;
+          font-size: 0.8vw;
+          color: #ccc;a{
+            color:#ccc;
+          }
+        }
+      
+
+    }
+  }
+}
+
+}

@@ -1,0 +1,68 @@
+  @media (max-width: 992px) {
+    footer {
+      div.footerbot {
+        .left {
+          margin-left: 0px;
+        }
+      }
+
+      div.footermiddle {
+        flex-direction: column;
+        align-items: center;
+
+        .catalog {
+          margin-bottom: 0px;
+          margin-left: 0px;
+        }
+
+        p.big {
+          text-align: center;
+        }
+
+        .catalog {
+          div.red {
+            position: relative;
+            left: 230px;
+          }
+        }
+
+        .work {
+          div.red {
+            position: relative;
+            left: 40px;
+
+          }
+        }
+
+        .contact {
+          margin-bottom: 50px;
+
+          div.red {
+            position: relative;
+            left: 115px;
+
+          }
+
+          .socweb {
+            position: relative;
+            left:60px;
+
+          }
+
+          .contact1 {
+            position: relative;
+            left:55px;
+          }
+
+          .contact2 {
+            position: relative;
+            left: 30px;
+          }
+          .contact3{
+             position: relative;
+            left: 10px;
+          }
+        }
+      }
+    }
+  }

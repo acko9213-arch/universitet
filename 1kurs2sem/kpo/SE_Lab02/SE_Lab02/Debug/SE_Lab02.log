@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab02\Source.cpp(31,16): warning C4309: инициализация: усечение константного значения
+C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab02\Source.cpp(55,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  SE_Lab02.vcxproj -> C:\Users\ppeen\OneDrive\Desktop\unik\1kurs2sem\kpo\SE_Lab02\Debug\SE_Lab02.exe

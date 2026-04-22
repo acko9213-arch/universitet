@@ -1,0 +1,2 @@
+void porydmecyz(int x);
+

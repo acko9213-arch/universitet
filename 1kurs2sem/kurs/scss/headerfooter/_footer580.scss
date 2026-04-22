@@ -1,0 +1,30 @@
+@media (max-width: 580px) {
+    footer {
+        div#footerbot {
+            flex-wrap: wrap;
+
+            .left,
+            .right {
+                width: 90%;
+                margin: 0 auto;
+            }
+        }
+
+        #catalog {
+            .red {
+                margin: 8px auto 20px;
+                position: static;
+            }
+
+            #catalog123 {
+                flex-wrap: wrap;
+                justify-content: flex-end;
+                gap: 30px;
+
+                ul {
+                    width: 34.5%;
+                }
+            }
+        }
+    }
+}

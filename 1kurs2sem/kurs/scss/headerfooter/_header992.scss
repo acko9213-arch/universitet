@@ -1,0 +1,150 @@
+  @media (max-width: 992px) {
+      header {
+.modal{div.mod{
+        margin: 0% auto;
+
+    .close{   top: 2.4vw;right:-1vw;
+        font-size: 7vw;}}}
+
+.mod1{     
+ margin: 0% auto;
+    img.img30{  top:2vw;
+
+    }
+    span.close1{
+       top:6.5vw;font-size: 7vw;
+    }
+        width: 50%;div.fon01 {  min-height: 25vw; 
+        p:nth-child(1) {
+           font-size: 3vw;
+
+      margin-top: 3vw;
+    }
+
+    p:nth-child(2) {
+     
+      margin-top:2vw;font-size:2.5vw;
+    
+    }
+
+    button {
+     margin-top:3vw;
+    }}
+}
+          div.header-promo {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              padding: 4px 10px;
+              background-color: #EFF0F0;
+
+              .phone-main {
+                  font-size: 2vw;
+                  font-weight: bold;
+              }
+
+              .call-link {
+                  display: flex;
+                  align-items: center;
+                  gap: 6px;
+                  color: red;
+                  font-size: 2vw;
+                  font-weight: bold;
+                  cursor: pointer;
+
+                  img {
+                      height: 2vw;
+                  }
+              }
+          }
+
+          .header-top {
+              div.logo-block {
+width: 30%;
+
+                  img {
+                      width: 40%;
+                      margin-bottom: 10px;
+                      height: 100%;
+                  }
+                  .logo-text{
+                    #logo{
+                        font-size: 3vw;
+                    }
+                    #logo1{
+                        font-size:2vw;
+                    }
+                  }
+                
+              }
+  p.slogan {font-size: 2vw;width: 30%;
+span.red{font-size: 2vw;
+
+}}
+              form.form1 {
+                  display: flex;
+                  align-items: center;
+                  background: #f0f0f0;
+                  border-radius: 50px;
+                  padding: 8px 20px;
+                  flex:1;
+                  border: 1px solid #ccc;
+                  
+                     
+                  input[type="text"] {
+                      border: none;
+                      background: transparent;
+                      outline: none;
+                      flex: 1;
+                      font-size: 1vw;
+                  }
+
+                  button {
+                      border: none;
+                      background: transparent;
+                      cursor: pointer;
+                      color: gray;
+                      font-size: 1vw;
+   -webkit-tap-highlight-color: transparent;
+                      img {
+                          height: 1vw;
+                      }
+                  }
+              }
+
+              .call {
+                  display: none;
+
+              }
+
+              .phones {
+                  display: none;
+              }
+
+              .logo-block {
+                  margin-left: 0px;
+              }
+
+              button.burger {
+                  display: flex;
+               
+              }
+
+              ul.firstmenu {
+                  display: none;
+              }
+
+          }
+
+          .header-bottom {
+              form.form {
+                  display: none;
+              }
+
+              ul.secondmenu {
+                  display: none;
+              }
+
+          }
+      }
+  }

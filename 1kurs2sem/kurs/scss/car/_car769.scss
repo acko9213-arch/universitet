@@ -1,0 +1,44 @@
+@media(max-width:768px) {
+    main {
+        div.modalwindow {
+            div#blackwindow {
+                width: 90%;
+                margin: 50% auto;
+
+                .krest {
+                    top: -6%;
+                    right: -1%;font-size: 8vw;
+                }
+
+                .blockmodal {
+                    p:first-child {
+                        font-weight: bold;
+                        font-size: 4vw;
+                    }
+
+                    .avto,
+                    .cennik {
+                        font-size: 3.5vw;
+                    }
+
+
+
+                    .forma {
+                        input {
+                        padding: 2.5vw 2.5vw;font-size:2.5vw;
+                        }
+
+                        button {
+                            font-size:2.7vw;width: 40vw;padding: 1.5vw 1.5vw;
+                        }
+
+                        p.persona {
+                            font-size: 2vw;
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}

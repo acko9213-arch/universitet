@@ -1,0 +1,64 @@
+@media(max-width:1066px) {
+    main {
+        div.modalwindow {
+            div.blackwindow {
+                width: 50%;
+                margin: 1% auto;
+
+                .krest {
+                    top: -6%;
+                    right: -1%;
+                }
+
+                .blockmodal {
+                    p:first-child {
+                        font-weight: bold;
+                        font-size: 2.3vw;
+                    }
+
+                    .avto,
+                    .cennik {
+                        font-size: 2vw;display: inline-block;
+                    }
+.avto{margin-right: 20px;}
+
+
+                    .forma {
+                        input {
+                        padding: 1.3vw 1.3vw;font-size:1.4vw;
+                        }
+
+                        button {
+                            font-size:1.8vw;width: 25vw;
+                        }
+
+                        p.persona {
+                            font-size: 1.4vw;
+                        }
+                    }
+
+                }
+            }
+        }
+
+        div.main {
+
+            div.car {
+                .carinfo {
+                    .price0 {
+                        justify-content: center;
+
+                        .obprice,
+                        .obkredit {
+                            margin: 0;
+                            text-align: center;
+                            justify-content: center;
+                            .kredit2{font-size: 3.5vw;}
+                             .kredit1{margin:20px 0px;}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

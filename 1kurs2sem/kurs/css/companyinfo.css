@@ -1,0 +1,171 @@
+@media (max-width: 480px) {
+  main div.main .bank1 {
+    margin-bottom: 2vw;
+  }
+  main div.main p.fotoavt, main div.main .bank1, main div.main h1 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 768px) {
+  main div.main div.fotoavt1 {
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+  main div.main div.fotoavt1 img {
+    width: 93%;
+  }
+  main div.main p.bank1 {
+    font-size: 8vw;
+  }
+  main div.main div.bank {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  main div.main div.bank div {
+    height: 16vw;
+    width: 42%;
+  }
+  main div.main div.bank div:nth-child(1) img {
+    margin-top: 3.5vw;
+    max-width: 90%;
+    margin-left: 1vw;
+    height: auto;
+  }
+  main div.main div.bank div:nth-child(2) img {
+    margin-top: 5vw;
+    margin-left: 4vw;
+    max-width: 90%;
+    height: auto;
+  }
+  main div.main div.bank div:nth-child(3) img {
+    margin-top: 3vw;
+    margin-left: 4vw;
+    max-width: 90%;
+    height: auto;
+  }
+  main div.main div.bank div:nth-child(4) img {
+    margin-top: 3vw;
+    margin-left: 1.6vw;
+    max-width: 90%;
+    height: auto;
+  }
+}
+main {
+  margin-top: 2vw;
+}
+main .main {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+main .main .high {
+  margin-left: 5px;
+}
+main .main .high span {
+  color: #737373;
+  font-size: 13px;
+}
+main .main .high a {
+  text-decoration: none;
+  color: #737373;
+  font-size: 13px;
+  outline: #EFF0F0 1px;
+}
+main .main .high a:hover {
+  color: #555;
+}
+main .main .company h1 {
+  font-weight: bold;
+  font-size: 45px;
+}
+main .main .company .line {
+  background-color: #dcdcdc;
+  height: 1.3px;
+  margin: 20px 0px;
+  border-radius: 20px;
+}
+main .main .company .wid {
+  width: 85%;
+  font-size: 20px;
+}
+main .main .company .wid1 {
+  font-size: 20px;
+  width: 85%;
+}
+main .main .company ul {
+  margin-left: 18px;
+  width: 85%;
+}
+main .main .company ul li {
+  font-size: 17px;
+  line-height: 23px;
+}
+main .main .company ul li::marker {
+  color: red;
+  font-size: 15px;
+}
+main .main .company .fot {
+  font-size: 20px;
+  width: 85%;
+}
+main .main .bank1 {
+  font-weight: bold;
+  margin-bottom: 3vw;
+  margin-top: 3vw;
+  font-size: 45px;
+}
+main .main .bank {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2vw;
+  margin-bottom: 50px;
+  gap: 2vw;
+  width: 100%;
+}
+main .main .bank div {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  height: 8.5vw;
+  width: 23.25%;
+}
+main .main .bank div:nth-child(1) img {
+  margin-top: 2vw;
+  max-width: 90%;
+  margin-left: 1vw;
+  height: auto;
+}
+main .main .bank div:nth-child(2) img {
+  margin-top: 2.7vw;
+  margin-left: 2vw;
+  max-width: 90%;
+  height: auto;
+}
+main .main .bank div:nth-child(3) img {
+  margin-top: 1.6vw;
+  margin-left: 2.6vw;
+  max-width: 90%;
+  height: auto;
+}
+main .main .bank div:nth-child(4) img {
+  margin-top: 1.8vw;
+  margin-left: 1.4vw;
+  max-width: 90%;
+  height: auto;
+}
+main .main .fotoavt {
+  font-weight: bold;
+  margin-top: 3vw;
+  margin-bottom: 2vw;
+  font-size: 45px;
+}
+main .main .fotoavt1 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+main .main .fotoavt1 img {
+  width: 31%;
+  height: auto;
+  border-radius: 20px;
+}/*# sourceMappingURL=companyinfo.css.map */

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74184283-820D-487E-A31B-E38BCCD5510F}|2dop\\2dop.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\2dop\\2dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74184283-820D-487E-A31B-E38BCCD5510F}|2dop\\2dop.vcxproj|solutionrelative:2dop\\2dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50DA10-37AE-4AB5-9DDD-F31E82B5B4BA}|lab4\\lab4.vcxproj|C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C50DA10-37AE-4AB5-9DDD-F31E82B5B4BA}|lab4\\lab4.vcxproj|solutionrelative:lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2dop.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\2dop\\2dop.cpp",
+              "RelativeDocumentMoniker": "2dop\\2dop.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\2dop\\2dop.cpp",
+              "RelativeToolTip": "2dop\\2dop.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T15:20:07.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\lab4\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4\\lab4.cpp",
+              "ToolTip": "C:\\Users\\ppeen\\OneDrive\\Desktop\\unik\\1kurs2sem\\aisd\\lab4\\lab4\\lab4.cpp",
+              "RelativeToolTip": "lab4\\lab4.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T13:47:53.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+  @media (max-width: 768px) {
+     main {
+        div.main {
+            div.kart {
+                div.cards{ grid-template-columns:1fr;
+                    div.card{
+                         h3{
+                            font-size: 4vw;
+                         }
+                         .cena12345,.ot{
+                             font-size:2.3vw;
+                         }
+                         .cena123456{
+                            font-size:1.8vw;
+                         }
+                    }
+                }
+            }
+        }
+    }
+  }
