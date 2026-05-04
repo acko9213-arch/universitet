@@ -1,11 +1,15 @@
 @media (max-width: 480px) {
-    main{
-           div.main{
-.bank1{
-    margin-bottom: 2vw;
+    main {
+        div.main {
+            .bank1 {
+                margin-bottom: 2vw;
+            }
+
+            p.fotoavt,
+            .bank1,
+            h1 {
+                font-size: 35px;
+            }
+        }
+    }
 }
-p.fotoavt,.bank1,h1{
-    font-size: 35px;
-}
-           }
-    }}

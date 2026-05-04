@@ -35,9 +35,9 @@
   }
   main div.main div.car div.slidu .r,
   main div.main div.car div.slidu .l {
-    width: 22px;
-    height: 22px;
-    font-size: 11px;
+    width: 44px;
+    height: 44px;
+    font-size: 22px;
   }
   main div.main div.car .price0,
   main div.main div.car .carinfo,
@@ -132,7 +132,11 @@
 }
 @media (max-width: 900px) {
   main div.main div.car .carinfo .price0 {
-    font-size: 5vw;
+    font-size: 4vw;
+  }
+  main div.main div.car .carinfo .price0 div.obprice {
+    display: block;
+    width: 100%;
   }
   main div.main div.car .carinfo .price0 .obkredit button.kredit1 {
     font-size: 5vw;
@@ -160,7 +164,6 @@ main .main .high a {
   text-decoration: none;
   color: #737373;
   font-size: 13px;
-  outline: #EFF0F0 1px;
 }
 main .main .high a:hover {
   color: #555;
@@ -171,10 +174,9 @@ main .main .car h1 {
   font-size: 40px;
 }
 main .main .car .line {
-  text-align: left;
   background-color: #dcdcdc;
   height: 1.3px;
-  margin: 20px 0px;
+  margin: 20px 0;
   border-radius: 20px;
 }
 main .main .car .slidu {
@@ -198,6 +200,7 @@ main .main .car .slidu .l {
   font-size: 22px;
   cursor: pointer;
   z-index: 10;
+  transition: background 0.2s;
 }
 main .main .car .slidu .r:hover,
 main .main .car .slidu .l:hover {
@@ -225,8 +228,7 @@ main .main .car .slidu .slides .slide img {
 }
 main .main .car .equip {
   width: 80%;
-  margin: 0 auto;
-  margin-bottom: 50px;
+  margin: 0 auto 50px;
 }
 main .main .car .equip h2 {
   font-size: 28px;
@@ -238,12 +240,12 @@ main .main .car .equip ul {
 }
 main .main .car .equip ul li {
   font-size: 20px;
-  line-height: 30px;
+  line-height: 25px;
+  margin-top: 8px;
 }
 main .main .car .carinfo {
   width: 80%;
-  margin: 0 auto;
-  margin-top: 22.5px;
+  margin: 22.5px auto 0;
 }
 main .main .car .carinfo .specs {
   margin-bottom: 50px;
@@ -254,6 +256,10 @@ main .main .car .carinfo .specs .spec {
   padding: 15px 20px;
   font-size: 36px;
   margin-top: 22.5px;
+  transition: background-color 0.2s;
+}
+main .main .car .carinfo .specs .spec:hover {
+  background-color: #ebebeb;
 }
 main .main .car .carinfo .specs .spec span {
   width: 55%;
@@ -268,13 +274,13 @@ main .main .car .carinfo .specs .spec:nth-child(1) {
   text-align: center;
 }
 main .main .car .carinfo .price0 {
-  font-size: 36px;
+  font-size: 30px;
   background-color: #f4f4f4;
   border-radius: 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 15px 0vw;
+  padding: 15px 0;
 }
 main .main .car .carinfo .price0 .obprice {
   margin-left: 2vw;
@@ -282,9 +288,6 @@ main .main .car .carinfo .price0 .obprice {
   align-items: center;
   flex-wrap: wrap;
   max-width: 350px;
-}
-main .main .car .carinfo .price0 .obprice .price1 {
-  margin-right: 10px;
 }
 main .main .car .carinfo .price0 .obkredit {
   margin: 0;
@@ -300,6 +303,8 @@ main .main .car .carinfo .price0 .obkredit .kredit1 {
   border: none;
   border-radius: 22px;
   margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
 }
 main .main .car .carinfo .price0 .obkredit .kredit1:hover {
   background-color: #aa0000;
@@ -323,6 +328,7 @@ main .modalwindow {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.25s ease;
 }
 main .modalwindow .blackwindow {
   background-color: transparent;
@@ -331,6 +337,7 @@ main .modalwindow .blackwindow {
   width: 30%;
   border-radius: 5px;
   position: relative;
+  animation: slideDown 0.3s ease;
 }
 main .modalwindow .blackwindow .krest {
   cursor: pointer;
@@ -340,6 +347,10 @@ main .modalwindow .blackwindow .krest {
   color: white;
   position: absolute;
   z-index: 12000;
+  transition: transform 0.2s;
+}
+main .modalwindow .blackwindow .krest:hover {
+  transform: scale(1.2);
 }
 main .modalwindow .blackwindow .blockmodal {
   text-align: center;
@@ -354,7 +365,8 @@ main .modalwindow .blackwindow .blockmodal p:first-child {
   font-weight: bold;
   font-size: 2vw;
 }
-main .modalwindow .blackwindow .blockmodal .avto, main .modalwindow .blackwindow .blockmodal .cennik {
+main .modalwindow .blackwindow .blockmodal .avto,
+main .modalwindow .blackwindow .blockmodal .cennik {
   font-size: 1.7vw;
 }
 main .modalwindow .blackwindow .blockmodal .forma {
@@ -377,17 +389,18 @@ main .modalwindow .blackwindow .blockmodal .forma input:focus {
 }
 main .modalwindow .blackwindow .blockmodal .forma input {
   margin-top: 1.5vw;
-  padding: 1.1vw 1.1vw;
+  padding: 1.1vw;
   width: 100%;
   border-radius: 5px;
   border: none;
   background-color: #f0f0f0;
   display: block;
   font-size: 1vw;
+  transition: box-shadow 0.2s;
 }
 main .modalwindow .blackwindow .blockmodal button {
   margin-top: 1.5vw;
-  padding: 1.1vw 1.1vw;
+  padding: 1.1vw;
   width: 20vw;
   border-radius: 5px;
   -webkit-tap-highlight-color: transparent;
@@ -397,6 +410,7 @@ main .modalwindow .blackwindow .blockmodal button {
   color: white;
   font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
 }
 main .modalwindow .blackwindow .blockmodal button:hover {
   background-color: #aa0000;
@@ -412,4 +426,23 @@ main .modalwindow .blackwindow .blockmodal .persona {
 }
 main .modalwindow .blackwindow .blockmodal .persona a {
   color: #ccc;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes slideDown {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }/*# sourceMappingURL=car.css.map */

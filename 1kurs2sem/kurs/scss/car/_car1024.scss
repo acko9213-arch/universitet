@@ -18,18 +18,24 @@
 
                     .avto,
                     .cennik {
-                        font-size: 2vw;display: inline-block;
+                        font-size: 2vw;
+                        display: inline-block;
                     }
-.avto{margin-right: 20px;}
+
+                    .avto {
+                        margin-right: 20px;
+                    }
 
 
                     .forma {
                         input {
-                        padding: 1.3vw 1.3vw;font-size:1.4vw;
+                            padding: 1.3vw 1.3vw;
+                            font-size: 1.4vw;
                         }
 
                         button {
-                            font-size:1.8vw;width: 25vw;
+                            font-size: 1.8vw;
+                            width: 25vw;
                         }
 
                         p.persona {
@@ -53,8 +59,14 @@
                             margin: 0;
                             text-align: center;
                             justify-content: center;
-                            .kredit2{font-size: 3.5vw;}
-                             .kredit1{margin:20px 0px;}
+
+                            .kredit2 {
+                                font-size: 3.5vw;
+                            }
+
+                            .kredit1 {
+                                margin: 20px 0px;
+                            }
                         }
                     }
                 }

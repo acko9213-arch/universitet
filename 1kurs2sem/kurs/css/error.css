@@ -54,13 +54,12 @@ div {
 }
 div h1 {
   opacity: 0.6;
-  margin: 0px;
+  margin: 0;
   color: white;
   font-size: 28px;
   font-weight: bold;
 }
 div p {
-  width: 50%;
   color: #747474;
   opacity: 0.7;
   width: 100%;
@@ -77,6 +76,7 @@ div a button {
   border-radius: 6px;
   font-size: 15px;
   cursor: pointer;
+  transition: background-color 0.2s;
 }
 div a button:hover {
   background: #aa0000;

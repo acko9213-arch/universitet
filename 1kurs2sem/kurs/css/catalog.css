@@ -5,7 +5,8 @@
   main div.main div.kart div#cards div.card h3 {
     font-size: 6vw;
   }
-  main div.main div.kart div#cards div.card .cena12345, main div.main div.kart div#cards div.card .ot {
+  main div.main div.kart div#cards div.card .cena12345,
+  main div.main div.kart div#cards div.card .ot {
     font-size: 4vw;
   }
   main div.main div.kart div#cards div.card .cena123456 {
@@ -25,7 +26,8 @@
   main div.main div.kart div.cards div.card h3 {
     font-size: 4vw;
   }
-  main div.main div.kart div.cards div.card .cena12345, main div.main div.kart div.cards div.card .ot {
+  main div.main div.kart div.cards div.card .cena12345,
+  main div.main div.kart div.cards div.card .ot {
     font-size: 2.3vw;
   }
   main div.main div.kart div.cards div.card .cena123456 {
@@ -39,7 +41,8 @@
   main div.main div.kart div.cards div.card h3 {
     font-size: 3vw;
   }
-  main div.main div.kart div.cards div.card .cena12345, main div.main div.kart div.cards div.card .ot {
+  main div.main div.kart div.cards div.card .cena12345,
+  main div.main div.kart div.cards div.card .ot {
     font-size: 2.3vw;
   }
   main div.main div.kart div.cards div.card .cena123456 {
@@ -67,7 +70,6 @@ main .main .high a {
   text-decoration: none;
   color: #737373;
   font-size: 13px;
-  outline: #EFF0F0 1px;
 }
 main .main .high a:hover {
   color: #555;
@@ -78,18 +80,15 @@ main .main .kart h1 {
   font-size: 45px;
 }
 main .main .kart .line {
-  text-align: left;
   background-color: #dcdcdc;
   height: 1.3px;
-  margin: 20px 0px;
+  margin: 20px 0;
   border-radius: 20px;
 }
 main .main .kart .filtr {
   background-color: #f7f7f7;
   border-radius: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
+  padding: 0 20px 20px;
   margin-bottom: 3vw;
 }
 main .main .kart .filtr h2 {
@@ -185,6 +184,7 @@ main .main .kart .filtr .allfiltr .korob select {
      -moz-appearance: none;
           appearance: none;
   -webkit-tap-highlight-color: transparent;
+  transition: border-color 0.2s;
 }
 main .main .kart .filtr .allfiltr .kusov select:focus,
 main .main .kart .filtr .allfiltr .mark select:focus,
@@ -229,12 +229,13 @@ main .main .kart .cards .card {
   padding: 20px;
   flex: 1 1 450px;
   height: auto;
-  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
   justify-content: space-between;
-  transition: 0.3s;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 main .main .kart .cards .card:hover {
   transform: scale(1.03);
+  box-shadow: 0 16px 35px rgba(0, 0, 0, 0.14);
 }
 main .main .kart .cards .card h3 {
   font-weight: bold;
@@ -272,7 +273,7 @@ main .main .kart .cards .card button {
   display: block;
   -webkit-tap-highlight-color: transparent;
   font-weight: bold;
-  transition: 0.3s;
+  transition: background-color 0.2s, transform 0.1s;
   margin-top: 10px;
 }
 main .main .kart .cards .card button:hover {

@@ -7,7 +7,8 @@
 
                 .krest {
                     top: -5%;
-                    right: 1%;font-size: 10vw;
+                    right: 1%;
+                    font-size: 10vw;
                 }
 
                 .blockmodal {
@@ -25,11 +26,16 @@
 
                     .forma {
                         input {
-                        padding: 3vw 3vw;font-size:3vw;margin-top:4vw;
+                            padding: 3vw 3vw;
+                            font-size: 3vw;
+                            margin-top: 4vw;
                         }
 
                         button {
-                            font-size:3vw;width: 45vw;padding: 2.5vw 2.5vw;margin:4vw 0vw;
+                            font-size: 3vw;
+                            width: 45vw;
+                            padding: 2.5vw 2.5vw;
+                            margin: 4vw 0vw;
                         }
 
                         p.persona {
@@ -40,6 +46,7 @@
                 }
             }
         }
+
         div.main {
             div.car {
                 div.slidu {
@@ -47,9 +54,9 @@
 
                     .r,
                     .l {
-                        width: 22px;
-                        height: 22px;
-                        font-size: 11px;
+                        width: 44px;
+                        height: 44px;
+                        font-size: 22px;
                     }
                 }
 
@@ -61,15 +68,17 @@
 
                 div.carinfo {
                     div.price0 {
+
                         div.obkredit {
                             button.kredit1 {
-                                margin: 10px 0px;border-radius: 10px;
+                                margin: 10px 0px;
+                                border-radius: 10px;
                             }
                         }
                     }
                 }
             }
         }
-        
+
     }
 }

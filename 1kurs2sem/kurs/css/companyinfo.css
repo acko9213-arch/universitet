@@ -2,7 +2,9 @@
   main div.main .bank1 {
     margin-bottom: 2vw;
   }
-  main div.main p.fotoavt, main div.main .bank1, main div.main h1 {
+  main div.main p.fotoavt,
+  main div.main .bank1,
+  main div.main h1 {
     font-size: 35px;
   }
 }
@@ -70,7 +72,6 @@ main .main .high a {
   text-decoration: none;
   color: #737373;
   font-size: 13px;
-  outline: #EFF0F0 1px;
 }
 main .main .high a:hover {
   color: #555;
@@ -82,7 +83,7 @@ main .main .company h1 {
 main .main .company .line {
   background-color: #dcdcdc;
   height: 1.3px;
-  margin: 20px 0px;
+  margin: 20px 0;
   border-radius: 20px;
 }
 main .main .company .wid {
@@ -128,6 +129,11 @@ main .main .bank div {
   border-radius: 10px;
   height: 8.5vw;
   width: 23.25%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+main .main .bank div:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 main .main .bank div:nth-child(1) img {
   margin-top: 2vw;
@@ -137,20 +143,20 @@ main .main .bank div:nth-child(1) img {
 }
 main .main .bank div:nth-child(2) img {
   margin-top: 2.7vw;
-  margin-left: 2vw;
   max-width: 90%;
+  margin-left: 2vw;
   height: auto;
 }
 main .main .bank div:nth-child(3) img {
   margin-top: 1.6vw;
-  margin-left: 2.6vw;
   max-width: 90%;
+  margin-left: 2.6vw;
   height: auto;
 }
 main .main .bank div:nth-child(4) img {
   margin-top: 1.8vw;
-  margin-left: 1.4vw;
   max-width: 90%;
+  margin-left: 1.4vw;
   height: auto;
 }
 main .main .fotoavt {
@@ -168,4 +174,8 @@ main .main .fotoavt1 img {
   width: 31%;
   height: auto;
   border-radius: 20px;
+  transition: transform 0.3s ease;
+}
+main .main .fotoavt1 img:hover {
+  transform: scale(1.02);
 }/*# sourceMappingURL=companyinfo.css.map */

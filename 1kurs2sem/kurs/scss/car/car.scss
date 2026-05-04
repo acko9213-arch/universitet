@@ -11,7 +11,6 @@ main {
         margin-left: 35px;
         margin-right: 35px;
 
-       
         .high {
             margin-left: 5px;
 
@@ -24,30 +23,24 @@ main {
                 text-decoration: none;
                 color: #737373;
                 font-size: 13px;
-                outline: #EFF0F0 1px;
 
                 &:hover {
                     color: #555;
                 }
             }
-
         }
 
         .car {
-
             h1 {
                 text-align: left;
                 font-weight: bold;
-
-
                 font-size: 40px;
             }
 
             .line {
-                text-align: left;
                 background-color: #dcdcdc;
                 height: 1.3px;
-                margin: 20px 0px;
+                margin: 20px 0;
                 border-radius: 20px;
             }
 
@@ -72,6 +65,7 @@ main {
                     font-size: 22px;
                     cursor: pointer;
                     z-index: 10;
+                    transition: background 0.2s;
 
                     &:hover {
                         background: rgba(0, 0, 0, 0.7);
@@ -85,7 +79,6 @@ main {
                 .l {
                     right: 12px;
                 }
-
 
                 .slides {
                     display: flex;
@@ -107,17 +100,28 @@ main {
 
             .equip {
                 width: 80%;
-                margin: 0 auto;margin-bottom:50px;
-h2{font-size: 28px;margin-left:10px;}
-                ul {list-style-type: none;margin-left:20px;
-                    li {font-size:20px;line-height:30px;}
+                margin: 0 auto 50px;
+
+                h2 {
+                    font-size: 28px;
+                    margin-left: 10px;
+                }
+
+                ul {
+                    list-style-type: none;
+                    margin-left: 20px;
+
+                    li {
+                        font-size: 20px;
+                        line-height: 25px;
+                        margin-top: 8px;
+                    }
                 }
             }
 
             .carinfo {
                 width: 80%;
-                margin: 0 auto;
-                margin-top: 22.5px;
+                margin: 22.5px auto 0;
 
                 .specs {
                     margin-bottom: 50px;
@@ -128,10 +132,16 @@ h2{font-size: 28px;margin-left:10px;}
                         padding: 15px 20px;
                         font-size: 36px;
                         margin-top: 22.5px;
+                        transition: background-color 0.2s;
+
+                        &:hover {
+                            background-color: #ebebeb;
+                        }
 
                         span {
                             width: 55%;
-                            display: inline-block;vertical-align: middle;
+                            display: inline-block;
+                            vertical-align: middle;
                         }
 
                         .spec1 {
@@ -146,12 +156,13 @@ h2{font-size: 28px;margin-left:10px;}
                 }
 
                 .price0 {
-                    font-size: 36px;
+                    font-size: 30px;
                     background-color: #f4f4f4;
                     border-radius: 10px;
-                    display: flex;flex-wrap: wrap;
+                    display: flex;
+                    flex-wrap: wrap;
                     justify-content: space-between;
-                    padding: 15px 0vw;
+                    padding: 15px 0;
 
                     .obprice {
                         margin-left: 2vw;
@@ -159,22 +170,24 @@ h2{font-size: 28px;margin-left:10px;}
                         align-items: center;
                         flex-wrap: wrap;
                         max-width: 350px;
-                        .price1{
-                            margin-right:10px;
-                        }
                     }
 
-                    .obkredit { margin: 0;
-                            text-align: center;
-                            justify-content: center;
+                    .obkredit {
+                        margin: 0;
+                        text-align: center;
+                        justify-content: center;
+
                         .kredit1 {
                             font-size: 36px;
                             background-color: #cc0000;
                             font-weight: bold;
-                            padding: 15px 45px; 
+                            padding: 15px 45px;
                             color: white;
                             border: none;
-                            border-radius: 22px;margin-bottom:10px;
+                            border-radius: 22px;
+                            margin-bottom: 10px;
+                            cursor: pointer;
+                            transition: background-color 0.2s, transform 0.1s;
 
                             &:hover {
                                 background-color: #aa0000;
@@ -184,116 +197,158 @@ h2{font-size: 28px;margin-left:10px;}
                                 background-color: #880000;
                                 transform: scale(0.97);
                             }
-                            
                         }
-.kredit2{font-size: 30px;}
+
+                        .kredit2 {
+                            font-size: 30px;
+                        }
+
                         margin-right: 5vw;
                     }
                 }
             }
         }
     }
+
     .modalwindow {
-  display: none;
-  position: fixed;
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-
-.blackwindow {
-  background-color: transparent;
-  margin: 7% auto;
-  padding: 20px;
-  width: 30%;
-  border-radius: 5px;
-position: relative;
-  .krest {
-  
-
-    cursor: pointer;
-    font-size: 6vw;
-    top: -10%;      
-    right: -7%;    color:white;
-
-    position: absolute;
-    z-index: 12000;
-  
-  }
-
-      .blockmodal {text-align: center;
-      padding:20px;
- background-color: white ;
-        border-radius: 15px;
-
-        position: relative;
-        z-index: 1020;
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
         width: 100%;
-         p:first-child{
-            font-weight: bold;
-            font-size: 2vw;
-         }
-         .avto,.cennik{
-               font-size: 1.7vw;
-         }
-        .forma {display: flex;flex-wrap:wrap;justify-content:center;
-          input::placeholder {
-    color: black;
-    opacity: 1; 
-}
-          input:focus {
-    outline: none;
-    border-color: #667eea;
-    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
-     
-          
-}
-          input {
-            margin-top: 1.5vw;
-            padding: 1.1vw 1.1vw;
-            width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        animation: fadeIn 0.25s ease;
+
+        .blackwindow {
+            background-color: transparent;
+            margin: 7% auto;
+            padding: 20px;
+            width: 30%;
             border-radius: 5px;
-            border: none;
-            background-color: #f0f0f0;
-            display: block;
-            font-size: 1vw;
-            
-          }
-        }
+            position: relative;
+            animation: slideDown 0.3s ease;
 
-        button {
-          margin-top: 1.5vw;
-          padding: 1.1vw 1.1vw;
-          width: 20vw;
-          border-radius: 5px;-webkit-tap-highlight-color: transparent;
-          border: none;
-          background-color: #cc0000;
-          font-size: 0.90vw;
-          color: white;
-          font-weight: bold;    cursor: pointer;
- &:hover {
-        background-color: #aa0000;
-      }
-     
-                  &:active {
-        background-color: #880000;
-        transform: scale(0.97);
+            .krest {
+                cursor: pointer;
+                font-size: 6vw;
+                top: -10%;
+                right: -7%;
+                color: white;
+                position: absolute;
+                z-index: 12000;
+                transition: transform 0.2s;
+
+                &:hover {
+                    transform: scale(1.2);
+                }
+            }
+
+            .blockmodal {
+                text-align: center;
+                padding: 20px;
+                background-color: white;
+                border-radius: 15px;
+                position: relative;
+                z-index: 1020;
+                width: 100%;
+
+                p:first-child {
+                    font-weight: bold;
+                    font-size: 2vw;
+                }
+
+                .avto,
+                .cennik {
+                    font-size: 1.7vw;
+                }
+
+                .forma {
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+
+                    input::placeholder {
+                        color: black;
+                        opacity: 1;
+                    }
+
+                    input:focus {
+                        outline: none;
+                        border-color: #667eea;
+                        box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+                    }
+
+                    input {
+                        margin-top: 1.5vw;
+                        padding: 1.1vw;
+                        width: 100%;
+                        border-radius: 5px;
+                        border: none;
+                        background-color: #f0f0f0;
+                        display: block;
+                        font-size: 1vw;
+                        transition: box-shadow 0.2s;
+                    }
+                }
+
+                button {
+                    margin-top: 1.5vw;
+                    padding: 1.1vw;
+                    width: 20vw;
+                    border-radius: 5px;
+                    -webkit-tap-highlight-color: transparent;
+                    border: none;
+                    background-color: #cc0000;
+                    font-size: 0.90vw;
+                    color: white;
+                    font-weight: bold;
+                    cursor: pointer;
+                    transition: background-color 0.2s, transform 0.1s;
+
+                    &:hover {
+                        background-color: #aa0000;
+                    }
+
+                    &:active {
+                        background-color: #880000;
+                        transform: scale(0.97);
+                    }
+                }
+
+                .persona {
+                    margin-top: 1vw;
+                    font-size: 0.8vw;
+                    color: #ccc;
+
+                    a {
+                        color: #ccc;
+                    }
+                }
+            }
+        }
     }
-        }
-
-        .persona {
-          margin-top: 1vw;
-          font-size: 0.8vw;
-          color: #ccc;a{
-            color:#ccc;
-          }
-        }
-      
-
-    }
-  }
 }
 
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-30px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }

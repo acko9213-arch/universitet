@@ -21,40 +21,31 @@ main {
                 text-decoration: none;
                 color: #737373;
                 font-size: 13px;
-                outline: #EFF0F0 1px;
 
                 &:hover {
                     color: #555;
                 }
             }
-
         }
 
         .kart {
-
-
             h1 {
                 text-align: left;
                 font-weight: bold;
-
-
                 font-size: 45px;
             }
 
             .line {
-                text-align: left;
                 background-color: #dcdcdc;
                 height: 1.3px;
-                margin: 20px 0px;
+                margin: 20px 0;
                 border-radius: 20px;
             }
 
             .filtr {
                 background-color: #f7f7f7;
                 border-radius: 20px;
-                padding-left: 20px;
-                padding-right: 20px;
-                padding-bottom: 20px;
+                padding: 0 20px 20px;
                 margin-bottom: 3vw;
 
                 h2 {
@@ -67,7 +58,6 @@ main {
                 .allfiltr {
                     display: flex;
                     flex-wrap: wrap;
-
                     justify-content: space-between;
                     gap: 15px;
 
@@ -97,7 +87,6 @@ main {
                                 }
                             }
 
-
                             input[type="range"] {
                                 -webkit-appearance: none;
                                 border-radius: 10px;
@@ -123,9 +112,12 @@ main {
                             width: 102.5%;
                             display: flex;
                             justify-content: space-between;
-                          span:nth-child(1){
-                               position: relative; right: 7px;
-                              }
+
+                            span:nth-child(1) {
+                                position: relative;
+                                right: 7px;
+                            }
+
                             span {
                                 text-align: center;
                                 display: inline-block;
@@ -140,7 +132,6 @@ main {
                                     background-color: #bebebe;
                                 }
                             }
-
                         }
                     }
 
@@ -152,24 +143,20 @@ main {
 
                         select {
                             width: 100%;
-
                             padding: 20px 24px;
                             font-size: 16px;
-
                             background-color: white;
                             border: 1px solid #E1E1E1;
                             border-radius: 5px;
                             cursor: pointer;
-
                             appearance: none;
                             -webkit-tap-highlight-color: transparent;
+                            transition: border-color 0.2s;
 
                             &:focus {
                                 outline: none;
                                 border-color: #aaa;
                             }
-
-
                         }
 
                         .arrow {
@@ -191,30 +178,34 @@ main {
                         }
                     }
                 }
-
             }
-            
-            .cards {margin-bottom: 50px;
-               
-           display: grid;grid-template-columns: 1fr 1fr 1fr;
-               gap:20px;
 
-                .card {display:flex;flex-wrap: wrap;
+            .cards {
+                margin-bottom: 50px;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                gap: 20px;
+
+                .card {
+                    display: flex;
+                    flex-wrap: wrap;
                     background: #ffffff;
                     border-radius: 20px;
                     padding: 20px;
-                    flex:1 1 450px;
+                    flex: 1 1 450px;
                     height: auto;
-                    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.08); justify-content: space-between;
+                    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+                    justify-content: space-between;
+                    transition: transform 0.3s ease, box-shadow 0.3s ease;
 
-                    transition: 0.3s;
-                        &:hover{
-                               transform: scale(1.03);
-                        }
+                    &:hover {
+                        transform: scale(1.03);
+                        box-shadow: 0 16px 35px rgba(0, 0, 0, 0.14);
+                    }
 
                     h3 {
                         font-weight: bold;
-                        font-size:2vw;
+                        font-size: 2vw;
                         margin-bottom: 20px;
                     }
 
@@ -226,13 +217,13 @@ main {
                     }
 
                     .ot {
-                      margin-right: 10px;
+                        margin-right: 10px;
                     }
 
                     .cena123456 {
-                         font-size: 1.3vw;
-                        display: inline-block;margin-top: 1.5px;
-                        
+                        font-size: 1.3vw;
+                        display: inline-block;
+                        margin-top: 1.5px;
                     }
 
                     img {
@@ -253,7 +244,7 @@ main {
                         display: block;
                         -webkit-tap-highlight-color: transparent;
                         font-weight: bold;
-                        transition: 0.3s;
+                        transition: background-color 0.2s, transform 0.1s;
                         margin-top: 10px;
 
                         &:hover {
@@ -265,7 +256,6 @@ main {
                             transform: scale(0.97);
                         }
                     }
-
                 }
             }
         }

@@ -3,68 +3,68 @@
   <info id="1">
     <namesite>Информация о Volkswagen ID.3</namesite>
     <name>Volkswagen ID.3</name>
-  <image1>images/cars/car1/1.jpg</image1>
+    <image1>images/cars/car1/1.jpg</image1>
     <image2>images/cars/car1/2.jpg</image2>
-     <image3>images/cars/car1/3.jpg</image3>
-      <image4>images/cars/car1/4.jpg</image4>
-       <image5>images/cars/car1/5.jpg</image5>
-        <image6>images/cars/car1/6.jpg</image6>
-         <image7>images/cars/car1/7.jpg</image7>
-          <image8>images/cars/car1/8.jpg</image8>
+    <image3>images/cars/car1/3.jpg</image3>
+    <image4>images/cars/car1/4.jpg</image4>
+    <image5>images/cars/car1/5.jpg</image5>
+    <image6>images/cars/car1/6.jpg</image6>
+    <image7>images/cars/car1/7.jpg</image7>
+    <image8>images/cars/car1/8.jpg</image8>
     <cena1>59 582 BYN</cena1>
-    <cena2> 20 000 $ / 17 800 €</cena2>
-   
-    <kredit>Кредит от 597Br/мес. </kredit>
+    <cena2> 20 000$ / 17 800€</cena2>
+
+    <kredit>Кредит от 597 BYN/мес. </kredit>
     <god>2026г</god>
     <dvig>Электрический</dvig>
     <korob>Автомат</korob>
     <privod>Полный</privod>
     <moch>231 л. с.</moch>
-      <krinf>Антиблокировочная тормозная система (ABS)</krinf>
-  <krinf>Распределение тормозных усилий (EBD)</krinf>
-  <krinf>Система курсовой устойчивости (ESP)</krinf>
-  <krinf>Противобуксовочная система (TCS)</krinf>
-  <krinf>Ассистент экстренного торможения (BA)</krinf>
-  <krinf>Система помощи при подъеме в гору (HHC)</krinf>
-  <krinf>Электропривод крышки багажного отделения</krinf>
-  <krinf>Панорамная крыша</krinf>
-  <krinf>Электрическая регулировка наружных зеркал</krinf>
-  <krinf>Электрический обогрев наружных зеркал</krinf>
-  <krinf>Автоматическое складывание зеркал</krinf>
-  <krinf>Датчик света</krinf>
-  <krinf>Обогрев рулевого колеса</krinf>
-  <krinf>Подогрев передних и задних сидений</krinf>
-  <krinf>Вентиляция передних сидений</krinf>
-  <krinf>Складывание задних сидений 60/40</krinf>
-  <krinf>Крепление ISOFIX</krinf>
-  <krinf>Центральный дисплей 12.9"</krinf>
-  <krinf>Беспроводная зарядка смартфона</krinf>
-  <krinf>Подключение по Bluetooth</krinf>
-  <krinf>Камера заднего вида</krinf>
-  <krinf>Система предупреждения фронтального столкновения (FCW)</krinf>
-  <krinf>Автоматическое экстренное торможение (AEB)</krinf>
-  <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
-  <krinf>Помощь при удержании полосы (LKA)</krinf>
-  <krinf>Контроль слепых зон (BSD)</krinf>
-  <krinf>Адаптивный круиз-контроль (ACC)</krinf>
-  <krinf>Система автоматической парковки (APA)</krinf>
-  <krinf>Двухзонный климат-контроль</krinf>
-  <krinf>Онлайн обновления "по воздуху"</krinf>
+    <krinf>Антиблокировочная тормозная система (ABS)</krinf>
+    <krinf>Распределение тормозных усилий (EBD)</krinf>
+    <krinf>Система курсовой устойчивости (ESP)</krinf>
+    <krinf>Противобуксовочная система (TCS)</krinf>
+    <krinf>Ассистент экстренного торможения (BA)</krinf>
+    <krinf>Система помощи при подъеме в гору (HHC)</krinf>
+    <krinf>Электропривод крышки багажного отделения</krinf>
+    <krinf>Панорамная крыша</krinf>
+    <krinf>Электрическая регулировка наружных зеркал</krinf>
+    <krinf>Электрический обогрев наружных зеркал</krinf>
+    <krinf>Автоматическое складывание зеркал</krinf>
+    <krinf>Датчик света</krinf>
+    <krinf>Обогрев рулевого колеса</krinf>
+    <krinf>Подогрев передних и задних сидений</krinf>
+    <krinf>Вентиляция передних сидений</krinf>
+    <krinf>Складывание задних сидений 60/40</krinf>
+    <krinf>Крепление ISOFIX</krinf>
+    <krinf>Центральный дисплей 12.9"</krinf>
+    <krinf>Беспроводная зарядка смартфона</krinf>
+    <krinf>Подключение по Bluetooth</krinf>
+    <krinf>Камера заднего вида</krinf>
+    <krinf>Система предупреждения фронтального столкновения (FCW)</krinf>
+    <krinf>Автоматическое экстренное торможение (AEB)</krinf>
+    <krinf>Предупреждение о сходе с полосы (LDW)</krinf>
+    <krinf>Помощь при удержании полосы (LKA)</krinf>
+    <krinf>Контроль слепых зон (BSD)</krinf>
+    <krinf>Адаптивный круиз-контроль (ACC)</krinf>
+    <krinf>Система автоматической парковки (APA)</krinf>
+    <krinf>Двухзонный климат-контроль</krinf>
+    <krinf>Онлайн обновления "по воздуху"</krinf>
   </info>
-<info id="2">
-    <namesite>Информация о Volkswagen ID.4</namesite>
-    <name>Volkswagen ID.4</name>
-    <image1>images/cars/car2/1.jpg</image1>
-    <image2>images/cars/car2/2.jpg</image2>
-    <image3>images/cars/car2/3.jpg</image3>
-    <image4>images/cars/car2/4.jpg</image4>
-    <image5>images/cars/car2/5.jpg</image5>
-    <image6>images/cars/car2/6.jpg</image6>
-    <image7>images/cars/car2/7.jpg</image7>
-    <image8>images/cars/car2/8.jpg</image8>
+  <info id="3">
+    <namesite>Информация о Volkswagen Bora</namesite>
+    <name>Volkswagen Bora</name>
+    <image1>images/cars/car3/1.png</image1>
+    <image2>images/cars/car3/2.png</image2>
+    <image3>images/cars/car3/3.png</image3>
+    <image4>images/cars/car3/4.png</image4>
+    <image5>images/cars/car3/5.png</image5>
+    <image6>images/cars/car3/6.png</image6>
+    <image7>images/cars/car3/7.png</image7>
+    <image8>images/cars/car3/8.png</image8>
     <cena1>40 000 BYN</cena1>
-    <cena2>15 500 $ / 13 800 €</cena2>
-    <kredit>Кредит от 487Br/мес.</kredit>
+    <cena2>15 500$ / 13 800€</cena2>
+    <kredit>Кредит от 487 BYN/мес.</kredit>
     <god>2026г</god>
     <dvig>Электрический</dvig>
     <korob>Автомат</korob>
@@ -104,20 +104,20 @@
     <krinf>Онлайн обновления "по воздуху"</krinf>
   </info>
 
-  <info id="3">
-    <namesite>Информация о Volkswagen Bora</namesite>
-    <name>Volkswagen Bora</name>
-    <image1>images/cars/car3/1.png</image1>
-    <image2>images/cars/car3/2.png</image2>
-    <image3>images/cars/car3/3.png</image3>
-    <image4>images/cars/car3/4.png</image4>
-    <image5>images/cars/car3/5.png</image5>
-    <image6>images/cars/car3/6.png</image6>
-    <image7>images/cars/car3/7.png</image7>
-    <image8>images/cars/car3/8.png</image8>
+  <info id="2">
+    <namesite>Информация о Volkswagen ID.4</namesite>
+    <name>Volkswagen ID.4</name>
+    <image1>images/cars/car2/1.jpg</image1>
+    <image2>images/cars/car2/2.jpg</image2>
+    <image3>images/cars/car2/3.jpg</image3>
+    <image4>images/cars/car2/4.jpg</image4>
+    <image5>images/cars/car2/5.jpg</image5>
+    <image6>images/cars/car2/6.jpg</image6>
+    <image7>images/cars/car2/7.jpg</image7>
+    <image8>images/cars/car2/8.jpg</image8>
     <cena1>79 071 BYN</cena1>
-    <cena2>27 500 $ / 26 200 €</cena2>
-    <kredit>Кредит от 683Br/мес.</kredit>
+    <cena2>27 500$ / 26 200€</cena2>
+    <kredit>Кредит от 683 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>1.4 TSI, бензин</dvig>
     <korob>Автомат (DSG-7)</korob>
@@ -161,8 +161,8 @@
     <image7>images/cars/car4/7.png</image7>
     <image8>images/cars/car4/8.png</image8>
     <cena1>62 747 BYN</cena1>
-    <cena2>20 010 $ / 17 403 €</cena2>
-    <kredit>Кредит от 462Br/мес.</kredit>
+    <cena2>20 010$ / 17 403€</cena2>
+    <kredit>Кредит от 462 BYN/мес.</kredit>
     <god>2026г</god>
     <dvig>Электрический</dvig>
     <korob>Автомат</korob>
@@ -210,8 +210,8 @@
     <image7>images/cars/car5/7.png</image7>
     <image8>images/cars/car5/8.png</image8>
     <cena1>127 901 BYN</cena1>
-    <cena2>43 004 $ / 41 300 €</cena2>
-    <kredit>Кредит от 731Br/мес.</kredit>
+    <cena2>43 004$ / 41 300€</cena2>
+    <kredit>Кредит от 731 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>2.0 TSI, бензин</dvig>
     <korob>Автомат (DSG-7)</korob>
@@ -260,8 +260,8 @@
     <image7>images/cars/car6/7.png</image7>
     <image8>images/cars/car6/8.png</image8>
     <cena1>62 322 BYN</cena1>
-    <cena2>23 100 $ / 21 000 €</cena2>
-    <kredit>Кредит от 474Br/мес.</kredit>
+    <cena2>23 100$ / 21 000€</cena2>
+    <kredit>Кредит от 474 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>Электрический</dvig>
     <korob>Автомат</korob>
@@ -309,8 +309,8 @@
     <image7>images/cars/car7/7.png</image7>
     <image8>images/cars/car7/8.png</image8>
     <cena1>101 698 BYN</cena1>
-    <cena2>32 000$ / 29 000 €</cena2>
-    <kredit>Кредит от 613Br/мес.</kredit>
+    <cena2>32 000$ / 29 000€</cena2>
+    <kredit>Кредит от 613 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>2.5 Hybrid, бензин+электро</dvig>
     <korob>Автомат (e-CVT)</korob>
@@ -358,8 +358,8 @@
     <image7>images/cars/car8/7.png</image7>
     <image8>images/cars/car8/8.png</image8>
     <cena1>97 732 BYN</cena1>
-    <cena2>31 000 $ / 28 012 €</cena2>
-    <kredit>Кредит от 591Br/мес.</kredit>
+    <cena2>31 000$ / 28 012€</cena2>
+    <kredit>Кредит от 591 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>2.5 Hybrid, бензин+электро</dvig>
     <korob>Автомат (e-CVT)</korob>
@@ -407,8 +407,8 @@
     <image7>images/cars/car9/7.png</image7>
     <image8>images/cars/car9/8.png</image8>
     <cena1>124 643 BYN</cena1>
-    <cena2>48 000 $ / 45 423 €</cena2>
-    <kredit>Кредит от 809Br/мес.</kredit>
+    <cena2>48 000$ / 45 423€</cena2>
+    <kredit>Кредит от 809 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>2.0 TwinPower Turbo, бензин</dvig>
     <korob>Автомат (Steptronic 8)</korob>
@@ -455,8 +455,8 @@
     <image7>images/cars/car10/7.png</image7>
     <image8>images/cars/car10/8.png</image8>
     <cena1>149 846 BYN</cena1>
-    <cena2>53 002 $ / 48 900 €</cena2>
-    <kredit>Кредит от 948Br/мес.</kredit>
+    <cena2>53 002$ / 48 900€</cena2>
+    <kredit>Кредит от 948 BYN/мес.</kredit>
     <god>2026г</god>
     <dvig>Электрический</dvig>
     <korob>Автомат</korob>
@@ -506,8 +506,8 @@
     <image7>images/cars/car11/7.png</image7>
     <image8>images/cars/car11/8.png</image8>
     <cena1>84 701 BYN</cena1>
-    <cena2>23 500 $ / 21 400 €</cena2>
-    <kredit>Кредит от 562Br/мес.</kredit>
+    <cena2>23 500$ / 21 400€</cena2>
+    <kredit>Кредит от 562 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>1.5 TwinPower Turbo PHEV, бензин+электро</dvig>
     <korob>Автомат (Steptronic 7)</korob>
@@ -555,9 +555,9 @@
     <image6>images/cars/car12/6.png</image6>
     <image7>images/cars/car12/7.png</image7>
     <image8>images/cars/car12/8.png</image8>
-    <cena1>142 591 BYN</cena1>
-    <cena2>47 500 $ / 46 000 €</cena2>
-    <kredit>Кредит от 874Br/мес.</kredit>
+    <cena1>142 591 BYN </cena1>
+    <cena2>47 500$ / 46 000€</cena2>
+    <kredit>Кредит от 874 BYN/мес.</kredit>
     <god>2025г</god>
     <dvig>3.0 TwinPower Turbo, дизель</dvig>
     <korob>Автомат (Steptronic 8)</korob>

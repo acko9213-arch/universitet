@@ -17,54 +17,55 @@ main {
                 text-decoration: none;
                 color: #737373;
                 font-size: 13px;
-                outline: #EFF0F0 1px;
 
                 &:hover {
                     color: #555;
                 }
             }
-
         }
 
         .news {
             text-align: center;
 
-            h1 {text-align: left;    
+            h1 {
+                text-align: left;
                 font-weight: bold;
-
-
                 font-size: 45px;
             }
 
-            .line {text-align: left;    
+            .line {
                 background-color: #dcdcdc;
                 height: 1.3px;
-                margin: 20px 0px;
+                margin: 20px 0;
                 border-radius: 20px;
             }
 
             .button {
-                margin-bottom: 50px;
-                margin-top: 50px;
+                margin: 50px 0;
                 font-size: 20px;
                 width: 250.23px;
                 padding: 20px 40px;
-                border: none;   -webkit-tap-highlight-color: transparent;
-background-color:#cc0000;color:white;
+                border: none;
+                -webkit-tap-highlight-color: transparent;
+                background-color: #cc0000;
+                color: white;
                 border-radius: 7px;
                 cursor: pointer;
-                &:hover{
-                      background-color: #aa0000;
+                transition: background-color 0.2s, transform 0.1s;
+
+                &:hover {
+                    background-color: #aa0000;
                 }
-                  &:active {
-        background-color: #880000;
-        transform: scale(0.97);
-    }
+
+                &:active {
+                    background-color: #880000;
+                    transform: scale(0.97);
+                }
             }
 
             .fotos {
                 display: flex;
-                gap: 50px 0px;
+                gap: 50px 0;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
 
@@ -76,48 +77,49 @@ background-color:#cc0000;color:white;
                     display: flex;
                     flex-direction: column;
                     align-items: center;
+                    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+                    &:hover {
+                        transform: translateY(-6px);
+                        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+                    }
 
                     img {
                         width: 100%;
                         height: auto;
-
+                        border-radius: 25px 25px 0 0;
                     }
 
                     p {
-                        margin-left: 15px;
-                        margin-top: 10px;
+                        margin: 10px 15px 0;
                         font-size: 25px;
-                        margin-right: 15px; text-align: left;
+                        text-align: left;
                     }
 
                     a {
                         margin-top: auto;
-
                         margin-bottom: 30px;
-                        width:200px;
+                        width: 200px;
 
                         button {
                             background-color: #cc0000;
                             color: white;
-
                             font-weight: bold;
                             font-size: 15px;
-                              width: 100%;
-
+                            width: 100%;
                             padding: 14px 32px;
                             border: none;
                             border-radius: 7px;
                             cursor: pointer;
+                            transition: background-color 0.2s;
 
                             &:hover {
                                 background-color: #aa0000;
                             }
                         }
-
                     }
                 }
             }
-
         }
     }
 }

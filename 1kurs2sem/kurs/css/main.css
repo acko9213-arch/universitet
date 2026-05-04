@@ -141,6 +141,47 @@ main {
   gap: 1vw;
   flex-wrap: wrap;
 }
+main .foto1,
+main .foto2,
+main .foto3,
+main .foto4,
+main .foto5 {
+  overflow: hidden;
+  position: relative;
+}
+main .foto1 p:nth-child(3),
+main .foto2 p:nth-child(3),
+main .foto3 p:nth-child(3),
+main .foto4 p:nth-child(3),
+main .foto5 p:nth-child(3) {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  background-color: white;
+  font-size: 2vw;
+  padding: 1vw 0;
+  margin: 1.5% auto;
+  width: 13vw;
+  font-weight: bold;
+  border-radius: 20vw;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+main .foto1 p:nth-child(3):hover,
+main .foto2 p:nth-child(3):hover,
+main .foto3 p:nth-child(3):hover,
+main .foto4 p:nth-child(3):hover,
+main .foto5 p:nth-child(3):hover {
+  background-color: black;
+  color: white;
+}
+main .foto1 p:nth-child(3):active,
+main .foto2 p:nth-child(3):active,
+main .foto3 p:nth-child(3):active,
+main .foto4 p:nth-child(3):active,
+main .foto5 p:nth-child(3):active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
 main .foto1 {
   background-image: url("../images/carsmain/4.png");
   background-size: 100% 100%;
@@ -153,31 +194,16 @@ main .foto1 p:nth-child(1) {
   font-weight: bold;
   color: white;
   font-size: 2.5vw;
+  animation: fadeInUp 0.7s ease both;
 }
 main .foto1 p:nth-child(2) {
   color: white;
   font-size: 2.5vw;
+  animation: fadeInUp 0.7s 0.15s ease both;
 }
 main .foto1 p:nth-child(3) {
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  background-color: white;
   font-size: 2vw;
-  padding: 1vw 0vw;
-  margin: 1.5% auto;
-  width: 13vw;
-  font-weight: bold;
-  border-radius: 20vw;
-  transition: color 0.3s ease;
-}
-main .foto1 p:nth-child(3):hover {
-  background-color: black;
-  color: white;
-}
-main .foto1 p:nth-child(3):active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
+  animation: fadeInUp 0.7s 0.3s ease both;
 }
 main .foto2 {
   background-image: url("../images/carsmain/5.png");
@@ -195,27 +221,6 @@ main .foto2 p:nth-child(1) {
 main .foto2 p:nth-child(2) {
   color: white;
   font-size: 2.5vw;
-}
-main .foto2 p:nth-child(3) {
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  background-color: white;
-  font-size: 2vw;
-  padding: 1vw 0vw;
-  margin: 1.5% auto;
-  width: 13vw;
-  font-weight: bold;
-  border-radius: 20vw;
-  transition: color 0.3s ease;
-}
-main .foto2 p:nth-child(3):hover {
-  background-color: black;
-  color: white;
-}
-main .foto2 p:nth-child(3):active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
 }
 main .foto3 {
   background-image: url("../images/carsmain/6.png");
@@ -236,25 +241,7 @@ main .foto3 p:nth-child(2) {
   font-size: 2vw;
 }
 main .foto3 p:nth-child(3) {
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  background-color: white;
   font-size: 1.5vw;
-  padding: 1vw 0vw;
-  margin: 1.5% auto;
-  width: 13vw;
-  font-weight: bold;
-  border-radius: 20vw;
-  transition: color 0.3s ease;
-}
-main .foto3 p:nth-child(3):hover {
-  background-color: black;
-  color: white;
-}
-main .foto3 p:nth-child(3):active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
 }
 main .foto4 {
   background-image: url("../images/carsmain/7.png");
@@ -276,25 +263,7 @@ main .foto4 p:nth-child(2) {
   font-size: 2vw;
 }
 main .foto4 p:nth-child(3) {
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  background-color: white;
   font-size: 1.5vw;
-  padding: 1vw 0vw;
-  margin: 1.5% auto;
-  width: 13vw;
-  font-weight: bold;
-  border-radius: 20vw;
-  transition: color 0.3s ease;
-}
-main .foto4 p:nth-child(3):hover {
-  background-color: black;
-  color: white;
-}
-main .foto4 p:nth-child(3):active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
 }
 main .foto5 {
   background-image: url("../images/carsmain/8.jpg");
@@ -312,27 +281,6 @@ main .foto5 p:nth-child(1) {
 main .foto5 p:nth-child(2) {
   color: white;
   font-size: 2.5vw;
-}
-main .foto5 p:nth-child(3) {
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  background-color: white;
-  font-size: 2vw;
-  padding: 1vw 0vw;
-  margin: 1.5% auto;
-  width: 13vw;
-  font-weight: bold;
-  border-radius: 20vw;
-  transition: color 0.3s ease;
-}
-main .foto5 p:nth-child(3):hover {
-  background-color: black;
-  color: white;
-}
-main .foto5 p:nth-child(3):active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
 }
 main .bank1 {
   font-weight: bold;
@@ -352,6 +300,11 @@ main .bank div {
   border-radius: 10px;
   height: 8.5vw;
   width: 23.25%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+main .bank div:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 main .bank div:nth-child(1) img {
   margin-top: 2vw;
@@ -381,6 +334,7 @@ main .grad {
   margin-top: 50px;
   padding-bottom: 5vw;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(47, 47, 47, 0.5)), url(unknown);
+  width: 100%;
 }
 main .grad p.serv {
   font-size: 30px;
@@ -395,15 +349,23 @@ main .grad div {
   width: 85%;
   margin: 0 auto;
   gap: 20px;
+  color: white;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
 }
 main .grad div div {
   display: flex;
   flex-flow: column;
-  gap: 0px;
+  gap: 0;
   text-align: center;
   width: 30%;
   margin: 0;
   align-self: flex-start;
+  transition: transform 0.3s ease;
+}
+main .grad div div:hover {
+  transform: translateY(-6px);
 }
 main .grad div div img {
   margin: 0 auto;
@@ -420,10 +382,4 @@ main .grad div div p.text1 {
   font-size: 17px;
   margin: 0;
   line-height: 25px;
-}
-main .grad div {
-  color: white;
-  justify-content: space-around;
-  display: flex;
-  flex-wrap: wrap;
 }/*# sourceMappingURL=main.css.map */

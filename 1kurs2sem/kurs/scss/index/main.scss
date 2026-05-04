@@ -8,25 +8,13 @@ main {
     gap: 1.0vw;
     flex-wrap: wrap;
 
-    .foto1 {
-        background-image: url('../images/carsmain/4.png');
-        background-size: 100% 100%;
-
-        width: 100%;
-        height: 45vw;
-        text-align: center;
-
-        p:nth-child(1) {
-            margin-top: 4vw;
-            font-weight: bold;
-            color: white;
-            font-size: 2.5vw;
-        }
-
-        p:nth-child(2) {
-            color: white;
-            font-size: 2.5vw;
-        }
+    .foto1,
+    .foto2,
+    .foto3,
+    .foto4,
+    .foto5 {
+        overflow: hidden;
+        position: relative;
 
         p:nth-child(3) {
             cursor: pointer;
@@ -34,12 +22,12 @@ main {
             outline: none;
             background-color: white;
             font-size: 2vw;
-            padding: 1vw 0vw;
+            padding: 1vw 0;
             margin: 1.5% auto;
             width: 13vw;
             font-weight: bold;
             border-radius: 20vw;
-            transition: color 0.3s ease;
+            transition: background-color 0.3s ease, color 0.3s ease;
 
             &:hover {
                 background-color: black;
@@ -50,16 +38,39 @@ main {
                 transform: scale(0.95);
                 transition: transform 0.1s ease;
             }
+        }
+    }
 
+    .foto1 {
+        background-image: url('../images/carsmain/4.png');
+        background-size: 100% 100%;
+        width: 100%;
+        height: 45vw;
+        text-align: center;
+
+        p:nth-child(1) {
+            margin-top: 4vw;
+            font-weight: bold;
+            color: white;
+            font-size: 2.5vw;
+            animation: fadeInUp 0.7s ease both;
         }
 
+        p:nth-child(2) {
+            color: white;
+            font-size: 2.5vw;
+            animation: fadeInUp 0.7s 0.15s ease both;
+        }
 
+        p:nth-child(3) {
+            font-size: 2vw;
+            animation: fadeInUp 0.7s 0.3s ease both;
+        }
     }
 
     .foto2 {
         background-image: url('../images/carsmain/5.png');
         background-size: 100% 100%;
-
         width: 100%;
         height: 45vw;
         text-align: center;
@@ -75,33 +86,6 @@ main {
             color: white;
             font-size: 2.5vw;
         }
-
-        p:nth-child(3) {
-            cursor: pointer;
-            -webkit-tap-highlight-color: transparent;
-            outline: none;
-            background-color: white;
-            font-size: 2vw;
-            padding: 1vw 0vw;
-            margin: 1.5% auto;
-            width: 13vw;
-            font-weight: bold;
-            border-radius: 20vw;
-            transition: color 0.3s ease;
-
-            &:hover {
-                background-color: black;
-                color: white;
-            }
-
-            &:active {
-                transform: scale(0.95);
-                transition: transform 0.1s ease;
-            }
-
-        }
-
-
     }
 
     .foto3 {
@@ -125,31 +109,8 @@ main {
         }
 
         p:nth-child(3) {
-            cursor: pointer;
-            -webkit-tap-highlight-color: transparent;
-            outline: none;
-            background-color: white;
             font-size: 1.5vw;
-            padding: 1vw 0vw;
-            margin: 1.5% auto;
-            width: 13vw;
-            font-weight: bold;
-            border-radius: 20vw;
-            transition: color 0.3s ease;
-
-            &:hover {
-                background-color: black;
-                color: white;
-            }
-
-            &:active {
-                transform: scale(0.95);
-                transition: transform 0.1s ease;
-            }
-
         }
-
-
     }
 
     .foto4 {
@@ -174,37 +135,13 @@ main {
         }
 
         p:nth-child(3) {
-            cursor: pointer;
-            -webkit-tap-highlight-color: transparent;
-            outline: none;
-            background-color: white;
             font-size: 1.5vw;
-            padding: 1vw 0vw;
-            margin: 1.5% auto;
-            width: 13vw;
-            font-weight: bold;
-            border-radius: 20vw;
-            transition: color 0.3s ease;
-
-            &:hover {
-                background-color: black;
-                color: white;
-            }
-
-            &:active {
-                transform: scale(0.95);
-                transition: transform 0.1s ease;
-            }
-
         }
-
-
     }
 
     .foto5 {
         background-image: url('../images/carsmain/8.jpg');
         background-size: 100% 100%;
-
         width: 100%;
         height: 45vw;
         text-align: center;
@@ -220,33 +157,6 @@ main {
             color: white;
             font-size: 2.5vw;
         }
-
-        p:nth-child(3) {
-            cursor: pointer;
-            -webkit-tap-highlight-color: transparent;
-            outline: none;
-            background-color: white;
-            font-size: 2vw;
-            padding: 1vw 0vw;
-            margin: 1.5% auto;
-            width: 13vw;
-            font-weight: bold;
-            border-radius: 20vw;
-            transition: color 0.3s ease;
-
-            &:hover {
-                background-color: black;
-                color: white;
-            }
-
-            &:active {
-                transform: scale(0.95);
-                transition: transform 0.1s ease;
-            }
-
-        }
-
-
     }
 
     .bank1 {
@@ -268,51 +178,48 @@ main {
             border-radius: 10px;
             height: 8.5vw;
             width: 23.25%;
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
 
-        }
-
-        div:nth-child(1) {
-            img {
-                margin-top: 2vw;
-                max-width: 90%;
-                margin-left: 1vw;
-                height: auto;
+            &:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
             }
         }
 
-        div:nth-child(2) {
-            img {
-                margin-top: 2.7vw;
-                margin-left: 2vw;
-                max-width: 90%;
-                height: auto;
-            }
+        div:nth-child(1) img {
+            margin-top: 2vw;
+            max-width: 90%;
+            margin-left: 1vw;
+            height: auto;
         }
 
-        div:nth-child(3) {
-            img {
-                margin-top: 1.6vw;
-                margin-left: 2.6vw;
-                max-width: 90%;
-                height: auto;
-            }
+        div:nth-child(2) img {
+            margin-top: 2.7vw;
+            margin-left: 2vw;
+            max-width: 90%;
+            height: auto;
         }
 
-        div:nth-child(4) {
-            img {
-                margin-top: 1.8vw;
-                margin-left: 1.4vw;
-                max-width: 90%;
-                height: auto;
-            }
+        div:nth-child(3) img {
+            margin-top: 1.6vw;
+            margin-left: 2.6vw;
+            max-width: 90%;
+            height: auto;
         }
 
+        div:nth-child(4) img {
+            margin-top: 1.8vw;
+            margin-left: 1.4vw;
+            max-width: 90%;
+            height: auto;
+        }
     }
 
     .grad {
         margin-top: 50px;
-        padding-bottom:5vw ;
+        padding-bottom: 5vw;
         background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(47, 47, 47, 0.5)), url((unknown));
+        width: 100%;
 
         p.serv {
             font-size: 30px;
@@ -328,16 +235,24 @@ main {
             width: 85%;
             margin: 0 auto;
             gap: 20px;
+            color: white;
+            justify-content: space-around;
+            display: flex;
+            flex-wrap: wrap;
 
             div {
                 display: flex;
                 flex-flow: column;
-               
-                gap: 0px;
+                gap: 0;
                 text-align: center;
                 width: 30%;
                 margin: 0;
                 align-self: flex-start;
+                transition: transform 0.3s ease;
+
+                &:hover {
+                    transform: translateY(-6px);
+                }
 
                 img {
                     margin: 0 auto;
@@ -358,11 +273,6 @@ main {
                     line-height: 25px;
                 }
             }
-
-            color: white;
-            justify-content: space-around;
-            display: flex;
-            flex-wrap: wrap;
         }
     }
 }
